@@ -1,0 +1,5 @@
+# 원본 모듈/에셋과 공개 해시를 보존하기 위해 자동 줄바꿈 변환을 하지 않는다.
+* -text
+*.png binary
+*.jpg binary
+*.woff2 binary
