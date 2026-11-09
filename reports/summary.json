@@ -26,8 +26,8 @@
       "failed": 0
     },
     {
-      "total": 17,
-      "passed": 17,
+      "total": 14,
+      "passed": 14,
       "failed": 0
     }
   ],
@@ -264,26 +264,18 @@
     {
       "group": "own",
       "topic": "local",
-      "changed": true,
+      "changed": false,
       "before": {
         "transform": "none",
         "translate": "none",
         "scale": "none",
-        "child": {
-          "transform": "none",
-          "translate": "none",
-          "scale": "none"
-        }
+        "child": null
       },
       "after": {
         "transform": "none",
         "translate": "none",
         "scale": "none",
-        "child": {
-          "transform": "matrix(1, 0, 0, 1, 3, 0)",
-          "translate": "none",
-          "scale": "none"
-        }
+        "child": null
       }
     },
     {
