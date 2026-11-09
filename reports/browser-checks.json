@@ -3344,15 +3344,23 @@
         "transform": "none",
         "translate": "none",
         "scale": "none",
-        "child": null
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
       },
       "after": {
         "transform": "none",
         "translate": "none",
         "scale": "none",
-        "child": null
+        "child": {
+          "transform": "matrix(1, 0, 0, 1, 3, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
       },
-      "changed": false
+      "changed": true
     },
     {
       "name": "모션 감소에서 대상 유지",
