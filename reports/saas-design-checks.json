@@ -1,0 +1,118 @@
+{
+  "passed": true,
+  "scope": "조건별 실제 배색·배치와 선택 여백 확인. 미적 우위의 점수가 아님.",
+  "checks": [
+    {
+      "group": "none",
+      "background": "rgb(243, 246, 250)",
+      "accent": "#2861b2",
+      "sidebar": "rgb(255, 255, 255)",
+      "heading": {
+        "x": 242,
+        "y": 107,
+        "right": 1408,
+        "bottom": 205.28125
+      },
+      "state": {
+        "x": 242,
+        "y": 231.28125,
+        "right": 1408,
+        "bottom": 311.28125
+      },
+      "list": {
+        "x": 242,
+        "y": 337.28125,
+        "right": 1408,
+        "bottom": 880.1875
+      },
+      "selectPadding": [
+        "13px",
+        "48px"
+      ]
+    },
+    {
+      "group": "a",
+      "background": "rgb(255, 255, 255)",
+      "accent": "#292c33",
+      "sidebar": "rgb(248, 248, 248)",
+      "heading": {
+        "x": 234,
+        "y": 132.328125,
+        "right": 844.796875,
+        "bottom": 260.5
+      },
+      "state": {
+        "x": 880.796875,
+        "y": 113,
+        "right": 1400,
+        "bottom": 260.5
+      },
+      "list": {
+        "x": 234,
+        "y": 296.5,
+        "right": 1400,
+        "bottom": 815.40625
+      },
+      "selectPadding": [
+        "13px",
+        "48px"
+      ]
+    },
+    {
+      "group": "b",
+      "background": "rgb(245, 246, 243)",
+      "accent": "#315f4d",
+      "sidebar": "rgb(32, 44, 39)",
+      "heading": {
+        "x": 256,
+        "y": 107,
+        "right": 1408,
+        "bottom": 211.796875
+      },
+      "state": {
+        "x": 1208,
+        "y": 237.796875,
+        "right": 1408,
+        "bottom": 686.6875
+      },
+      "list": {
+        "x": 256,
+        "y": 237.796875,
+        "right": 1184,
+        "bottom": 867.125
+      },
+      "selectPadding": [
+        "13px",
+        "48px"
+      ]
+    },
+    {
+      "group": "own",
+      "background": "rgb(246, 247, 251)",
+      "accent": "#5b43d6",
+      "sidebar": "rgb(255, 255, 255)",
+      "heading": {
+        "x": 268,
+        "y": 111,
+        "right": 1400,
+        "bottom": 213.1875
+      },
+      "state": {
+        "x": 268,
+        "y": 239.1875,
+        "right": 1400,
+        "bottom": 315.1875
+      },
+      "list": {
+        "x": 268,
+        "y": 343.1875,
+        "right": 1400,
+        "bottom": 914.09375
+      },
+      "selectPadding": [
+        "13px",
+        "48px"
+      ]
+    }
+  ]
+}

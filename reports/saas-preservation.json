@@ -1,6 +1,7 @@
 {
   "passed": true,
-  "archivedFiles": 13,
+  "archiveBundles": 2,
+  "archivedFiles": 28,
   "otherCategoryPages": 24,
-  "scope": "보존본 13파일 해시 일치. 다른 카테고리 24개 화면은 인라인 공통 기능 모듈을 제외한 HTML/CSS가 동일함. 전체 기능 재검사를 의미하지 않음."
+  "scope": "두 보존본 28파일의 해시와 다른 카테고리 24개 HTML의 바이트가 이전 커밋과 일치한다."
 }
