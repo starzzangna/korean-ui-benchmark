@@ -18,3 +18,20 @@ body{--paper:#f9f6ef;--ink:#2d332c;--muted:#687060;--line:#d7d9cb;--accent:#7556
 .hero-restaurant .btn:focus-visible{outline-color:#fff7e9}
 @media(max-width:1050px){.hero-restaurant{padding:52px 32px;min-height:570px}.hero-restaurant .hero-copy{max-width:480px}.hero-restaurant h1{font-size:48px}}
 @media(max-width:700px){.hero-restaurant{display:flex;flex-direction:column;align-items:stretch;min-height:0;padding:0}.hero-restaurant .hero-media{position:relative;inset:auto;z-index:auto;order:-1;width:100%;height:300px;flex:none}.hero-restaurant .hero-photo{object-position:50% 76%}.hero-restaurant:after{display:none}.hero-restaurant .hero-copy{max-width:none;padding:30px 20px 36px}.hero-restaurant h1{font-size:40px;max-width:14ch}.hero-restaurant .hero-copy>.btn{margin-top:24px}}
+
+/* 프로젝트별 역할색: 공통 크림 바탕 대신 자료·과업에 맞춘 면을 선택한다. */
+body{--paper:#fff;--ink:#25282c;--muted:#62676f;--line:#dce0e5;--accent:#40556e;--soft:#f1f3f5}
+body[data-category=saas]{--paper:#f5f8fc;--ink:#233449;--muted:#536579;--line:#d7e0eb;--accent:#37668e;--soft:#edf2f7}
+body[data-category=brand]{--paper:#fcfbfe;--ink:#302b3b;--muted:#6d6178;--line:#e1dbe8;--accent:#72517f;--soft:#f0eaf5}
+body[data-category=local]{--paper:#f7fafb;--ink:#263c43;--muted:#596c73;--line:#d3dfe3;--accent:#395f6b;--soft:#e7eff2}
+body[data-category=restaurant]{--paper:#f9f6ef;--ink:#2d332c;--muted:#687060;--line:#d7d9cb;--accent:#9a573f;--soft:#eeeadf}
+body[data-category=professional]{--paper:#f5f8fc;--ink:#233449;--muted:#56677b;--line:#d4deeb;--accent:#365f8b;--soft:#e7eef8}
+body[data-category=event]{--paper:#f4f7fa;--ink:#233b4b;--muted:#556979;--line:#d1dde5;--accent:#31566a;--soft:#e5edf2}
+.hero-local,.hero-professional{--accent:inherit}
+.intro-note,.intro-note>span,.course .choose[aria-pressed=true]{background:var(--soft);color:var(--ink);border-color:var(--line)}
+.hero-professional .document{background:var(--soft);border-color:#bdcddd;box-shadow:0 12px 30px #2334490c}
+.hero-professional .document:before{background:#dce5f0;border-color:#c3cfdd}
+.document dt{color:var(--muted)}
+.service-panel{background:#293f5b;color:#f4f7fc}.service-panel>p{color:#d8e3f1}.service-panel li{border-color:#70839b}.service-panel .text-button{color:#f4f7fc}.service-option[aria-pressed=true]{background:var(--soft)}
+body[data-category=portfolio] .hero-work,body[data-category=portfolio] .work-card .image-button{background:var(--soft)}
+.product-grid .product-card .save-button[aria-pressed=true]{color:var(--accent)}

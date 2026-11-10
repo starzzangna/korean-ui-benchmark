@@ -1,0 +1,111 @@
+{
+  "passed": true,
+  "scope": "본문·보조문구와 기본 행동색의 텍스트 대비. 사진 배경 전체·모든 상태의 접근성 인증은 아님.",
+  "checks": [
+    {
+      "topic": "saas",
+      "colors": {
+        "paper": "#f5f8fc",
+        "ink": "#233449",
+        "muted": "#536579",
+        "accent": "#37668e",
+        "soft": "#edf2f7"
+      },
+      "contrasts": {
+        "body": 11.884667330575063,
+        "muted": 5.624263912610976,
+        "action": 6.080625146148892
+      }
+    },
+    {
+      "topic": "brand",
+      "colors": {
+        "paper": "#fcfbfe",
+        "ink": "#302b3b",
+        "muted": "#6d6178",
+        "accent": "#72517f",
+        "soft": "#f0eaf5"
+      },
+      "contrasts": {
+        "body": 13.27514391782291,
+        "muted": 5.609266249192965,
+        "action": 6.564726783846087
+      }
+    },
+    {
+      "topic": "local",
+      "colors": {
+        "paper": "#f7fafb",
+        "ink": "#263c43",
+        "muted": "#596c73",
+        "accent": "#395f6b",
+        "soft": "#e7eff2"
+      },
+      "contrasts": {
+        "body": 11.06310413398195,
+        "muted": 5.245013952485691,
+        "action": 6.946368530430788
+      }
+    },
+    {
+      "topic": "restaurant",
+      "colors": {
+        "paper": "#f9f6ef",
+        "ink": "#2d332c",
+        "muted": "#687060",
+        "accent": "#9a573f",
+        "soft": "#eeeadf"
+      },
+      "contrasts": {
+        "body": 11.999331659583033,
+        "muted": 4.774422018568554,
+        "action": 5.5131723733060465
+      }
+    },
+    {
+      "topic": "portfolio",
+      "colors": {
+        "paper": "#fff",
+        "ink": "#25282c",
+        "muted": "#62676f",
+        "accent": "#80523b",
+        "soft": "#f1f3f5"
+      },
+      "contrasts": {
+        "body": 14.803854367862586,
+        "muted": 5.6926418211378085,
+        "action": 6.587388887166083
+      }
+    },
+    {
+      "topic": "professional",
+      "colors": {
+        "paper": "#f5f8fc",
+        "ink": "#233449",
+        "muted": "#56677b",
+        "accent": "#365f8b",
+        "soft": "#e7eef8"
+      },
+      "contrasts": {
+        "body": 11.884667330575063,
+        "muted": 5.443459677308911,
+        "action": 6.631815801039109
+      }
+    },
+    {
+      "topic": "event",
+      "colors": {
+        "paper": "#f4f7fa",
+        "ink": "#233b4b",
+        "muted": "#556979",
+        "accent": "#31566a",
+        "soft": "#e5edf2"
+      },
+      "contrasts": {
+        "body": 10.858889658519837,
+        "muted": 5.30313163203221,
+        "action": 7.865667937857513
+      }
+    }
+  ]
+}
