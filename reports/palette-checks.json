@@ -5,16 +5,16 @@
     {
       "topic": "saas",
       "colors": {
-        "paper": "#f7f8fb",
-        "ink": "#202939",
-        "muted": "#657184",
-        "accent": "#2857d7",
-        "soft": "#f0f3fa"
+        "paper": "#f6f7fb",
+        "ink": "#242c40",
+        "muted": "#65718a",
+        "accent": "#5b43d6",
+        "soft": "#f0ecfc"
       },
       "contrasts": {
-        "body": 13.754735962003926,
-        "muted": 4.654449185491415,
-        "action": 6.113963295928014
+        "body": 12.996504943338822,
+        "muted": 4.580594765688663,
+        "action": 6.52437495629398
       }
     },
     {

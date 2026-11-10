@@ -12,6 +12,8 @@
 
 **[GitHub Pages에서 4군 비교 페이지 열기](https://starzzangna.github.io/korean-ui-benchmark/)**
 
+SaaS는 **흰 좌측 메뉴·보라색 강조·상단 대기/진행/완료 카드**를 네 군의 공통 조건으로 다시 작성했습니다. [SaaS 비교 바로 보기](https://starzzangna.github.io/korean-ui-benchmark/#saas) · [공통 조건](docs/SAAS_BRIEF.md) · [이전 SaaS 비교본](https://starzzangna.github.io/korean-ui-benchmark/archive/saas-before-status-cards/)
+
 설치 없이 7개 카테고리의 **no skill / A / B / 자체 스킬**을 비교할 수 있습니다. 화면에서 4군·2군 보기, 모바일 폭, 카테고리를 선택하고 각 시안의 기능과 모션을 직접 확인하세요. 실제 신청·결제·메일 전송은 하지 않는 로컬 상태 기반 데모입니다.
 
 ## 실행
@@ -33,6 +35,7 @@ npm run check
 npx playwright install chromium
 npm test
 npm run test:branches
+npm run test:saas
 ```
 
 `npm test`와 `test:branches`는 별도 검사 서버4311을 시작하고 종료합니다. 결과/스크린샷은 Git에서 제외되는 `artifacts/`에 저장됩니다. 이미 실행 중인 서버를 쓰려면 `BASE_URL`, 설치된 Chromium 계열 브라우저를 쓰려면 `CHROME_PATH` 환경 변수를 지정합니다. 기본 검사에는 `QA_GROUP=none|a|b|own`, `QA_TOPIC=brand` 또는 `local,portfolio` 등으로 범위를 좁힐 수 있습니다. 선택지 연결 검사는 모든 필수 값의 대표 결과를 확인합니다.

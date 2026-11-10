@@ -11,7 +11,8 @@
     "build": "node scripts/build.mjs",
     "check": "node scripts/check.mjs",
     "test": "node scripts/qa.mjs",
-    "test:branches": "node scripts/branches.mjs"
+    "test:branches": "node scripts/branches.mjs",
+    "test:saas": "node scripts/saas-check.mjs"
   },
   "devDependencies": {
     "playwright": "1.62.1"
