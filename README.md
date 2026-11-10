@@ -12,6 +12,8 @@
 
 **[GitHub Pages에서 4군 비교 페이지 열기](https://starzzangna.github.io/korean-ui-benchmark/)**
 
+브랜드·로컬·식당·포트폴리오·전문 서비스·행사도 **공통 데이터·기능 + no skill / A / B / 자체 스킬** 조건으로 다시 설계했습니다. 배색과 대표 구도는 고정하지 않습니다. [6개 카테고리 입력/구도/검사 범위](docs/CATEGORY_BRIEF.md) · [직전 28개 비교본](https://starzzangna.github.io/korean-ui-benchmark/archive/before-category-redesign/)
+
 SaaS는 **같은 업무·기능·필수 탐색 요구 + 각 군의 디자인 지침**으로 다시 설계했습니다. 배색·상태 영역 위치·간격·조판·카드 형태는 공통으로 고정하지 않습니다. 흰 메뉴·보라색·상단 카드형은 자체군에만 사용자 선호로 반영했습니다. [SaaS 비교](https://starzzangna.github.io/korean-ui-benchmark/#saas) · [입력과 비교 범위](docs/SAAS_BRIEF.md) · [구조까지 고정했던 직전 비교본](https://starzzangna.github.io/korean-ui-benchmark/archive/saas-fixed-layout-comparison/)
 
 설치 없이 7개 카테고리의 **no skill / A / B / 자체 스킬**을 비교할 수 있습니다. 화면에서 4군·2군 보기, 모바일 폭, 카테고리를 선택하고 각 시안의 기능과 모션을 직접 확인하세요. 실제 신청·결제·메일 전송은 하지 않는 로컬 상태 기반 데모입니다.

@@ -12,4 +12,4 @@
 | 전문 서비스 | `#f5f8fc` / `#365f8b` | 문서·서비스 범위의 정보 위계를 청회색 면과 진한 잉크 블루로 연결한다. 기존 녹색 문서/선택 면도 함께 바꾼다. |
 | 행사 | `#f4f7fa` / `#31566a` | 승인된 남색·호박색 포스터는 유지하고 이어지는 일정·신청 면을 차가운 중립색으로 연결한다. |
 
-소개형 자체 시안의 역할색은 `src/own.css`, 업무 화면의 공통 구성과 군별 표현은 `src/saas-layout.mjs`·`src/saas.css`·`src/saas-conditions.css`에서 지정한다. [SaaS 공통 조건](SAAS_BRIEF.md)에 따라 바탕과 상태·행동의 실제 역할을 확인한다. 색 차이가 디자인 품질이나 스킬의 인과 효과를 입증하지는 않는다.
+소개형 자체 시안의 역할색은 `src/design-own.css`에서 정한다. 다른 군은 각 `design-none.css`·`design-a.css`·`design-b.css`에서 별도로 선택하며 위 표의 자체 팔레트를 공통 제약으로 받지 않는다. [카테고리별 실제 구도](CATEGORY_BRIEF.md)도 함께 확인한다. 업무 화면의 구성과 군별 표현은 `src/saas-layout.mjs`·`src/saas.css`·`src/saas-conditions.css`에서 지정한다. 색 차이가 디자인 품질이나 스킬의 인과 효과를 입증하지는 않는다.

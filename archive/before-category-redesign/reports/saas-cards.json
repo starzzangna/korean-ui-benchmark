@@ -1,0 +1,78 @@
+{
+  "passed": true,
+  "total": 8,
+  "checks": [
+    {
+      "group": "none",
+      "width": 390,
+      "cardAndMenuSync": true,
+      "countsAfterEditAndAdd": true,
+      "mobileKeyboard": true,
+      "reducedMotion": true,
+      "text200": true
+    },
+    {
+      "group": "none",
+      "width": 1440,
+      "cardAndMenuSync": true,
+      "countsAfterEditAndAdd": true,
+      "mobileKeyboard": true,
+      "reducedMotion": true,
+      "text200": true
+    },
+    {
+      "group": "a",
+      "width": 390,
+      "cardAndMenuSync": true,
+      "countsAfterEditAndAdd": true,
+      "mobileKeyboard": true,
+      "reducedMotion": true,
+      "text200": true
+    },
+    {
+      "group": "a",
+      "width": 1440,
+      "cardAndMenuSync": true,
+      "countsAfterEditAndAdd": true,
+      "mobileKeyboard": true,
+      "reducedMotion": true,
+      "text200": true
+    },
+    {
+      "group": "b",
+      "width": 390,
+      "cardAndMenuSync": true,
+      "countsAfterEditAndAdd": true,
+      "mobileKeyboard": true,
+      "reducedMotion": true,
+      "text200": true
+    },
+    {
+      "group": "b",
+      "width": 1440,
+      "cardAndMenuSync": true,
+      "countsAfterEditAndAdd": true,
+      "mobileKeyboard": true,
+      "reducedMotion": true,
+      "text200": true
+    },
+    {
+      "group": "own",
+      "width": 390,
+      "cardAndMenuSync": true,
+      "countsAfterEditAndAdd": true,
+      "mobileKeyboard": true,
+      "reducedMotion": true,
+      "text200": true
+    },
+    {
+      "group": "own",
+      "width": 1440,
+      "cardAndMenuSync": true,
+      "countsAfterEditAndAdd": true,
+      "mobileKeyboard": true,
+      "reducedMotion": true,
+      "text200": true
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "passed": true,
+  "scope": "조건별 실제 구도·본문/보조 대비·선택 여백·대표 이미지 행동과 자체 포트폴리오 정렬. 미적 우위의 점수는 아님.",
+  "checks": [
+    {
+      "topic": "brand",
+      "group": "none",
+      "palette": {
+        "paper": "#fff",
+        "ink": "#27313c",
+        "muted": "#5d6b79",
+        "accent": "#3864a9"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 559.5,
+        "columns": "610px 610px",
+        "order": [
+          "hero-copy",
+          "hero-media"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "brand",
+      "group": "a",
+      "palette": {
+        "paper": "#fafafa",
+        "ink": "#22262a",
+        "muted": "#61676e",
+        "accent": "#303b46"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 603.921875,
+        "columns": "1280px",
+        "order": [
+          "hero-copy",
+          "hero-media"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 3,
+      "passed": true
+    },
+    {
+      "topic": "brand",
+      "group": "b",
+      "palette": {
+        "paper": "#f6f5ef",
+        "ink": "#2d382c",
+        "muted": "#62705f",
+        "accent": "#4f6146"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 734.171875,
+        "columns": "680px 544px",
+        "order": [
+          "hero-media",
+          "hero-copy"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "brand",
+      "group": "own",
+      "palette": {
+        "paper": "#fcfbfe",
+        "ink": "#302b3b",
+        "muted": "#6d6178",
+        "accent": "#72517f"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 841.625,
+        "columns": "1280px",
+        "order": [
+          "hero-media",
+          "hero-copy"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "local",
+      "group": "none",
+      "palette": {
+        "paper": "#fff",
+        "ink": "#27313c",
+        "muted": "#5d6b79",
+        "accent": "#326b76"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 559.5,
+        "columns": "610px 610px",
+        "order": [
+          "hero-copy",
+          "hero-media"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "local",
+      "group": "a",
+      "palette": {
+        "paper": "#fcfbfd",
+        "ink": "#312a3d",
+        "muted": "#6d627b",
+        "accent": "#57446d"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 762.640625,
+        "columns": "1280px",
+        "order": [
+          "hero-media",
+          "hero-copy"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "local",
+      "group": "b",
+      "palette": {
+        "paper": "#f4f7fa",
+        "ink": "#293d4e",
+        "muted": "#5c7181",
+        "accent": "#2f516c"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 722.890625,
+        "columns": "581.891px 640.109px",
+        "order": [
+          "hero-copy",
+          "hero-media"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "local",
+      "group": "own",
+      "palette": {
+        "paper": "#f7fafb",
+        "ink": "#263c43",
+        "muted": "#596c73",
+        "accent": "#395f6b"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 648.9375,
+        "columns": "639.047px 580.953px",
+        "order": [
+          "hero-media",
+          "hero-copy"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "restaurant",
+      "group": "none",
+      "palette": {
+        "paper": "#fff",
+        "ink": "#27313c",
+        "muted": "#5d6b79",
+        "accent": "#9a5138"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 559.5,
+        "columns": "610px 610px",
+        "order": [
+          "hero-copy",
+          "hero-media"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "restaurant",
+      "group": "a",
+      "palette": {
+        "paper": "#fffaf4",
+        "ink": "#342c28",
+        "muted": "#75645a",
+        "accent": "#973e35"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 687.875,
+        "columns": "1280px",
+        "order": [
+          "hero-media",
+          "hero-copy"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "restaurant",
+      "group": "b",
+      "palette": {
+        "paper": "#faf5ec",
+        "ink": "#392f29",
+        "muted": "#77685b",
+        "accent": "#70462e"
+      },
+      "hero": {
+        "width": 1440,
+        "height": 630,
+        "columns": "minmax(0px, 1fr) minmax(0px, 1fr)",
+        "order": [
+          "hero-media",
+          "hero-copy"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "restaurant",
+      "group": "own",
+      "palette": {
+        "paper": "#f9f6ef",
+        "ink": "#2d332c",
+        "muted": "#687060",
+        "accent": "#9a573f"
+      },
+      "hero": {
+        "width": 1440,
+        "height": 620,
+        "columns": "minmax(0px, 1fr) minmax(0px, 1fr)",
+        "order": [
+          "hero-media",
+          "hero-copy"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "portfolio",
+      "group": "none",
+      "palette": {
+        "paper": "#fff",
+        "ink": "#27313c",
+        "muted": "#5d6b79",
+        "accent": "#3d536e"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 541.65625,
+        "columns": "610px 610px",
+        "order": [
+          "hero-copy",
+          "hero-media"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 1,
+      "passed": true
+    },
+    {
+      "topic": "portfolio",
+      "group": "a",
+      "palette": {
+        "paper": "#fff",
+        "ink": "#26292d",
+        "muted": "#626a72",
+        "accent": "#26292d"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 712.03125,
+        "columns": "1280px",
+        "order": [
+          "hero-media",
+          "hero-copy"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 2,
+      "passed": true
+    },
+    {
+      "topic": "portfolio",
+      "group": "b",
+      "palette": {
+        "paper": "#fcfdfb",
+        "ink": "#26332d",
+        "muted": "#5b6d63",
+        "accent": "#3d5f4f"
+      },
+      "hero": {
+        "width": 1440,
+        "height": 779.734375,
+        "columns": "1280px",
+        "order": [
+          "hero-copy",
+          "hero-media"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 2,
+      "passed": true
+    },
+    {
+      "topic": "portfolio",
+      "group": "own",
+      "palette": {
+        "paper": "#fff",
+        "ink": "#25282c",
+        "muted": "#62676f",
+        "accent": "#40556e"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 714.078125,
+        "columns": "1280px",
+        "order": [
+          "hero-copy",
+          "hero-media"
+        ]
+      },
+      "arrowPadding": "48px",
+      "heroActions": 2,
+      "passed": true
+    },
+    {
+      "topic": "professional",
+      "group": "none",
+      "palette": {
+        "paper": "#fff",
+        "ink": "#27313c",
+        "muted": "#5d6b79",
+        "accent": "#355c85"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 507.171875,
+        "columns": "610px 610px",
+        "order": [
+          "hero-copy",
+          "hero-media"
+        ]
+      },
+      "arrowPadding": null,
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "professional",
+      "group": "a",
+      "palette": {
+        "paper": "#fbfcfe",
+        "ink": "#253847",
+        "muted": "#576b7b",
+        "accent": "#29435d"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 558.765625,
+        "columns": "619.75px 590.234px",
+        "order": [
+          "hero-media",
+          "hero-copy"
+        ]
+      },
+      "arrowPadding": null,
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "professional",
+      "group": "b",
+      "palette": {
+        "paper": "#fbf7f8",
+        "ink": "#3c2d35",
+        "muted": "#75616c",
+        "accent": "#6d3f4f"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 522.984375,
+        "columns": "606px 606px",
+        "order": [
+          "hero-copy",
+          "hero-media"
+        ]
+      },
+      "arrowPadding": null,
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "professional",
+      "group": "own",
+      "palette": {
+        "paper": "#f5f8fc",
+        "ink": "#233449",
+        "muted": "#56677b",
+        "accent": "#365f8b"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 499.96875,
+        "columns": "610px 610px",
+        "order": [
+          "hero-copy",
+          "hero-media"
+        ]
+      },
+      "arrowPadding": null,
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "event",
+      "group": "none",
+      "palette": {
+        "paper": "#fff",
+        "ink": "#27313c",
+        "muted": "#5d6b79",
+        "accent": "#3b58a0"
+      },
+      "hero": {
+        "width": 1280,
+        "height": 492.53125,
+        "columns": "610px 610px",
+        "order": [
+          "hero-copy",
+          "hero-media"
+        ]
+      },
+      "arrowPadding": null,
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "event",
+      "group": "a",
+      "palette": {
+        "paper": "#fffaf3",
+        "ink": "#3d2928",
+        "muted": "#79605e",
+        "accent": "#923f3c"
+      },
+      "hero": {
+        "width": 1440,
+        "height": 576.03125,
+        "columns": "1440px",
+        "order": [
+          "hero-media",
+          "hero-copy"
+        ]
+      },
+      "arrowPadding": null,
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "event",
+      "group": "b",
+      "palette": {
+        "paper": "#f7f8f1",
+        "ink": "#28382d",
+        "muted": "#61715e",
+        "accent": "#45613d"
+      },
+      "hero": {
+        "width": 1440,
+        "height": 504.6875,
+        "columns": "522.844px 697.156px",
+        "order": [
+          "hero-copy",
+          "hero-media"
+        ]
+      },
+      "arrowPadding": null,
+      "heroActions": 0,
+      "passed": true
+    },
+    {
+      "topic": "event",
+      "group": "own",
+      "palette": {
+        "paper": "#f4f7fa",
+        "ink": "#233b4b",
+        "muted": "#556979",
+        "accent": "#31566a"
+      },
+      "hero": {
+        "width": 1440,
+        "height": 522.015625,
+        "columns": "1280px",
+        "order": [
+          "hero-copy",
+          "hero-media"
+        ]
+      },
+      "arrowPadding": null,
+      "heroActions": 0,
+      "passed": true
+    }
+  ]
+}

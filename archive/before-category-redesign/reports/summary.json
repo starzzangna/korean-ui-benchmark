@@ -1,0 +1,308 @@
+{
+  "passed": true,
+  "uniqueChecks": 401,
+  "passedChecks": 401,
+  "counts": {
+    "주요 기능과 오류 복구": 56,
+    "필수 선택지·키보드": 56,
+    "기본 화면·실행 오류·전송 없음": 56,
+    "추가 폭 레이아웃": 84,
+    "글자200%": 56,
+    "글자·행간200%": 56,
+    "실제 포인터 모션 관찰": 12,
+    "모션 감소에서 대상 유지": 12,
+    "터치 대상 실제 조작": 12,
+    "비교 UI 4군/2군·카테고리·화면 폭": 1
+  },
+  "passes": [
+    {
+      "total": 401,
+      "passed": 401,
+      "failed": 0
+    },
+    {
+      "total": 129,
+      "passed": 129,
+      "failed": 0
+    },
+    {
+      "total": 53,
+      "passed": 53,
+      "failed": 0
+    }
+  ],
+  "branchChecks": 248,
+  "browser": "156.0.8078.80",
+  "node": "v24.22.1",
+  "motion": [
+    {
+      "group": "none",
+      "topic": "brand",
+      "changed": false,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      }
+    },
+    {
+      "group": "none",
+      "topic": "local",
+      "changed": false,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": null
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": null
+      }
+    },
+    {
+      "group": "none",
+      "topic": "portfolio",
+      "changed": false,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      }
+    },
+    {
+      "group": "a",
+      "topic": "brand",
+      "changed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1.03, 0, 0, 1.03, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      }
+    },
+    {
+      "group": "a",
+      "topic": "local",
+      "changed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": null
+      },
+      "after": {
+        "transform": "matrix(1, 0, 0, 1, 0, -1)",
+        "translate": "none",
+        "scale": "none",
+        "child": null
+      }
+    },
+    {
+      "group": "a",
+      "topic": "portfolio",
+      "changed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1.03, 0, 0, 1.03, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      }
+    },
+    {
+      "group": "b",
+      "topic": "brand",
+      "changed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1.035, 0, 0, 1.035, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      }
+    },
+    {
+      "group": "b",
+      "topic": "local",
+      "changed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": null
+      },
+      "after": {
+        "transform": "matrix(1, 0, 0, 1, 0, -3)",
+        "translate": "none",
+        "scale": "none",
+        "child": null
+      }
+    },
+    {
+      "group": "b",
+      "topic": "portfolio",
+      "changed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1.035, 0, 0, 1.035, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      }
+    },
+    {
+      "group": "own",
+      "topic": "brand",
+      "changed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "matrix(1, 0, 0, 1, 0, -4)",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1.02, 0, 0, 1.02, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      }
+    },
+    {
+      "group": "own",
+      "topic": "local",
+      "changed": false,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": null
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": null
+      }
+    },
+    {
+      "group": "own",
+      "topic": "portfolio",
+      "changed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "matrix(1, 0, 0, 1, 0, -4)",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1.02, 0, 0, 1.02, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      }
+    }
+  ],
+  "method": "단일 작성자·공통 기능 엔진·동일 요구 데이터. 전체 검사 후 영향 범위 재검사의 최신 결과로 중복 관찰을 교체했다. 미적 점수/인과 효과/독립 실험으로 해석하지 않는다."
+}

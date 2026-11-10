@@ -1,0 +1,47 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "topic": "brand",
+      "entryCalls": 5,
+      "reducedMotion": true,
+      "runtimeCancellation": true,
+      "controlsExcluded": true
+    },
+    {
+      "topic": "local",
+      "entryCalls": 5,
+      "reducedMotion": true,
+      "runtimeCancellation": true,
+      "controlsExcluded": true
+    },
+    {
+      "topic": "restaurant",
+      "entryCalls": 5,
+      "reducedMotion": true,
+      "runtimeCancellation": true,
+      "controlsExcluded": true
+    },
+    {
+      "topic": "portfolio",
+      "entryCalls": 5,
+      "reducedMotion": true,
+      "runtimeCancellation": true,
+      "controlsExcluded": true
+    },
+    {
+      "topic": "professional",
+      "entryCalls": 5,
+      "reducedMotion": true,
+      "runtimeCancellation": true,
+      "controlsExcluded": true
+    },
+    {
+      "topic": "event",
+      "entryCalls": 5,
+      "reducedMotion": true,
+      "runtimeCancellation": true,
+      "controlsExcluded": true
+    }
+  ]
+}
