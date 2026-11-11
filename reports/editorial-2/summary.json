@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "edition": "editorial-2",
+  "sites": 28,
+  "counts": {
+    "base": 401,
+    "selectionValues": 248,
+    "layoutMotionAndPreservation": 295,
+    "saasFlow": 8
+  },
+  "browser": "157.0.8103.50",
+  "method": "같은 작성자·공통 데이터와 기능 계약·군별 별도 페이지 구성. 검사 건수는 독립 표본이나 디자인 선호 점수가 아니다."
+}

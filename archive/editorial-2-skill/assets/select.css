@@ -1,0 +1,9 @@
+/* 선택 표시만 공통화한다. 네이티브 select의 값·초점·키보드 동작은 유지한다. */
+.kui-select-shell{--select-arrow-size:16px;--select-arrow-inset:12px;--select-arrow-gap:12px;position:relative;display:block;width:100%;min-width:0;max-width:100%;isolation:isolate}
+.kui-select-shell>select.kui-select-native{display:block;box-sizing:border-box;width:100%;min-width:0;max-width:100%;appearance:none;-webkit-appearance:none;background-image:none;padding-inline-end:calc(var(--select-arrow-inset) + var(--select-arrow-size) + var(--select-arrow-gap));text-overflow:ellipsis}
+.kui-select-shell>svg.kui-select-arrow{position:absolute;inset-inline-end:var(--select-arrow-inset);top:50%;transform:translateY(-50%);display:block;width:var(--select-arrow-size);height:var(--select-arrow-size);fill:none;stroke:currentColor;stroke-width:1.75;stroke-linecap:round;stroke-linejoin:round;pointer-events:none;user-select:none}
+.kui-select-shell>select:disabled+svg.kui-select-arrow{opacity:.45}
+@media(forced-colors:active){.kui-select-shell>select.kui-select-native{appearance:auto;-webkit-appearance:auto;padding-inline-end:12px}.kui-select-shell>svg.kui-select-arrow{display:none}}
+/* 한 줄 선택값이 부족한 경우에만 전체 값을 조작 상자 밖에 보여준다. */
+.kui-select-value{display:block;min-width:0;margin-block-start:6px;font-size:.875em;line-height:1.5;overflow-wrap:anywhere;color:inherit}
+.kui-select-value[hidden]{display:none}

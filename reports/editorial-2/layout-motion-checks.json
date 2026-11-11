@@ -1,0 +1,4333 @@
+{
+  "scope": "정렬/확대/회전/실제 모션·복귀·감소/DOM 구성 분리/보존 실행. 기하 검사와 주관적 디자인 선호를 구분한다.",
+  "total": 295,
+  "passed": 295,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "none",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 30,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "saas",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "saas",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "none",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "none",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "a",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 36,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "saas",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "saas",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "a",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "a",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "b",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 32,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "saas",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "saas",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "b",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "b",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "own",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 32,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "saas",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "saas",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "own",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "own",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "none",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 48,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "brand",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "brand",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "none",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "none",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "라운드 모달·내부 투명 레일",
+      "group": "none",
+      "topic": "brand",
+      "passed": true,
+      "evidence": {
+        "outerOverflow": "hidden",
+        "innerOverflow": "auto",
+        "scrollbarColor": "rgb(139, 150, 158) rgba(0, 0, 0, 0)",
+        "radius": "20px"
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "a",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 63.36,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "brand",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "brand",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "a",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "a",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "라운드 모달·내부 투명 레일",
+      "group": "a",
+      "topic": "brand",
+      "passed": true,
+      "evidence": {
+        "outerOverflow": "hidden",
+        "innerOverflow": "auto",
+        "scrollbarColor": "rgb(139, 150, 158) rgba(0, 0, 0, 0)",
+        "radius": "20px"
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "b",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 63.36,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "brand",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "brand",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "b",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "b",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "라운드 모달·내부 투명 레일",
+      "group": "b",
+      "topic": "brand",
+      "passed": true,
+      "evidence": {
+        "outerOverflow": "hidden",
+        "innerOverflow": "auto",
+        "scrollbarColor": "rgb(139, 150, 158) rgba(0, 0, 0, 0)",
+        "radius": "20px"
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 0,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "own",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 56,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "brand",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 0,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 0,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 0,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "brand",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 0,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "own",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 0,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "own",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 0,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "라운드 모달·내부 투명 레일",
+      "group": "own",
+      "topic": "brand",
+      "passed": true,
+      "evidence": {
+        "outerOverflow": "hidden",
+        "innerOverflow": "auto",
+        "scrollbarColor": "rgb(139, 150, 158) rgba(0, 0, 0, 0)",
+        "radius": "20px"
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "none",
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 63.36,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "local",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "local",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "none",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "none",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "a",
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 48,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "local",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "local",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "a",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "a",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "b",
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 63.36,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "local",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "local",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "b",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "b",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "own",
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 63.36,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "local",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "local",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "own",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "own",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 48,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 48,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 63.36,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 52,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 63.36,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "라운드 모달·내부 투명 레일",
+      "group": "none",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": {
+        "outerOverflow": "hidden",
+        "innerOverflow": "auto",
+        "scrollbarColor": "rgb(139, 150, 158) rgba(0, 0, 0, 0)",
+        "radius": "20px"
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 63.36,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "라운드 모달·내부 투명 레일",
+      "group": "a",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": {
+        "outerOverflow": "hidden",
+        "innerOverflow": "auto",
+        "scrollbarColor": "rgb(139, 150, 158) rgba(0, 0, 0, 0)",
+        "radius": "20px"
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 63.36,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "라운드 모달·내부 투명 레일",
+      "group": "b",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": {
+        "outerOverflow": "hidden",
+        "innerOverflow": "auto",
+        "scrollbarColor": "rgb(139, 150, 158) rgba(0, 0, 0, 0)",
+        "radius": "20px"
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 49,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "라운드 모달·내부 투명 레일",
+      "group": "own",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": {
+        "outerOverflow": "hidden",
+        "innerOverflow": "auto",
+        "scrollbarColor": "rgb(139, 150, 158) rgba(0, 0, 0, 0)",
+        "radius": "20px"
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "none",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 63.36,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "professional",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "professional",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "none",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "none",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "a",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 88,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "professional",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "professional",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "a",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "a",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "b",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 63.36,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "professional",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "professional",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "b",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "b",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "own",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 56,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "professional",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "professional",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "own",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "own",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 1,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "none",
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 63.36,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "event",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "none",
+      "topic": "event",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "none",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true,
+        "rotatedIconInsideSummary": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "none",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true,
+        "rotatedIconInsideSummary": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "a",
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 110,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "event",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "a",
+      "topic": "event",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "a",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true,
+        "rotatedIconInsideSummary": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "a",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true,
+        "rotatedIconInsideSummary": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "b",
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 63.36,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "event",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "b",
+      "topic": "event",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "b",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true,
+        "rotatedIconInsideSummary": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "b",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true,
+        "rotatedIconInsideSummary": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "실제 제목·글꼴 적용",
+      "group": "own",
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "size": 96,
+        "weight": "700",
+        "font": "Pretendard, system-ui, sans-serif",
+        "loaded": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "event",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "기본 그룹·컨트롤·카드 정렬",
+      "group": "own",
+      "topic": "event",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "own",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true,
+        "rotatedIconInsideSummary": true
+      }
+    },
+    {
+      "name": "확대 그룹·아이콘·카드 내부",
+      "group": "own",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "iconTextGroups": 2,
+        "parallelControlHeights": true,
+        "selectInset": 18,
+        "equalRowTitleAxes": true,
+        "stateCardGroupAxes": true,
+        "rotatedIconInsideSummary": true
+      }
+    },
+    {
+      "name": "페이지 DOM 구성 분리",
+      "topic": "saas",
+      "passed": true,
+      "evidence": [
+        {
+          "group": "none",
+          "sha256": "1ff109c0d1fd8805e3fa365fea2803dea639855fa5da61b5c2a3d5be148b2524"
+        },
+        {
+          "group": "a",
+          "sha256": "8971c10f4698a778832019ab716409d2d5ab138746de4f0f8872ab8f799c11ba"
+        },
+        {
+          "group": "b",
+          "sha256": "fd08221e322e32842375e08e12830bed1f9d2e1d228b305d975b062fab815598"
+        },
+        {
+          "group": "own",
+          "sha256": "99df3a8dc4396572319f9788efe4a8fe75480916bf35cb6377273ea635602311"
+        }
+      ]
+    },
+    {
+      "name": "페이지 DOM 구성 분리",
+      "topic": "brand",
+      "passed": true,
+      "evidence": [
+        {
+          "group": "none",
+          "sha256": "1234efb34525927216f0731fe18c2b8c713e98be3ed03978f4055dc5d9ffbe4b"
+        },
+        {
+          "group": "a",
+          "sha256": "335ec96eda81f265458016ba9cd8db65516235bb5b1eac30a2ccf3e14403b719"
+        },
+        {
+          "group": "b",
+          "sha256": "a5ae0e3672c69b3028d8e718b8cc7b42d6de9df245e6b0c4458122a340c3e66b"
+        },
+        {
+          "group": "own",
+          "sha256": "1b57af0a94c1c2626fb7f19df83695235a8dae36408e5872f58224c2c30747d2"
+        }
+      ]
+    },
+    {
+      "name": "페이지 DOM 구성 분리",
+      "topic": "local",
+      "passed": true,
+      "evidence": [
+        {
+          "group": "none",
+          "sha256": "e2611aea6f890fcaf71893f392f38a91b0c2a12df879a7a1f3f1c9f5a228c680"
+        },
+        {
+          "group": "a",
+          "sha256": "4dbf0694b0f3f33b2e0b19ebe3d42fe2a02bb23d50969aa51460bf04fa9963ad"
+        },
+        {
+          "group": "b",
+          "sha256": "deb8f42e8bbf1f9ec7f00395121ab2eff49f31e793d7ff994c66143e0cb15015"
+        },
+        {
+          "group": "own",
+          "sha256": "7269eaaec41a4e71b39333c729cde8ed241c1244d213a8ef291e138c5820c83f"
+        }
+      ]
+    },
+    {
+      "name": "페이지 DOM 구성 분리",
+      "topic": "restaurant",
+      "passed": true,
+      "evidence": [
+        {
+          "group": "none",
+          "sha256": "44ecd20c08c28d88c0cc489445dfd2c7495a4019d2c7915fafab2f7417749763"
+        },
+        {
+          "group": "a",
+          "sha256": "fb95bef113464362df37e71d429219ba291bde7d91943460c91b61bf1c1b7b57"
+        },
+        {
+          "group": "b",
+          "sha256": "5c604acda633fdc0826c22b8d3bdc9810be588cb3104440d199445f6e7025ff6"
+        },
+        {
+          "group": "own",
+          "sha256": "cf44a370a50749da7af5162f91f2079d11df12227a18a2c1764f3b5ecc976a5c"
+        }
+      ]
+    },
+    {
+      "name": "페이지 DOM 구성 분리",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": [
+        {
+          "group": "none",
+          "sha256": "5bd74978f63c1b3f2c63cbc7211113aa887e9dd4225608cd6ecb042d0b0b84b2"
+        },
+        {
+          "group": "a",
+          "sha256": "4e25b5dc3037376be99f92bc328e76c73f845da941bee674e0a96c17e17fac39"
+        },
+        {
+          "group": "b",
+          "sha256": "8efaf3ad16cda088e6bdbeefbd0394cbc86f5332124418357c3aa99ca9b95c1c"
+        },
+        {
+          "group": "own",
+          "sha256": "feb38968a12ad9ad03ee8268c9a0ad3816369f821c2dd4ee7cf3e4aefb074d62"
+        }
+      ]
+    },
+    {
+      "name": "페이지 DOM 구성 분리",
+      "topic": "professional",
+      "passed": true,
+      "evidence": [
+        {
+          "group": "none",
+          "sha256": "11c55dde78048a1705188c992ce85ba746edce7ba2a1f40f091a1f1809629417"
+        },
+        {
+          "group": "a",
+          "sha256": "f66758c473079097a8693f8ef45f648efadf5417b3e2f7c6f325b59bdcd72989"
+        },
+        {
+          "group": "b",
+          "sha256": "25c65401368cb4ef4330148ec2d6365d448224134975f06e860fd156d071a1b9"
+        },
+        {
+          "group": "own",
+          "sha256": "e5edcfc070cd5fa3999691b0a2e72ca12ed8d6af1fbbe21c62f8694f3597eda8"
+        }
+      ]
+    },
+    {
+      "name": "페이지 DOM 구성 분리",
+      "topic": "event",
+      "passed": true,
+      "evidence": [
+        {
+          "group": "none",
+          "sha256": "c640bd09e72a950da67a0ce2a7e4ccfccdf9f88b78b9c57684bce7a8f90034a5"
+        },
+        {
+          "group": "a",
+          "sha256": "3a71c5b5c433db5cf2c45f7cceb6e70f513b5f2d632e5ca059d2a2d4d00992df"
+        },
+        {
+          "group": "b",
+          "sha256": "f6cea8ed711c764a14ff5ded90f3ce7495f456c13028b97d7718eb7e53646faf"
+        },
+        {
+          "group": "own",
+          "sha256": "babff9bfdb0c3427ca881d537dd5e430a1a364ef89e9e1e32e5b87ab596f1074"
+        }
+      ]
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "none",
+      "topic": "saas",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": false,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "a",
+      "topic": "saas",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": false,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "b",
+      "topic": "saas",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1, 0, 0, 1, 0, -2)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "own",
+      "topic": "saas",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1, 0, 0, 1, 0, -2)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "none",
+      "topic": "brand",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": false,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "a",
+      "topic": "brand",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1.03, 0, 0, 1.03, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "b",
+      "topic": "brand",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1.03, 0, 0, 1.03, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "own",
+      "topic": "brand",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, -2)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "none",
+      "topic": "local",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": false,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "a",
+      "topic": "local",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1, 0, 0, 1, 0, -1)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "b",
+      "topic": "local",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1.02, 0, 0, 1.02, 0, -2)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "own",
+      "topic": "local",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1, 0, 0, 1, 0, -2)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "none",
+      "topic": "restaurant",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": false,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "a",
+      "topic": "restaurant",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1, 0, 0, 1, 0, -1)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "b",
+      "topic": "restaurant",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1.02, 0, 0, 1.02, 0, -2)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "own",
+      "topic": "restaurant",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1, 0, 0, 1, 0, -2)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "none",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": false,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "a",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1.03, 0, 0, 1.03, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "b",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1.03, 0, 0, 1.03, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "own",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, -2)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "none",
+      "topic": "professional",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": false,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "a",
+      "topic": "professional",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": false,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "b",
+      "topic": "professional",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1, 0, 0, 1, 4, 0)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "own",
+      "topic": "professional",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(1, 0, 0, 1, 4, 0)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "none",
+      "topic": "event",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(0.707107, 0.707107, -0.707107, 0.707107, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "a",
+      "topic": "event",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(0.707107, 0.707107, -0.707107, 0.707107, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "b",
+      "topic": "event",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(0.707107, 0.707107, -0.707107, 0.707107, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "실제 transform 상태·복귀·모션 감소",
+      "group": "own",
+      "topic": "event",
+      "passed": true,
+      "evidence": {
+        "before": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "after": {
+          "transform": "matrix(0.707107, 0.707107, -0.707107, 0.707107, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        },
+        "returned": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        },
+        "changed": true,
+        "activeAnimationsWithReducedMotion": 0
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "none",
+      "topic": "saas",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "none",
+      "topic": "brand",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "none",
+      "topic": "local",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "none",
+      "topic": "restaurant",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "none",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "none",
+      "topic": "professional",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "none",
+      "topic": "event",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "a",
+      "topic": "saas",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "a",
+      "topic": "brand",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "a",
+      "topic": "local",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "a",
+      "topic": "restaurant",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "a",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "a",
+      "topic": "professional",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "a",
+      "topic": "event",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "b",
+      "topic": "saas",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "b",
+      "topic": "brand",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "b",
+      "topic": "local",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "b",
+      "topic": "restaurant",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "b",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "b",
+      "topic": "professional",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "b",
+      "topic": "event",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "own",
+      "topic": "saas",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "own",
+      "topic": "brand",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "own",
+      "topic": "local",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "own",
+      "topic": "restaurant",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "own",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "own",
+      "topic": "professional",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    },
+    {
+      "name": "직전 비교본 실행",
+      "group": "own",
+      "topic": "event",
+      "passed": true,
+      "evidence": {
+        "loaded": true
+      }
+    }
+  ]
+}

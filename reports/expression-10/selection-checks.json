@@ -1,0 +1,628 @@
+{
+  "total": 62,
+  "passed": 62,
+  "failed": 0,
+  "checks": [
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 390,
+      "field": "choice",
+      "value": "l1",
+      "expected": "작은 접시 빚기",
+      "actual": "작은 접시 빚기",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 390,
+      "field": "choice",
+      "value": "l2",
+      "expected": "물레 첫 경험",
+      "actual": "물레 첫 경험",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 390,
+      "field": "choice",
+      "value": "l3",
+      "expected": "손잡이 머그 만들기",
+      "actual": "손잡이 머그 만들기",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 390,
+      "field": "date",
+      "value": "2027-03-20",
+      "expected": "2027-03-20",
+      "actual": "2027-03-20",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 390,
+      "field": "date",
+      "value": "2027-03-21",
+      "expected": "2027-03-21",
+      "actual": "2027-03-21",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 390,
+      "field": "time",
+      "value": "11:00",
+      "expected": "11:00",
+      "actual": "11:00",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 390,
+      "field": "time",
+      "value": "15:00",
+      "expected": "15:00",
+      "actual": "15:00",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 390,
+      "field": "people",
+      "value": "1",
+      "expected": "1",
+      "actual": "1",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 390,
+      "field": "people",
+      "value": "2",
+      "expected": "2",
+      "actual": "2",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 390,
+      "field": "people",
+      "value": "3",
+      "expected": "3",
+      "actual": "3",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 390,
+      "field": "people",
+      "value": "4",
+      "expected": "4",
+      "actual": "4",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 1440,
+      "field": "choice",
+      "value": "l1",
+      "expected": "작은 접시 빚기",
+      "actual": "작은 접시 빚기",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 1440,
+      "field": "choice",
+      "value": "l2",
+      "expected": "물레 첫 경험",
+      "actual": "물레 첫 경험",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 1440,
+      "field": "choice",
+      "value": "l3",
+      "expected": "손잡이 머그 만들기",
+      "actual": "손잡이 머그 만들기",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 1440,
+      "field": "date",
+      "value": "2027-03-20",
+      "expected": "2027-03-20",
+      "actual": "2027-03-20",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 1440,
+      "field": "date",
+      "value": "2027-03-21",
+      "expected": "2027-03-21",
+      "actual": "2027-03-21",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 1440,
+      "field": "time",
+      "value": "11:00",
+      "expected": "11:00",
+      "actual": "11:00",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 1440,
+      "field": "time",
+      "value": "15:00",
+      "expected": "15:00",
+      "actual": "15:00",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 1440,
+      "field": "people",
+      "value": "1",
+      "expected": "1",
+      "actual": "1",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 1440,
+      "field": "people",
+      "value": "2",
+      "expected": "2",
+      "actual": "2",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 1440,
+      "field": "people",
+      "value": "3",
+      "expected": "3",
+      "actual": "3",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "local",
+      "width": 1440,
+      "field": "people",
+      "value": "4",
+      "expected": "4",
+      "actual": "4",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 390,
+      "field": "date",
+      "value": "2027-03-20",
+      "expected": "2027-03-20",
+      "actual": "2027-03-20",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 390,
+      "field": "date",
+      "value": "2027-03-21",
+      "expected": "2027-03-21",
+      "actual": "2027-03-21",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 390,
+      "field": "time",
+      "value": "09:00",
+      "expected": "09:00",
+      "actual": "09:00",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 390,
+      "field": "time",
+      "value": "11:30",
+      "expected": "11:30",
+      "actual": "11:30",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 390,
+      "field": "people",
+      "value": "1",
+      "expected": "1",
+      "actual": "1",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 390,
+      "field": "people",
+      "value": "2",
+      "expected": "2",
+      "actual": "2",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 390,
+      "field": "people",
+      "value": "3",
+      "expected": "3",
+      "actual": "3",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 390,
+      "field": "people",
+      "value": "4",
+      "expected": "4",
+      "actual": "4",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 1440,
+      "field": "date",
+      "value": "2027-03-20",
+      "expected": "2027-03-20",
+      "actual": "2027-03-20",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 1440,
+      "field": "date",
+      "value": "2027-03-21",
+      "expected": "2027-03-21",
+      "actual": "2027-03-21",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 1440,
+      "field": "time",
+      "value": "09:00",
+      "expected": "09:00",
+      "actual": "09:00",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 1440,
+      "field": "time",
+      "value": "11:30",
+      "expected": "11:30",
+      "actual": "11:30",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 1440,
+      "field": "people",
+      "value": "1",
+      "expected": "1",
+      "actual": "1",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 1440,
+      "field": "people",
+      "value": "2",
+      "expected": "2",
+      "actual": "2",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 1440,
+      "field": "people",
+      "value": "3",
+      "expected": "3",
+      "actual": "3",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "restaurant",
+      "width": 1440,
+      "field": "people",
+      "value": "4",
+      "expected": "4",
+      "actual": "4",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "portfolio",
+      "width": 390,
+      "field": "choice",
+      "value": "웹",
+      "expected": "웹",
+      "actual": "웹",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "portfolio",
+      "width": 390,
+      "field": "choice",
+      "value": "편집",
+      "expected": "편집",
+      "actual": "편집",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "portfolio",
+      "width": 390,
+      "field": "choice",
+      "value": "아이덴티티",
+      "expected": "아이덴티티",
+      "actual": "아이덴티티",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "portfolio",
+      "width": 1440,
+      "field": "choice",
+      "value": "웹",
+      "expected": "웹",
+      "actual": "웹",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "portfolio",
+      "width": 1440,
+      "field": "choice",
+      "value": "편집",
+      "expected": "편집",
+      "actual": "편집",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "portfolio",
+      "width": 1440,
+      "field": "choice",
+      "value": "아이덴티티",
+      "expected": "아이덴티티",
+      "actual": "아이덴티티",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "professional",
+      "width": 390,
+      "field": "choice",
+      "value": "s1",
+      "expected": "브랜드 진단",
+      "actual": "브랜드 진단",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "professional",
+      "width": 390,
+      "field": "choice",
+      "value": "s2",
+      "expected": "웹 서비스 기획",
+      "actual": "웹 서비스 기획",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "professional",
+      "width": 390,
+      "field": "choice",
+      "value": "s3",
+      "expected": "콘텐츠 정리",
+      "actual": "콘텐츠 정리",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "professional",
+      "width": 1440,
+      "field": "choice",
+      "value": "s1",
+      "expected": "브랜드 진단",
+      "actual": "브랜드 진단",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "professional",
+      "width": 1440,
+      "field": "choice",
+      "value": "s2",
+      "expected": "웹 서비스 기획",
+      "actual": "웹 서비스 기획",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "professional",
+      "width": 1440,
+      "field": "choice",
+      "value": "s3",
+      "expected": "콘텐츠 정리",
+      "actual": "콘텐츠 정리",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "event",
+      "width": 390,
+      "field": "choice",
+      "value": "talk",
+      "expected": "토크 패스",
+      "actual": "토크 패스",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "event",
+      "width": 390,
+      "field": "choice",
+      "value": "all",
+      "expected": "전체 패스",
+      "actual": "전체 패스",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "event",
+      "width": 390,
+      "field": "people",
+      "value": "1",
+      "expected": "1",
+      "actual": "1",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "event",
+      "width": 390,
+      "field": "people",
+      "value": "2",
+      "expected": "2",
+      "actual": "2",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "event",
+      "width": 390,
+      "field": "people",
+      "value": "3",
+      "expected": "3",
+      "actual": "3",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "event",
+      "width": 390,
+      "field": "people",
+      "value": "4",
+      "expected": "4",
+      "actual": "4",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "event",
+      "width": 1440,
+      "field": "choice",
+      "value": "talk",
+      "expected": "토크 패스",
+      "actual": "토크 패스",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "event",
+      "width": 1440,
+      "field": "choice",
+      "value": "all",
+      "expected": "전체 패스",
+      "actual": "전체 패스",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "event",
+      "width": 1440,
+      "field": "people",
+      "value": "1",
+      "expected": "1",
+      "actual": "1",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "event",
+      "width": 1440,
+      "field": "people",
+      "value": "2",
+      "expected": "2",
+      "actual": "2",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "event",
+      "width": 1440,
+      "field": "people",
+      "value": "3",
+      "expected": "3",
+      "actual": "3",
+      "passed": true
+    },
+    {
+      "group": "expression",
+      "topic": "event",
+      "width": 1440,
+      "field": "people",
+      "value": "4",
+      "expected": "4",
+      "actual": "4",
+      "passed": true
+    }
+  ],
+  "scope": "각 필수 값의 대표 연결 결과. 전체 조합/모든 사용자 상태의 증명과 구분한다."
+}

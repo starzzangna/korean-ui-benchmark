@@ -1,0 +1,4 @@
+/* 소개와 선택이 한 바탕에서 이어지고, 문의 구간에서 읽기 면을 나눈다. */
+body[data-craft][data-category=professional] .e-service-intro{margin-top:0;padding-block:32px 24px}body[data-craft][data-category=professional] .s-band-services{background:var(--paper);padding-block:16px 40px}body[data-craft] .e-service-workbench{margin-block:0}
+.c-project-brief{font-size:12px;line-height:1.7;color:#e0e9df;margin:18px 0 0}body[data-craft] .i-service-result .r-sample-after{margin-top:16px}.i-service-result #sample-after{overflow:visible}.i-service-result #service-outputs{box-sizing:border-box}
+@media(max-width:760px){body[data-craft][data-category=professional] .e-service-intro{padding-block:24px}body[data-craft][data-category=professional] .s-band-services{padding-block:12px 28px}body[data-craft] .e-service-workbench{margin-block:0}.c-project-brief{font-size:11px;margin-top:14px}body[data-craft] .i-service-result .r-sample-after{margin-top:14px}}

@@ -1,0 +1,38 @@
+import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';import {createHash} from 'node:crypto';
+const root=path.resolve(import.meta.dirname,'..'),out=path.join(root,'reports/craft-11'),read=p=>JSON.parse(fs.readFileSync(path.join(root,p))),hash=p=>createHash('sha256').update(fs.readFileSync(path.join(root,p))).digest('hex');
+const qa=read('reports/craft-11/browser-checks.json'),branches=read('reports/craft-11/selection-checks.json'),extra=read('artifacts/craft-11/checks.json'),motion=read('artifacts/craft-11/content-motion-checks.json'),flow=read('artifacts/craft-11/editorial-flow-checks.json'),evidence=read('artifacts/craft-11/evidence-checks.json'),roles=read('artifacts/craft-11/role-checks.json'),stability=read('artifacts/craft-11/stability-checks.json');for(const[r,n]of[[qa,101],[branches,62],[extra,80],[motion,12],[flow,6],[evidence,9],[roles,12],[stability,11]]){assert.equal(r.failed,0);assert.equal(r.total,n);}
+const baseline=read('reports/craft-11/baseline.json');for(const p of['reports/craft-11/baseline.json','reports/expression-10/baseline.json','reports/relevance-9/baseline.json','reports/editorial-8/baseline.json','reports/polish-7/baseline.json','reports/flow-6/baseline.json','reports/purpose-5/baseline.json','reports/atmosphere-4/baseline.json','reports/refined-3/baseline.json'])for(const e of read(p).files)assert.equal(hash(e.path),e.sha256,e.path);
+for(const t of['saas','brand','local','restaurant'])assert.equal(hash(`results/craft/${t}/index.html`),hash(`results/expression/${t}/index.html`));const data=read('shared/data.json');for(const[t,d]of Object.entries(data)){const s=fs.readFileSync(path.join(root,`results/craft/${t}/index.html`),'utf8');assert.deepEqual(JSON.parse(s.match(/<script type="application\/json" id="site-data">([\s\S]*?)<\/script>/)[1]),d);}
+for(const[name,value]of Object.entries({'design-and-sync-checks':extra,'content-motion-checks':motion,'editorial-flow-checks':flow,'evidence-checks':evidence,'role-checks':roles,'stability-checks':stability}))fs.writeFileSync(path.join(out,name+'.json'),JSON.stringify(value,null,2));
+const summary={passed:true,sites:7,changedCategories:3,unchangedCategories:['saas','brand','local','restaurant'],saasIdentical:true,baseChecks:101,selectionValues:62,designAndSyncChecks:80,contentMotionChecks:12,editorialFlowChecks:6,evidenceChecks:9,roleChecks:12,stabilityChecks:11,totalChecks:293,preservedFiles:baseline.files.length,dataEqual:true,browser:qa.browser};fs.writeFileSync(path.join(out,'summary.json'),JSON.stringify(summary,null,2));
+const mobile=flow.metrics.filter(r=>r.width===390),rows=['professional','portfolio','event'].map(t=>{const a=mobile.find(r=>r.topic===t&&r.group==='expression'),b=mobile.find(r=>r.topic===t&&r.group==='craft');return`| ${t} | ${a.height}px | ${b.height}px |`;}).join('\n');
+fs.writeFileSync(path.join(out,'README.md'),`# 구체적 과제·작품 자료·읽기 안정성 검증
+
+[B와 비교](../../craft/index.html) · [변경 명세](../../docs/CRAFT_11.md) · [보존 기준](baseline.json) · [요약](summary.json)
+
+기능101 · 선택값62 · 정렬/스크롤80 · 모션12 · 흐름6 · 근거9 · 결과 표현12 · 읽기 안정/새 작품11: **총293건 통과**.
+
+기존 파일 ${baseline.files.length}개의 SHA-256이 일치한다. SaaS·브랜드·로컬·식당은 직전 HTML과 바이트 동일하며, 공통 데이터7종도 동일하다.
+
+## 모바일 길이
+
+390px·글꼴 로드·보조 맥락 닫힘 기준이다. 길이 자체는 미적 우위의 근거가 아니다. 전문 서비스는 상태별 결과와 읽기 위치를 안정시키는 공간이 추가된다.
+
+| 카테고리 | 직전 | 새 개선본 |
+|---|---|---|
+${rows}
+
+전문 서비스는 하나의 가상 서점 과제로 메시지·탐색 흐름·콘텐츠 구조를 구체화했다. 소개/선택 영역은 같은 바탕으로 연결하고, 마지막 문장 아래와 선택 영역 위 간격을 검사했다. 서비스 전환 시 결과·문의 버튼·다음 섹션의 좌표와 스크롤 변화는2px 미만이며,320/390/768/1024/1440px과390/768px의 글자/행간200% 및 열린 맥락에서도 확인했다. 폭·글꼴 변화에 다시 측정하며 고정 높이나 내용 잘림을 사용하지 않는다. 짧은 결과에는 예약 여백이 남을 수 있다.
+
+포트폴리오는 직접 작성한 NEST 전체/세부 SVG를 추가하고 대표·목록·모달의 버전을 일치시켰다. 새 자료의 오류/재시도·상세 보기·초점 복귀도 검사했다. 모든 도서와 서비스는 가상 콘셉트이며 실제 납품이나 성과를 의미하지 않는다. 행사는 반복 소개 문단을 덜고 관심 문구·실제 프로그램명·정확한 세션 연결을 유지한다.
+
+기본 폭5종, 두 방식의200% CSS 글자 확대, 키보드·모션 감소·함께 이동·동시 스크롤을 검사했다. 실기기와 브라우저 메뉴 확대는 별도다.
+
+[기능](browser-checks.json) · [선택값](selection-checks.json) · [정렬/스크롤](design-and-sync-checks.json) · [모션](content-motion-checks.json) · [흐름](editorial-flow-checks.json) · [적용 근거](evidence-checks.json) · [표현](role-checks.json) · [읽기 안정/에셋](stability-checks.json)
+
+캡처는 B / 직전 / 새 개선본 순서다.
+${Object.keys(data).map(t=>`- ${t}: [PC](previews/${t}-pc.jpg) · [모바일](previews/${t}-mobile.jpg)`).join('\n')}
+
+같은 작성자의 후속 개선이며 최초 생성 성능을 입증하는 독립 실험이 아니다. 새 작품 에셋도 함께 변경되어 순수한 지침 효과만의 비교가 아니다. 실제 예약·계정·외부 전송이 없는 로컬 데모이며 GitHub Pages에는 배포하지 않았다.
+`);
+const files=[];function walk(dir){for(const e of fs.readdirSync(dir,{withFileTypes:true})){const p=path.join(dir,e.name);if(e.isDirectory())walk(p);else files.push(path.relative(root,p).replaceAll('\\','/'));}}for(const d of['src/expression','results/expression','expression','skills/korean-ui-design'])walk(path.join(root,d));fs.writeFileSync(path.join(out,'source-manifest.json'),JSON.stringify({files:files.map(p=>({path:p,sha256:hash(p)}))},null,2));console.log(JSON.stringify(summary));

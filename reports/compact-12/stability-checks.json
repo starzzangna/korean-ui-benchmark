@@ -1,0 +1,485 @@
+{
+  "total": 11,
+  "passed": 11,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "서비스 전환 읽기 기준점·CTA·문서 위치",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "points": [
+          {
+            "id": "s1",
+            "resultTop": 762.640625,
+            "ctaTop": 1081.9375,
+            "panelHeight": 622,
+            "requestTop": 1258.953125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s2",
+            "resultTop": 762.640625,
+            "ctaTop": 1081.9375,
+            "panelHeight": 622,
+            "requestTop": 1258.953125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s3",
+            "resultTop": 762.640625,
+            "ctaTop": 1081.9375,
+            "panelHeight": 622,
+            "requestTop": 1258.953125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s1",
+            "resultTop": 762.640625,
+            "ctaTop": 1081.9375,
+            "panelHeight": 622,
+            "requestTop": 1258.953125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          }
+        ],
+        "noMeasureLoop": true
+      }
+    },
+    {
+      "name": "서비스 전환 읽기 기준점·CTA·문서 위치",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "points": [
+          {
+            "id": "s1",
+            "resultTop": 762.640625,
+            "ctaTop": 1081.9375,
+            "panelHeight": 622,
+            "requestTop": 1258.953125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s2",
+            "resultTop": 762.640625,
+            "ctaTop": 1081.9375,
+            "panelHeight": 622,
+            "requestTop": 1258.953125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s3",
+            "resultTop": 762.640625,
+            "ctaTop": 1081.9375,
+            "panelHeight": 622,
+            "requestTop": 1258.953125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s1",
+            "resultTop": 762.640625,
+            "ctaTop": 1081.9375,
+            "panelHeight": 622,
+            "requestTop": 1258.953125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          }
+        ],
+        "noMeasureLoop": true
+      }
+    },
+    {
+      "name": "서비스 전환 읽기 기준점·CTA·문서 위치",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "points": [
+          {
+            "id": "s1",
+            "resultTop": 476.53125,
+            "ctaTop": 766.828125,
+            "panelHeight": 603,
+            "requestTop": 960.140625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s2",
+            "resultTop": 476.53125,
+            "ctaTop": 766.828125,
+            "panelHeight": 603,
+            "requestTop": 960.140625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s3",
+            "resultTop": 476.53125,
+            "ctaTop": 766.828125,
+            "panelHeight": 603,
+            "requestTop": 960.140625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s1",
+            "resultTop": 476.53125,
+            "ctaTop": 766.828125,
+            "panelHeight": 603,
+            "requestTop": 960.140625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          }
+        ],
+        "noMeasureLoop": true
+      }
+    },
+    {
+      "name": "서비스 전환 읽기 기준점·CTA·문서 위치",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "points": [
+          {
+            "id": "s1",
+            "resultTop": 422.53125,
+            "ctaTop": 671.828125,
+            "panelHeight": 562,
+            "requestTop": 865.140625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s2",
+            "resultTop": 422.53125,
+            "ctaTop": 671.828125,
+            "panelHeight": 562,
+            "requestTop": 865.140625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s3",
+            "resultTop": 422.53125,
+            "ctaTop": 671.828125,
+            "panelHeight": 562,
+            "requestTop": 865.140625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s1",
+            "resultTop": 422.53125,
+            "ctaTop": 671.828125,
+            "panelHeight": 562,
+            "requestTop": 865.140625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          }
+        ],
+        "noMeasureLoop": true
+      }
+    },
+    {
+      "name": "서비스 전환 읽기 기준점·CTA·문서 위치",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "points": [
+          {
+            "id": "s1",
+            "resultTop": 422.53125,
+            "ctaTop": 592.53125,
+            "panelHeight": 477,
+            "requestTop": 780.140625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s2",
+            "resultTop": 422.53125,
+            "ctaTop": 592.53125,
+            "panelHeight": 477,
+            "requestTop": 780.140625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s3",
+            "resultTop": 422.53125,
+            "ctaTop": 592.53125,
+            "panelHeight": 477,
+            "requestTop": 780.140625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s1",
+            "resultTop": 422.53125,
+            "ctaTop": 592.53125,
+            "panelHeight": 477,
+            "requestTop": 780.140625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          }
+        ],
+        "noMeasureLoop": true
+      }
+    },
+    {
+      "name": "200%·열린 맥락·전환·재측정",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "closed": [
+          {
+            "id": "s1",
+            "resultTop": 1468.609375,
+            "ctaTop": 2088.203125,
+            "panelHeight": 1076,
+            "requestTop": 2298.203125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s2",
+            "resultTop": 1468.609375,
+            "ctaTop": 2088.203125,
+            "panelHeight": 1076,
+            "requestTop": 2298.203125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s3",
+            "resultTop": 1468.609375,
+            "ctaTop": 2088.203125,
+            "panelHeight": 1076,
+            "requestTop": 2298.203125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s1",
+            "resultTop": 1468.609375,
+            "ctaTop": 2088.203125,
+            "panelHeight": 1076,
+            "requestTop": 2298.203125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          }
+        ],
+        "open": [
+          {
+            "id": "s1",
+            "resultTop": 1468.609375,
+            "ctaTop": 2088.203125,
+            "panelHeight": 1620,
+            "requestTop": 2842.203125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s2",
+            "resultTop": 1468.609375,
+            "ctaTop": 2088.203125,
+            "panelHeight": 1620,
+            "requestTop": 2842.203125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s3",
+            "resultTop": 1468.609375,
+            "ctaTop": 2088.203125,
+            "panelHeight": 1620,
+            "requestTop": 2842.203125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s1",
+            "resultTop": 1468.609375,
+            "ctaTop": 2088.203125,
+            "panelHeight": 1620,
+            "requestTop": 2842.203125,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          }
+        ],
+        "allContentVisible": true
+      }
+    },
+    {
+      "name": "200%·열린 맥락·전환·재측정",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "closed": [
+          {
+            "id": "s1",
+            "resultTop": 976.6875,
+            "ctaTop": 1656.28125,
+            "panelHeight": 1154,
+            "requestTop": 1881.890625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s2",
+            "resultTop": 976.6875,
+            "ctaTop": 1656.28125,
+            "panelHeight": 1154,
+            "requestTop": 1881.890625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s3",
+            "resultTop": 976.6875,
+            "ctaTop": 1656.28125,
+            "panelHeight": 1154,
+            "requestTop": 1881.890625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s1",
+            "resultTop": 976.6875,
+            "ctaTop": 1656.28125,
+            "panelHeight": 1154,
+            "requestTop": 1881.890625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          }
+        ],
+        "open": [
+          {
+            "id": "s1",
+            "resultTop": 976.6875,
+            "ctaTop": 1656.28125,
+            "panelHeight": 1710,
+            "requestTop": 2437.890625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s2",
+            "resultTop": 976.6875,
+            "ctaTop": 1656.28125,
+            "panelHeight": 1710,
+            "requestTop": 2437.890625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s3",
+            "resultTop": 976.6875,
+            "ctaTop": 1656.28125,
+            "panelHeight": 1710,
+            "requestTop": 2437.890625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          },
+          {
+            "id": "s1",
+            "resultTop": 976.6875,
+            "ctaTop": 1656.28125,
+            "panelHeight": 1710,
+            "requestTop": 2437.890625,
+            "scroll": 0,
+            "duplicates": 1,
+            "loss": false
+          }
+        ],
+        "allContentVisible": true
+      }
+    },
+    {
+      "name": "전문 서비스 소개 경계·바탕·간격",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "body": "rgb(234, 240, 235)",
+        "band": "rgb(234, 240, 235)",
+        "afterLead": 24,
+        "beforeControls": 12
+      }
+    },
+    {
+      "name": "새 작품 버전·전체/세부·재시도 경로",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "sameVersion": true,
+        "actualFullAndDetail": true,
+        "errorAndRetry": true,
+        "focusReturns": true
+      }
+    },
+    {
+      "name": "전문 서비스 소개 경계·바탕·간격",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "body": "rgb(234, 240, 235)",
+        "band": "rgb(234, 240, 235)",
+        "afterLead": 24,
+        "beforeControls": 16
+      }
+    },
+    {
+      "name": "새 작품 버전·전체/세부·재시도 경로",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "sameVersion": true,
+        "actualFullAndDetail": true,
+        "errorAndRetry": true,
+        "focusReturns": true
+      }
+    }
+  ]
+}

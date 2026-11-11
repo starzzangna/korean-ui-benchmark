@@ -1,0 +1,18 @@
+<!doctype html><html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>선택과 결과의 모션 예제</title>
+<style>*{box-sizing:border-box}body{margin:40px auto;padding:0 20px;max-width:760px;font:16px/1.7 system-ui,sans-serif;color:#243b3a;background:#fff}h1{font-size:30px;line-height:1.4}button{font:inherit;min-height:48px;border:1px solid #aebfba;border-radius:8px;background:#fff;color:inherit;padding:10px 16px;cursor:pointer}button[aria-pressed=true]{background:#eaf2ef;border-color:#366257}.choices{display:flex;flex-wrap:wrap;gap:12px;margin:28px 0}.result{border:1px solid #d1dfd9;border-radius:14px;padding:28px;background:#f5f8f6}small{color:#566b65}:focus-visible{outline:3px solid #367161;outline-offset:4px}#status{font-size:14px}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}</style>
+<h1>선택은 즉시, 강조는 짧게.</h1><p>설명용 가상 예시입니다. 빠르게 다시 선택해도 값은 즉시 바뀝니다. 시스템의 모션 감소 설정에서는 장식을 생략합니다.</p>
+<div class="choices" role="group" aria-label="정리할 내용"><button data-choice="message" aria-pressed="true">메시지</button><button data-choice="flow" aria-pressed="false">화면 흐름</button><button data-choice="copy" aria-pressed="false">문구</button></div>
+<article class="result" aria-labelledby="result-title"><small>선택한 내용의 정리 방향</small><h2 id="result-title">메시지</h2><p id="result-copy">누구에게 무엇을 전할지 핵심 내용을 정리합니다.</p></article><p id="status" role="status">메시지 선택됨</p>
+<script>
+const samples={message:['메시지','누구에게 무엇을 전할지 핵심 내용을 정리합니다.'],flow:['화면 흐름','사용자의 과업에서 필요한 화면과 다음 행동을 정리합니다.'],copy:['문구','읽는 순서와 말투를 일관되게 정리합니다.']};
+const reduce=matchMedia('(prefers-reduced-motion:reduce)'),result=document.querySelector('.result');let current;
+document.querySelectorAll('[data-choice]').forEach(button=>button.addEventListener('click',()=>{
+ const [title,copy]=samples[button.dataset.choice];
+ // 내용과 상태는 장식 시작 전에 바꾼다. 초점은 선택한 버튼에 남는다.
+ document.querySelector('#result-title').textContent=title;document.querySelector('#result-copy').textContent=copy;document.querySelector('#status').textContent=title+' 선택됨';
+ document.querySelectorAll('[data-choice]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
+ current?.cancel();if(reduce.matches)return;
+ current=result.animate([{opacity:.7,transform:'translateY(6px)'},{opacity:1,transform:'none'}],{duration:360,easing:'cubic-bezier(.22,1,.36,1)'});
+}));
+reduce.addEventListener('change',event=>{if(event.matches)current?.cancel();});
+</script></html>

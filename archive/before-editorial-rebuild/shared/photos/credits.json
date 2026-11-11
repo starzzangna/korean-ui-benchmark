@@ -1,0 +1,35 @@
+[
+  {
+    "file": "pottery.jpg",
+    "image": "photo-1422246358533-95dcd3d48961",
+    "source": "https://unsplash.com/photos/Tq4YjCa2BSc",
+    "author": "Alex Jones",
+    "download": "https://images.unsplash.com/photo-1422246358533-95dcd3d48961?auto=format&fit=max&w=1800&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "b4179a8ffa7668a19f47280f7429f75aab97cc45358e07b4dde1ad09110bb0bf",
+    "role": "가상 사이트의 분위기 참고. 실제 상품/장소/메뉴 사진이 아님."
+  },
+  {
+    "file": "breakfast.jpg",
+    "image": "photo-1506085569175-284ae74bb858",
+    "source": "https://unsplash.com/photos/6w5iBTXMxOM",
+    "author": "Calum Lewis",
+    "download": "https://images.unsplash.com/photo-1506085569175-284ae74bb858?auto=format&fit=max&w=1800&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "a87886888224239c682426793200013e651caf2452dff9dd1773e844f21e1fd2",
+    "role": "가상 사이트의 분위기 참고. 실제 상품/장소/메뉴 사진이 아님."
+  },
+  {
+    "file": "desk.jpg",
+    "image": "photo-1761322572550-967ea8c0bfd9",
+    "source": "https://unsplash.com/photos/n9AaeihA9HI",
+    "author": "Clay Banks",
+    "download": "https://images.unsplash.com/photo-1761322572550-967ea8c0bfd9?auto=format&fit=max&w=1800&q=85&fm=jpg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "sha256": "adf846df50ec8a9d07f9c1902ca5b4c63969e0ef90150c5d78272fbcb0545cce",
+    "role": "가상 사이트의 분위기 참고. 실제 상품/장소/메뉴 사진이 아님."
+  }
+]

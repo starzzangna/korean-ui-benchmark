@@ -1,0 +1,1058 @@
+{
+  "total": 80,
+  "passed": 80,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 1,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "saas",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 1,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 1,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 1,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "saas",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 1,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "200% 내부 조판·회전·정렬",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 1,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "200% 내부 조판·회전·정렬",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 1,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "색인·선택·실제 결과·복귀",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "noDuplicateColumnDescription": true,
+        "stateFilter": true
+      }
+    },
+    {
+      "name": "색인·선택·실제 결과·복귀",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDuplicateColumnDescription": true,
+        "stateFilter": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 4,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "brand",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 4,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 4,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 4,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "brand",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 4,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "200% 내부 조판·회전·정렬",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 4,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "200% 내부 조판·회전·정렬",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 4,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "색인·선택·실제 결과·복귀",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "allIndexTargets": true,
+        "keyboard": true,
+        "detailAndReturn": true
+      }
+    },
+    {
+      "name": "색인·선택·실제 결과·복귀",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "allIndexTargets": true,
+        "keyboard": true,
+        "detailAndReturn": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "local",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "local",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "200% 내부 조판·회전·정렬",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "200% 내부 조판·회전·정렬",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "색인·선택·실제 결과·복귀",
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "allClasses": true,
+        "nextControlFocus": true,
+        "priceSync": true
+      }
+    },
+    {
+      "name": "색인·선택·실제 결과·복귀",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "allClasses": true,
+        "nextControlFocus": true,
+        "priceSync": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "restaurant",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "restaurant",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "200% 내부 조판·회전·정렬",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "200% 내부 조판·회전·정렬",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "색인·선택·실제 결과·복귀",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "removedDuplicatePreview": true,
+        "crop": "50% 66%"
+      }
+    },
+    {
+      "name": "색인·선택·실제 결과·복귀",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "removedDuplicatePreview": true,
+        "crop": "58% 60%"
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 4,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "portfolio",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 4,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 4,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 4,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "portfolio",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 4,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "200% 내부 조판·회전·정렬",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 4,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "200% 내부 조판·회전·정렬",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 4,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "색인·선택·실제 결과·복귀",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "allIndexTargets": true,
+        "keyboard": true,
+        "detailAndReturn": true
+      }
+    },
+    {
+      "name": "색인·선택·실제 결과·복귀",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "allIndexTargets": true,
+        "keyboard": true,
+        "detailAndReturn": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 1,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "professional",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 1,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 1,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 1,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "professional",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 1,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "200% 내부 조판·회전·정렬",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 1,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "200% 내부 조판·회전·정렬",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 1,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "색인·선택·실제 결과·복귀",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "allServiceTargets": true,
+        "reverseSelection": true,
+        "conceptLabel": true
+      }
+    },
+    {
+      "name": "색인·선택·실제 결과·복귀",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "allServiceTargets": true,
+        "reverseSelection": true,
+        "conceptLabel": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "event",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "실제 조판·그룹/카드/컨트롤 정렬",
+      "topic": "event",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "200% 내부 조판·회전·정렬",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "200% 내부 조판·회전·정렬",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "noDocumentOverflow": true,
+        "noInnerTextLoss": true,
+        "parallelControls": true,
+        "iconGroups": 2,
+        "equalCardAxes": true,
+        "fontLoaded": true
+      }
+    },
+    {
+      "name": "색인·선택·실제 결과·복귀",
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "daySync": true,
+        "spacingPreserved": true
+      }
+    },
+    {
+      "name": "색인·선택·실제 결과·복귀",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "daySync": true,
+        "spacingPreserved": true
+      }
+    },
+    {
+      "name": "색면 역할·대표 구간 균형",
+      "topic": "saas",
+      "passed": true,
+      "evidence": {
+        "maintained": true
+      }
+    },
+    {
+      "name": "색면 역할·대표 구간 균형",
+      "topic": "brand",
+      "passed": true,
+      "evidence": {
+        "ink": "rgb(52, 54, 47)",
+        "muted": "#626355",
+        "base": "rgb(245, 242, 233)",
+        "paper": "rgb(245, 242, 233)",
+        "action": null,
+        "minimumTextContrast": 5.461032063017765
+      }
+    },
+    {
+      "name": "색면 역할·대표 구간 균형",
+      "topic": "local",
+      "passed": true,
+      "evidence": {
+        "ink": "rgb(53, 51, 41)",
+        "muted": "#686251",
+        "base": "rgb(237, 230, 219)",
+        "paper": "rgb(252, 250, 245)",
+        "action": "rgb(252, 250, 245)",
+        "minimumTextContrast": 4.904479119269751
+      }
+    },
+    {
+      "name": "색면 역할·대표 구간 균형",
+      "topic": "restaurant",
+      "passed": true,
+      "evidence": {
+        "ink": "rgb(58, 45, 37)",
+        "muted": "#74604e",
+        "base": "rgb(248, 241, 228)",
+        "paper": "rgb(255, 248, 236)",
+        "action": "rgb(239, 221, 206)",
+        "minimumTextContrast": 4.5107912420648635
+      }
+    },
+    {
+      "name": "색면 역할·대표 구간 균형",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": {
+        "ink": "rgb(39, 42, 44)",
+        "muted": "#5e6263",
+        "base": "rgb(242, 242, 240)",
+        "paper": "rgb(242, 242, 240)",
+        "action": "rgb(242, 242, 240)",
+        "minimumTextContrast": 5.505014272915195
+      }
+    },
+    {
+      "name": "색면 역할·대표 구간 균형",
+      "topic": "professional",
+      "passed": true,
+      "evidence": {
+        "ink": "rgb(41, 62, 55)",
+        "muted": "#4f655b",
+        "base": "rgb(234, 240, 235)",
+        "paper": "rgb(250, 250, 245)",
+        "action": "rgb(250, 250, 245)",
+        "minimumTextContrast": 5.429656003713959
+      }
+    },
+    {
+      "name": "색면 역할·대표 구간 균형",
+      "topic": "event",
+      "passed": true,
+      "evidence": {
+        "ink": "rgb(62, 48, 40)",
+        "muted": "#6b5545",
+        "base": "rgb(240, 217, 200)",
+        "paper": "rgb(255, 248, 237)",
+        "action": "rgb(255, 248, 237)",
+        "minimumTextContrast": 5.136771842419263
+      }
+    },
+    {
+      "name": "상황별 동작·즉시 결과·모션 감소",
+      "topic": "saas",
+      "passed": true,
+      "evidence": {
+        "during": {
+          "transform": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+          "opacity": "0.65",
+          "animations": 1
+        },
+        "reducedMotion": true,
+        "immediateState": true
+      }
+    },
+    {
+      "name": "상황별 동작·즉시 결과·모션 감소",
+      "topic": "brand",
+      "passed": true,
+      "evidence": {
+        "during": {
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1",
+          "animations": 1
+        },
+        "reducedMotion": true,
+        "immediateState": true
+      }
+    },
+    {
+      "name": "상황별 동작·즉시 결과·모션 감소",
+      "topic": "local",
+      "passed": true,
+      "evidence": {
+        "during": {
+          "transform": "none",
+          "opacity": "0.65",
+          "animations": 1
+        },
+        "reducedMotion": true,
+        "immediateState": true
+      }
+    },
+    {
+      "name": "상황별 동작·즉시 결과·모션 감소",
+      "topic": "restaurant",
+      "passed": true,
+      "evidence": {
+        "during": {
+          "transform": "none",
+          "opacity": "0.513844",
+          "animations": 1
+        },
+        "reducedMotion": true,
+        "immediateState": true
+      }
+    },
+    {
+      "name": "상황별 동작·즉시 결과·모션 감소",
+      "topic": "portfolio",
+      "passed": true,
+      "evidence": {
+        "during": {
+          "transform": "none",
+          "opacity": "0.7",
+          "animations": 1
+        },
+        "reducedMotion": true,
+        "immediateState": true
+      }
+    },
+    {
+      "name": "상황별 동작·즉시 결과·모션 감소",
+      "topic": "professional",
+      "passed": true,
+      "evidence": {
+        "during": {
+          "transform": "matrix(1, 0, 0, 1, 0, 6)",
+          "opacity": "0.65",
+          "animations": 1
+        },
+        "reducedMotion": true,
+        "immediateState": true
+      }
+    },
+    {
+      "name": "상황별 동작·즉시 결과·모션 감소",
+      "topic": "event",
+      "passed": true,
+      "evidence": {
+        "during": {
+          "transform": "matrix(1, 0, 0, 1, 0, 5)",
+          "opacity": "0.7",
+          "animations": 1
+        },
+        "reducedMotion": true,
+        "immediateState": true
+      }
+    },
+    {
+      "name": "함께 이동·동시 스크롤·비교 선택",
+      "topic": "viewer",
+      "passed": true,
+      "evidence": {
+        "jumpAll": true,
+        "outerStable": true,
+        "bidirectionalSync": true,
+        "realWheel": true,
+        "syncToggle": true,
+        "modes": 3,
+        "categories": 7,
+        "mobile": true
+      }
+    },
+    {
+      "name": "스킬 동작 예제의 실행",
+      "topic": "skill",
+      "passed": true,
+      "evidence": {
+        "working": true
+      }
+    },
+    {
+      "name": "이전 비교본 원본 해시",
+      "topic": "preservation",
+      "passed": true,
+      "evidence": {
+        "files": 88,
+        "saasExact": true,
+        "exactBytes": true
+      }
+    }
+  ]
+}

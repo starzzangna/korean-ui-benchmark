@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "sites": 7,
+  "baseChecks": 101,
+  "selectionValues": 62,
+  "designChecks": 76,
+  "saasScenarios": 2,
+  "newAssets": 4,
+  "preservedFiles": 64,
+  "preservedSkillFiles": 112,
+  "dataEqual": true,
+  "browser": "157.0.8103.50",
+  "scope": "같은 작성자의 후속 개선. 기능/기하/모션 검사는 미적 우위·독립 생성·전체 접근성 인증과 구분한다."
+}

@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "sites": 7,
+  "changedCategories": 6,
+  "saasIdentical": true,
+  "baseChecks": 101,
+  "designAndSyncChecks": 80,
+  "selectionValues": 62,
+  "preservedFiles": 63,
+  "dataEqual": true,
+  "browser": "157.0.8103.50",
+  "scope": "기존 비교를 보존한 후속 개선. 기능·기하·역할색·스크롤 검사이며 미적 우위나 전체 접근성 인증이 아니다."
+}

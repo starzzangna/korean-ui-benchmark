@@ -1,0 +1,75 @@
+{
+  "total": 4,
+  "passed": 4,
+  "failed": 0,
+  "checks": [
+    {
+      "width": 1440,
+      "height": 900,
+      "passed": true,
+      "evidence": {
+        "craft": {
+          "height": 685,
+          "bottom": 1000.203125,
+          "ctaBottom": 898.890625
+        },
+        "compact": {
+          "height": 477,
+          "bottom": 740.140625,
+          "ctaBottom": 640.53125
+        }
+      }
+    },
+    {
+      "width": 1440,
+      "height": 768,
+      "passed": true,
+      "evidence": {
+        "craft": {
+          "height": 684,
+          "bottom": 999.203125,
+          "ctaBottom": 897.890625
+        },
+        "compact": {
+          "height": 477,
+          "bottom": 740.140625,
+          "ctaBottom": 640.53125
+        }
+      }
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "passed": true,
+      "evidence": {
+        "craft": {
+          "height": 684,
+          "bottom": 999.203125,
+          "ctaBottom": 897.890625
+        },
+        "compact": {
+          "height": 477,
+          "bottom": 740.140625,
+          "ctaBottom": 640.53125
+        }
+      }
+    },
+    {
+      "width": 390,
+      "height": 900,
+      "passed": true,
+      "evidence": {
+        "craft": {
+          "height": 705,
+          "bottom": 1317.203125,
+          "ctaBottom": 1222.1875
+        },
+        "compact": {
+          "height": 622,
+          "bottom": 1230.953125,
+          "ctaBottom": 1129.9375
+        }
+      }
+    }
+  ]
+}

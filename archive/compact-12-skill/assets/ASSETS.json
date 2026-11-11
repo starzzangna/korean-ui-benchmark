@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "pretendard-variable",
+      "path": "fonts/PretendardVariable.woff2",
+      "kind": "font",
+      "role": "선택 적용 한영 UI 글꼴",
+      "source": "https://github.com/orioncactus/pretendard/tree/v1.3.9",
+      "creator": "Kil Hyung-jin",
+      "license": "SIL OFL 1.1 · fonts/LICENSE.txt",
+      "version": "1.3.9",
+      "sha256": "9599f12fd42fc0bce1cd50b47a0c022e108d7aa64dd0d1bb0ed44f3282d900b4"
+    },
+    {
+      "id": "ui-icons",
+      "path": "icons.svg",
+      "kind": "icon",
+      "role": "기본 UI 동작 8종",
+      "source": "이 패키지에서 자체 작성",
+      "creator": "korean-ui-design",
+      "license": "CC0-1.0 · UI-ASSET-LICENSE.txt",
+      "sha256": "bdff37d7c0f1fbfbf72000b95d2dd06e9e9c07d6bcc7f6fc18023fd25d9a3903"
+    },
+    {
+      "id": "control-css",
+      "path": "controls.css",
+      "kind": "document",
+      "role": "선택 적용 컨트롤 스타일",
+      "source": "이 패키지에서 자체 작성",
+      "creator": "korean-ui-design",
+      "license": "CC0-1.0 · UI-ASSET-LICENSE.txt",
+      "sha256": "3c2109b53a705680a67c75ad6f6d8085f6fc5cdcc26db8b778cfb23faf8dedc9"
+    },
+    {
+      "id": "interactions-css",
+      "path": "interactions.css",
+      "kind": "document",
+      "role": "선택 적용 액션 패턴",
+      "source": "이 패키지에서 자체 작성",
+      "creator": "korean-ui-design",
+      "license": "CC0-1.0 · UI-ASSET-LICENSE.txt",
+      "sha256": "ef6e53f8196131f1f2bdc028e2a91a08b4d11e8b6573e894f49b84967afee85b"
+    },
+    {
+      "id": "interactions-js",
+      "path": "interactions.js",
+      "kind": "document",
+      "role": "선택 적용 액션 패턴",
+      "source": "이 패키지에서 자체 작성",
+      "creator": "korean-ui-design",
+      "license": "CC0-1.0 · UI-ASSET-LICENSE.txt",
+      "sha256": "6ed49131796131469f346f66da50f4f9bfc342b6ca43fb2f10f44a514a795e4d"
+    },
+    {
+      "id": "flow-review-index-html",
+      "path": "flow-review/index.html",
+      "kind": "example",
+      "role": "구간 탐색·카드·문자 화살표 실행 예제",
+      "source": "자체 구현",
+      "creator": "프로젝트 제공 예제",
+      "license": "UI-ASSET-LICENSE.txt",
+      "sha256": "8882902b17e686dd6fcdebef85ee730a257325a72cab5340e72abd25786e876e"
+    },
+    {
+      "id": "flow-review-style-css",
+      "path": "flow-review/style.css",
+      "kind": "example",
+      "role": "구간 탐색·카드·문자 화살표 실행 예제",
+      "source": "자체 구현",
+      "creator": "프로젝트 제공 예제",
+      "license": "UI-ASSET-LICENSE.txt",
+      "sha256": "c862fb43db2b369bd36c85465b553eae66abfc2769ceb1d5e550fd73aa571de5"
+    },
+    {
+      "id": "flow-review-app-js",
+      "path": "flow-review/app.js",
+      "kind": "example",
+      "role": "구간 탐색·카드·문자 화살표 실행 예제",
+      "source": "자체 구현",
+      "creator": "프로젝트 제공 예제",
+      "license": "UI-ASSET-LICENSE.txt",
+      "sha256": "00d0c43e6cb9f17d1071b87aef5391990568c6b29b9d949b21edadf1e4b994c8"
+    }
+  ]
+}

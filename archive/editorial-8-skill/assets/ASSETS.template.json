@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "assets": [],
+  "entryGuide": {
+    "id": "hero-photo",
+    "path": "photos/hero.jpg",
+    "kind": "image",
+    "role": "대표 사진·상세·과정 등 실제 대상과 역할",
+    "source": "직접 촬영 기록 또는 원문 URL",
+    "creator": "저작자",
+    "license": "이용 조건과 확인 근거",
+    "authenticity": "actual / reference / generated 중 하나",
+    "alt": "실제로 보이는 대상을 설명",
+    "crop": {
+      "desktop": "50% 50%",
+      "mobile": "50% 50%"
+    },
+    "sha256": "선택: 고정한 원본의 SHA-256",
+    "subject": "보존할 실제 피사체/내용",
+    "shootGroup": "같은 촬영/조명/배경 묶음, 해당할 때",
+    "usedIn": [
+      {
+        "section": "hero",
+        "role": "대표",
+        "newInformation": "이 위치에서 전달하는 정보"
+      }
+    ],
+    "mobileEdit": {
+      "focalPoint": "손과 컵 손잡이 등 실제 남길 대상",
+      "safeArea": "자르면 안 되는 영역 또는 별도 원본",
+      "fallback": "비율 변경/단일 주인공/문구 분리 등"
+    },
+    "missingAssetAlternative": "추가 촬영 또는 현재 자료로 가능한 정직한 대안",
+    "visualGroupReview": {
+      "comparedWith": "같이 노출되는 실제 에셋 ID",
+      "observed": "빛·배경·거리의 차이와 의도",
+      "decision": "그대로 사용 / 배치·크롭 조정 / 대체 원본 필요",
+      "neededAsset": "필요할 때 대상·새 정보·촬영 조건"
+    },
+    "subjectReview": {
+      "widths": "실제 비교한 PC/모바일 폭",
+      "subjectScale": "프레임 안 피사체 크기·남길 윤곽/세부",
+      "lightAndSpace": "동시 노출 자료와 빛/거리/여백 차이",
+      "decision": "크롭/위치/배치 유지·조정 또는 대체 촬영 필요"
+    }
+  }
+}

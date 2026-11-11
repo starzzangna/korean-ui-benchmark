@@ -1,0 +1,80 @@
+{
+  "files": [
+    {
+      "path": "results/craft/brand/index.html",
+      "sha256": "104cdb23d9d6ed1de2805beb0e92cf97d0529478985013d09273aa4560fcb990"
+    },
+    {
+      "path": "results/craft/event/index.html",
+      "sha256": "5d75bd24eb5e092489a03928f1aa8a4343a9be6a4225e80c68fb3b59a86dc9d3"
+    },
+    {
+      "path": "results/craft/local/index.html",
+      "sha256": "df9456a3448f83703ba1fb3e76900bb676b511d03c51d1ecb1b19c01c56c6a12"
+    },
+    {
+      "path": "results/craft/portfolio/index.html",
+      "sha256": "dedaf664df3abb14bb8dcc3c527f8a369546520322419a90131598ba70aa33a9"
+    },
+    {
+      "path": "results/craft/professional/index.html",
+      "sha256": "fc7bf75cb8d695bb2e7a183c5d1910e505295467a6d630e1921f5b60e0e524a1"
+    },
+    {
+      "path": "results/craft/restaurant/index.html",
+      "sha256": "92b061ebcd0c0afbcb661ebb41a1c24d4e728c0dbf41caaefdc89117347f1203"
+    },
+    {
+      "path": "results/craft/saas/index.html",
+      "sha256": "618fba79027a5a2eec21802b527a64ec861b7f7388b7c77df945c5256f1afa6c"
+    },
+    {
+      "path": "src/craft/actions.js",
+      "sha256": "40cb58a1dcd6952c88054b2c9cc0d9e41a899bb98a863d319f1957c280e1a012"
+    },
+    {
+      "path": "src/craft/app.js",
+      "sha256": "e26e45c38a8b1e71b2ed5034fdc7ab4c84563b49e0315c8f34ebd150f71e9cef"
+    },
+    {
+      "path": "src/craft/assets/manifest.json",
+      "sha256": "87f6888dcf19cf0f5486adf5e8e4468179518aea27583c6d15fd9574fb1442be"
+    },
+    {
+      "path": "src/craft/assets/nest-flow.svg",
+      "sha256": "7465ff7a9d3e7f9411db80098a9b63431b56d05fc2200058029d0b1d1e9bf1e6"
+    },
+    {
+      "path": "src/craft/assets/nest-ui.svg",
+      "sha256": "a20bd27d9d487f8540b5a8cc1b2e177f1b5840bc30f90b3f8435f2e63b196036"
+    },
+    {
+      "path": "src/craft/content-reveal.js",
+      "sha256": "cdf604f5520f59b312a19b8f78b673322e7b7d11873eed15ded3a507ca77da77"
+    },
+    {
+      "path": "src/craft/motion.js",
+      "sha256": "991b9fb355f98ff9380150f881a7fc28655519299dac453cbd109dfd9349239a"
+    },
+    {
+      "path": "src/craft/result-artifact.js",
+      "sha256": "e5c9a41c265c12380104be20875c9e9d49036289627c418ef8d34c5c89a4f2cf"
+    },
+    {
+      "path": "src/craft/stability.js",
+      "sha256": "d5001eb5d8c2e3db7361c4d86e88ee795fe4be5f3d1ba67b11c066800997a0d1"
+    },
+    {
+      "path": "src/craft/style.css",
+      "sha256": "096aef94c2d14aa295fa4e0425a8f96d29ac4c44467048c3ad0e0e773050ecb9"
+    },
+    {
+      "path": "src/craft/viewer.js",
+      "sha256": "ebe319029a413348315352dcdf4a7e2434d2994fbfd9b680ddf939db17fea975"
+    },
+    {
+      "path": "craft/index.html",
+      "sha256": "a8d10d6938bfab02cd4166e44e2e047b74c9ab7f21aa37b21993ce08a0608ea3"
+    }
+  ]
+}

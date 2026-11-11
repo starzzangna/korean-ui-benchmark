@@ -1,0 +1,29 @@
+/* 공유하는 것은 탐색 행동이며, 상단의 시각 구조는 사이트의 과업으로 정한다. */
+body[data-purpose]{--section-action:var(--section-paper)}
+body[data-purpose] .p-header{border:0;min-width:0}
+.p-header .logo{min-width:0}.p-header .logo strong{overflow-wrap:anywhere}.p-header nav{flex-wrap:wrap}.p-header a:focus-visible{outline:3px solid currentColor;outline-offset:5px}
+body[data-purpose][data-category=brand]{--paper:#f5f2e9;--section-paper:#f5f2e9;--section-action:#f5f2e9;--line:#d9d3c7;--ink:#34362f;--muted:#626355}
+body[data-purpose] .p-header-catalogue{display:grid;grid-template-columns:1fr auto;padding:32px 0 18px;border-bottom:1px solid var(--line);gap:14px 28px}
+.p-header-catalogue .logo strong{font-size:24px}.p-header-note{margin:0;font-size:13px;color:var(--muted);text-align:right}.p-header-catalogue nav{grid-column:1/-1;justify-content:flex-end}
+body[data-purpose] .r-brand-opening{margin-top:32px;margin-bottom:0;padding-bottom:36px;gap:48px}
+body[data-purpose] .r-products-section{border-top:1px solid var(--line);padding-top:36px}.p-header-catalogue+.skip-link{display:none}
+body[data-purpose][data-category=local]{--paper:#ede6db;--section-paper:#fcfaf5;--section-action:#fcfaf5;--line:#d5cabb}
+body[data-purpose] .p-header-workshop{justify-content:center;flex-direction:column;gap:12px;padding-block:28px}.p-header-workshop .logo strong{font-size:23px}.p-header-workshop nav{justify-content:center}
+body[data-purpose] .o-local-opening{margin-top:16px;margin-bottom:0;padding-bottom:40px}
+body[data-purpose] .o-class-section{padding-top:44px}body[data-purpose] .o-local-booking{border-top:1px solid var(--line)}
+body[data-purpose][data-category=restaurant]{--section-paper:#fff8ec;--section-action:#efddce}
+body[data-purpose] .p-header-immersive{max-width:none;width:100%;padding:22px max(48px,calc((100vw - 1200px)/2));background:#30251e;color:#fff6e8;gap:24px}
+.p-header-immersive a{color:inherit}.p-header-immersive .logo strong{font-size:22px}
+body[data-purpose] .s-dining-hero{min-height:530px}.s-dining-copy{padding-block:50px}
+body[data-purpose][data-category=portfolio]{--paper:#f2f2f0;--section-paper:#f2f2f0;--section-action:#f2f2f0;--line:#d2d2ce;--ink:#272a2c;--muted:#5e6263}
+body[data-purpose] .p-header-masthead{padding-block:22px;border-bottom:1px solid var(--ink)}.p-header-masthead .logo strong{font-size:17px;font-weight:600}.p-header-masthead nav{gap:28px;font-size:13px}
+body[data-purpose] .r-studio-opening{margin-top:32px;margin-bottom:24px}body[data-purpose] .r-work-collection{padding-top:32px;border-top:1px solid var(--line)}body[data-purpose] .o-studio-request{border-top:1px solid var(--ink)}
+body[data-purpose][data-category=professional]{--paper:#eaf0eb;--section-paper:#fafaf5;--section-action:#fafaf5}
+body[data-purpose] .p-header-practice{width:100%;max-width:none;padding:24px max(48px,calc((100vw - 1200px)/2));background:#2c453c;color:#f5f8ed}.p-header-practice a{color:inherit}.p-header-practice .logo strong{font-size:22px}
+body[data-purpose] .r-service-sample{background:#fffdf3;box-shadow:8px 12px 0 #c6d5c9;border:1px solid #a6b9aa;transform:rotate(-1deg)}body[data-purpose] .r-sample-after{background:#e1ebdd;padding:20px;border-radius:8px}body[data-purpose] .r-service-request{border-top:1px solid var(--line)}
+body[data-purpose][data-category=event]{--paper:#f0d9c8;--section-paper:#fff8ed;--section-action:#fff8ed;--line:#d6bcaa}
+body[data-purpose] .p-header-festival{border-bottom:2px solid var(--ink);padding-block:20px}.p-header-festival .logo strong{font-size:14px;letter-spacing:.04em}
+body[data-purpose] .s-event-hero{margin-top:0;padding-top:36px;gap:40px;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}body[data-purpose] .s-event-art{background:#77432f;border-radius:18px;padding:22px}body[data-purpose] .s-event-art img{border-radius:4px}body[data-purpose] .o-event-register{border-top:1px solid var(--line)}
+@media(max-width:1050px){body[data-purpose] .r-brand-opening{gap:28px}.p-header nav{gap:18px}}
+@media(max-width:760px){body[data-purpose] .s-dining-hero>.s-dining-image{bottom:auto;height:330px}}
+@media(max-width:760px){body[data-purpose] .p-header{width:calc(100% - 40px);padding:20px 0;gap:16px}.p-header nav{gap:16px}.p-header .logo strong{font-size:18px}.p-header-note{display:none}body[data-purpose] .p-header-catalogue{grid-template-columns:1fr}.p-header-catalogue nav{justify-content:flex-start}body[data-purpose] .p-header-workshop{align-items:center}.p-header-workshop nav{justify-content:center}body[data-purpose] .p-header-immersive,body[data-purpose] .p-header-practice{width:100%;padding:20px;justify-content:space-between}.p-header-masthead nav{font-size:13px}.p-header-festival .logo strong{font-size:12px}body[data-purpose] .s-dining-hero{min-height:0;padding-top:210px;align-items:end}body[data-purpose] .s-dining-copy{padding:36px 0 32px}body[data-purpose] .s-dining-hero::before{background:linear-gradient(180deg,transparent 0,rgba(39,29,20,.05) 170px,#30251e 280px,#30251e 100%)}body[data-purpose] .s-dining-image>img{object-position:58% 60%}body[data-purpose] .r-service-sample{transform:none;box-shadow:4px 6px 0 #c6d5c9}body[data-purpose] .s-event-hero{grid-template-columns:1fr;gap:24px;padding-top:24px}body[data-purpose] .s-event-art{padding:14px}body[data-purpose] .r-brand-opening{margin-top:24px;padding-bottom:24px}body[data-purpose] .r-studio-opening{margin-top:24px}}

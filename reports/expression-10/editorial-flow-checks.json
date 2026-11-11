@@ -1,0 +1,201 @@
+{
+  "total": 6,
+  "passed": 6,
+  "failed": 0,
+  "checks": [
+    {
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "oneSelector": true,
+        "allChoices": true,
+        "scopeExampleAndFormSynchronized": true,
+        "keyboard": true
+      }
+    },
+    {
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "boxes": [
+          {
+            "x": 120,
+            "width": 784,
+            "bottom": 801.46875
+          },
+          {
+            "x": 928,
+            "width": 392,
+            "bottom": 801.46875
+          }
+        ],
+        "fullAndSupportRoles": true,
+        "correctDetailTargets": true,
+        "focusReturns": true
+      }
+    },
+    {
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "singleTitleAndDate": true,
+        "posterCTAKeyboard": true,
+        "buttonContrast": 8.761776565700284,
+        "edge": {
+          "gap": 0,
+          "background": "rgb(255, 248, 237)",
+          "previous": "rgb(255, 248, 237)"
+        }
+      }
+    },
+    {
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "oneSelector": true,
+        "allChoices": true,
+        "scopeExampleAndFormSynchronized": true,
+        "keyboard": true
+      }
+    },
+    {
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "boxes": [
+          {
+            "x": 20,
+            "width": 208,
+            "bottom": 512.703125
+          },
+          {
+            "x": 240,
+            "width": 130,
+            "bottom": 512.703125
+          }
+        ],
+        "fullAndSupportRoles": true,
+        "correctDetailTargets": true,
+        "focusReturns": true
+      }
+    },
+    {
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "singleTitleAndDate": true,
+        "posterCTAKeyboard": true,
+        "buttonContrast": 8.761776565700284,
+        "edge": {
+          "gap": 0,
+          "background": "rgb(255, 248, 237)",
+          "previous": "rgb(255, 248, 237)"
+        }
+      }
+    }
+  ],
+  "metrics": [
+    {
+      "topic": "professional",
+      "width": 1440,
+      "group": "relevance",
+      "height": 1538,
+      "firstLink": 648.484375,
+      "firstServiceChoice": 371.796875
+    },
+    {
+      "topic": "professional",
+      "width": 1440,
+      "group": "expression",
+      "height": 1540,
+      "firstLink": 650.484375,
+      "firstServiceChoice": 371.796875
+    },
+    {
+      "topic": "portfolio",
+      "width": 1440,
+      "group": "relevance",
+      "height": 3059,
+      "firstLink": 209.53125,
+      "image": 281.53125
+    },
+    {
+      "topic": "portfolio",
+      "width": 1440,
+      "group": "expression",
+      "height": 3023,
+      "firstLink": 209.53125,
+      "image": 281.53125
+    },
+    {
+      "topic": "event",
+      "width": 1440,
+      "group": "relevance",
+      "height": 1828,
+      "firstLink": 510.296875,
+      "image": 341.796875
+    },
+    {
+      "topic": "event",
+      "width": 1440,
+      "group": "expression",
+      "height": 1831,
+      "firstLink": 511.640625,
+      "image": 343.140625
+    },
+    {
+      "topic": "professional",
+      "width": 390,
+      "group": "relevance",
+      "height": 2295,
+      "firstLink": 1009.21875,
+      "firstServiceChoice": 365.5625
+    },
+    {
+      "topic": "professional",
+      "width": 390,
+      "group": "expression",
+      "height": 2297,
+      "firstLink": 1011.21875,
+      "firstServiceChoice": 365.5625
+    },
+    {
+      "topic": "portfolio",
+      "width": 390,
+      "group": "relevance",
+      "height": 3582,
+      "firstLink": 231.25,
+      "image": 297.25
+    },
+    {
+      "topic": "portfolio",
+      "width": 390,
+      "group": "expression",
+      "height": 3508,
+      "firstLink": 231.25,
+      "image": 297.25
+    },
+    {
+      "topic": "event",
+      "width": 390,
+      "group": "relevance",
+      "height": 2798,
+      "firstLink": 419.578125,
+      "image": 284.578125
+    },
+    {
+      "topic": "event",
+      "width": 390,
+      "group": "expression",
+      "height": 2803,
+      "firstLink": 419.578125,
+      "image": 284.578125
+    }
+  ]
+}

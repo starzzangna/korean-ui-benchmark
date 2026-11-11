@@ -1,0 +1,14 @@
+{
+  "authenticity": "기존 가상 콘셉트 NEST의 모바일 핵심 화면 크롭. 전체·세부 모달 원본은 변경하지 않는다.",
+  "source": "../../craft/assets/nest-ui.svg",
+  "sourceSha256": "a20bd27d9d487f8540b5a8cc1b2e177f1b5840bc30f90b3f8435f2e63b196036",
+  "license": "프로젝트 LICENSE 참조",
+  "assets": [
+    {
+      "path": "nest-focus.svg",
+      "sha256": "4e2f61f3db7ade4b3355559bc4b544ce630d08f29dc6123115abf6e27865d742",
+      "viewBox": "380 210 1140 710",
+      "role": "모바일 대표 핵심 화면"
+    }
+  ]
+}

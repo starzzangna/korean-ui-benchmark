@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "total": 2,
+  "checks": [
+    {
+      "group": "refined",
+      "width": 390,
+      "cardAndMenuSync": true,
+      "countsAfterEditAndAdd": true,
+      "mobileKeyboard": true,
+      "reducedMotion": true,
+      "text200": true
+    },
+    {
+      "group": "refined",
+      "width": 1440,
+      "cardAndMenuSync": true,
+      "countsAfterEditAndAdd": true,
+      "mobileKeyboard": true,
+      "reducedMotion": true,
+      "text200": true
+    }
+  ]
+}

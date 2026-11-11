@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "assets": [
+    {
+      "id": "cup",
+      "path": "../compositions/media/cup.jpg",
+      "kind": "image",
+      "role": "사용 장면 크롭 비교",
+      "source": "https://unsplash.com/photos/person-holding-white-ceramic-tea-cup-tXW7gPCgkc0",
+      "creator": "Elizabeth Tsung",
+      "license": "https://unsplash.com/license",
+      "authenticity": "reference",
+      "alt": "컵과 손잡이",
+      "subject": "컵과 손잡이",
+      "sha256": "46cbab9e14eb6bcc969262af86e6d625fd9dd9ee8990df46cfc342df4cea7c01",
+      "usedIn": [
+        {
+          "section": "brand",
+          "role": "참고 사진/개념 작업의 동일 자료 상세 연결",
+          "newInformation": "새 촬영이 아닌 기존 자료 재사용·실행 관계 예제"
+        }
+      ],
+      "mobileEdit": {
+        "focalPoint": "컵과 손잡이",
+        "safeArea": "피사체를 식별할 영역",
+        "fallback": "비율과 초점을 바꾸거나 원본 전체 표시"
+      }
+    },
+    {
+      "id": "editorial",
+      "path": "../compositions/media/editorial.svg",
+      "kind": "image",
+      "role": "개념 작업 전체 원본",
+      "source": "../compositions/media/editorial.svg",
+      "creator": "패키지 자체 제작 SVG",
+      "license": "동봉 예제 자료로 사용·수정 가능",
+      "authenticity": "generated",
+      "alt": "실제 고객 작업이 아닌 개념 예제",
+      "subject": "작품 전체",
+      "sha256": "3c889e70aa1d544212243a49a2fb2f67269408e98bcfff545d2bf9cd880ad982",
+      "usedIn": [
+        {
+          "section": "portfolio",
+          "role": "참고 사진/개념 작업의 동일 자료 상세 연결",
+          "newInformation": "새 촬영이 아닌 기존 자료 재사용·실행 관계 예제"
+        }
+      ],
+      "mobileEdit": {
+        "focalPoint": "전체 작업",
+        "safeArea": "원본 전체",
+        "fallback": "contain과 원본 보기"
+      }
+    }
+  ]
+}

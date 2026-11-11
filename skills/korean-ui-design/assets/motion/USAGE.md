@@ -55,3 +55,12 @@
 [contextual.html](contextual.html)은 기존 모듈과 독립된 선택 예제다. contextual.css/js와 필요한 HTML 블록만 복사한다. UI 색·문구·전체 페이지를 새 사이트에 복사하지 않는다. 입력→산출물 장면은 개념 설명용, 수업 선택은 즉시 가격/폼 연동, 버튼은 안쪽 레이어의 짧은 press, details는 native 열림 상태를 회전으로 보조한다. 실제 등록·전송은 없다.
 
 기존 motion.js와 자동 중복 등록하지 않는다. 장면 wrapper에는 원래 transform을 두지 않고 회전/press는 안쪽에 둔다. 재생은 사용자가 누른 예제에서만 일어나며 reduced motion이면 기본 자세로 즉시 표시된다. JS가 없으면 전체 설명·기본 가격·펼침 내용은 native details로 읽을 수 있고 동적 선택은 disabled 상태와 noscript 안내를 유지한다.
+# 콘텐츠 묶음 진입 모듈
+
+`content-reveal.js`는 콘텐츠를 미리 숨기지 않고 읽는 단위를 한 번 정착시킨다. 부모/자식을 중첩 선택하지 않는다. 기존 프레임 회전 등과 충돌하지 않도록 독립 `translate`를 사용하며, 초점 진입과 모션 감소 시 취소한다. SPA에서는 해제 함수를 컴포넌트 종료 시 호출한다.
+
+```js
+import {contentReveal} from './content-reveal.js';
+const cleanup = contentReveal(document.querySelectorAll('[data-content-reveal]'));
+window.addEventListener('pagehide', cleanup, {once:true});
+```

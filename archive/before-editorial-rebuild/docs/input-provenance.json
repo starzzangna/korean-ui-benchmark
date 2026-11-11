@@ -1,0 +1,42 @@
+[
+  {
+    "label": "A",
+    "source": "https://github.com/Leonxlnx/taste-skill",
+    "revision": "f6b76575f949707b4e3c37cd86cb44b0b98643e8",
+    "inputFiles": [
+      {
+        "path": "skills/taste-skill/SKILL.md",
+        "sha256": "0c7a5852a5217be79cab422c6d58329b776f0c25bd6da8a7a01707ce75be6206"
+      },
+      {
+        "path": "skills/taste-skill/references/motion.md",
+        "sha256": "d7bc6fe01cab8a1c1e921309291828c68f875a25907317279842cf306391c373"
+      },
+      {
+        "path": "skills/taste-skill/assets/motion/motion.css",
+        "sha256": "948bfb7192c908934206ef5776ac28bdd8c3499483d7347cbb24e7b6fb5c6810"
+      },
+      {
+        "path": "skills/taste-skill/assets/motion/motion.js",
+        "sha256": "e4453f1ac91d81002c5a75dccc1263285267999a8bb2453278ab63232e7062cc"
+      },
+      {
+        "path": "LICENSE",
+        "sha256": "4575a543ab88dad12ccea7d97e563d0bce5b448b06072e65d3264497dad326df"
+      }
+    ],
+    "scope": "현재 원본에서 새로 고정한 읽기/사용 파일. 모든 규칙 준수나 전체 도구 실행 인증은 아님."
+  },
+  {
+    "label": "B",
+    "source": "https://github.com/uxjoseph/supanova-design-skill",
+    "revision": "d2c8b2dd389761b5f5314dd22cee7ff3785e0976",
+    "inputFiles": [
+      {
+        "path": "taste-skill/SKILL.md",
+        "sha256": "59c06d9bb5896b9ee2fbb19db61264e4077275719da4febf0f2a4f4f02eff5cd"
+      }
+    ],
+    "scope": "현재 원본에서 새로 고정한 읽기/사용 파일. 모든 규칙 준수나 전체 도구 실행 인증은 아님."
+  }
+]

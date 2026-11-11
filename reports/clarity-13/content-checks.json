@@ -1,0 +1,103 @@
+{
+  "total": 8,
+  "passed": 8,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "가정·선택 근거 동기화와 열린 상태",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "assumptionExplicit": true,
+        "rationales": [
+          "설계 판단 · 제목 대신 관심 주제를 첫 단서로 삼아, 어떤 서점인지 소개 문장에서도 드러냅니다.",
+          "설계 판단 · 주제로 시작하고 소개를 비교한 뒤 저장하도록 순서를 정했습니다. 다시 찾는 행동은 내 서가로 이어집니다.",
+          "설계 판단 · 목록에는 주제, 소개에는 선택 근거, 내 서가에는 다시 찾을 정보를 두어 각 화면의 역할을 나눕니다."
+        ],
+        "openPersists": true
+      }
+    },
+    {
+      "name": "모바일 작품 크기·핵심 크롭·전체 원본 연결",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "width": 784,
+        "src": "http://127.0.0.1:4331/src/craft/assets/nest-ui.svg",
+        "sameVersionZoom": true,
+        "supportRemains": true
+      }
+    },
+    {
+      "name": "활동 소개·중복 제거·정확한 양일 연결",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "noVisibleRepeat": true,
+        "audiencePresent": true,
+        "keyboardTargets": [
+          "버려진 재료를 다시 보는 법",
+          "종이의 새로운 표면"
+        ]
+      }
+    },
+    {
+      "name": "가정·선택 근거 동기화와 열린 상태",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "assumptionExplicit": true,
+        "rationales": [
+          "설계 판단 · 제목 대신 관심 주제를 첫 단서로 삼아, 어떤 서점인지 소개 문장에서도 드러냅니다.",
+          "설계 판단 · 주제로 시작하고 소개를 비교한 뒤 저장하도록 순서를 정했습니다. 다시 찾는 행동은 내 서가로 이어집니다.",
+          "설계 판단 · 목록에는 주제, 소개에는 선택 근거, 내 서가에는 다시 찾을 정보를 두어 각 화면의 역할을 나눕니다."
+        ],
+        "openPersists": true
+      }
+    },
+    {
+      "name": "모바일 작품 크기·핵심 크롭·전체 원본 연결",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "width": 350,
+        "src": "http://127.0.0.1:4331/src/clarity/assets/nest-focus.svg",
+        "sameVersionZoom": true,
+        "supportRemains": true
+      }
+    },
+    {
+      "name": "활동 소개·중복 제거·정확한 양일 연결",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "noVisibleRepeat": true,
+        "audiencePresent": true,
+        "keyboardTargets": [
+          "버려진 재료를 다시 보는 법",
+          "종이의 새로운 표면"
+        ]
+      }
+    },
+    {
+      "name": "닫힌 근거 상태의 축소 구성과 첫 화면",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "bottom": 740.140625,
+        "height": 477,
+        "viewportHeight": 768
+      }
+    },
+    {
+      "name": "닫힌 근거 상태의 축소 구성과 첫 화면",
+      "width": 1280,
+      "passed": true,
+      "evidence": {
+        "bottom": 740.140625,
+        "height": 477,
+        "viewportHeight": 800
+      }
+    }
+  ]
+}

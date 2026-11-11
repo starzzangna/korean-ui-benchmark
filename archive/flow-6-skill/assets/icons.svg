@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<!-- 자체 작성 · CC0-1.0 · 24px, fill none, stroke currentColor로 사용 -->
+<symbol id="kui-arrow-right" viewBox="0 0 24 24"><path d="M4 12h16m-6-6 6 6-6 6"/></symbol>
+<symbol id="kui-arrow-left" viewBox="0 0 24 24"><path d="M20 12H4m6-6-6 6 6 6"/></symbol>
+<symbol id="kui-chevron-down" viewBox="0 0 24 24"><path d="m5 9 7 7 7-7"/></symbol>
+<symbol id="kui-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></symbol>
+<symbol id="kui-close" viewBox="0 0 24 24"><path d="m5 5 14 14M19 5 5 19"/></symbol>
+<symbol id="kui-plus" viewBox="0 0 24 24"><path d="M12 4v16M4 12h16"/></symbol>
+<symbol id="kui-check" viewBox="0 0 24 24"><path d="m4 12 5 5L20 6"/></symbol>
+<symbol id="kui-expand" viewBox="0 0 24 24"><path d="M9 4H4v5m11-5h5v5M4 15v5h5m11-5v5h-5"/></symbol>
+</svg>

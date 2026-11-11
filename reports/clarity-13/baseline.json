@@ -1,0 +1,52 @@
+{
+  "files": [
+    {
+      "path": "results/compact/brand/index.html",
+      "sha256": "104cdb23d9d6ed1de2805beb0e92cf97d0529478985013d09273aa4560fcb990"
+    },
+    {
+      "path": "results/compact/event/index.html",
+      "sha256": "5d75bd24eb5e092489a03928f1aa8a4343a9be6a4225e80c68fb3b59a86dc9d3"
+    },
+    {
+      "path": "results/compact/local/index.html",
+      "sha256": "df9456a3448f83703ba1fb3e76900bb676b511d03c51d1ecb1b19c01c56c6a12"
+    },
+    {
+      "path": "results/compact/portfolio/index.html",
+      "sha256": "dedaf664df3abb14bb8dcc3c527f8a369546520322419a90131598ba70aa33a9"
+    },
+    {
+      "path": "results/compact/professional/index.html",
+      "sha256": "f7d14026e1d965bee4444d5ffd8b435e2c8a0a994011eb662f3e141f405fadf1"
+    },
+    {
+      "path": "results/compact/restaurant/index.html",
+      "sha256": "92b061ebcd0c0afbcb661ebb41a1c24d4e728c0dbf41caaefdc89117347f1203"
+    },
+    {
+      "path": "results/compact/saas/index.html",
+      "sha256": "618fba79027a5a2eec21802b527a64ec861b7f7388b7c77df945c5256f1afa6c"
+    },
+    {
+      "path": "src/compact/actions.js",
+      "sha256": "12fb9ce5d2985c226f3e7d95697f2f087ec5d8b2db52cc6447ed20c2e94f4470"
+    },
+    {
+      "path": "src/compact/stability.js",
+      "sha256": "d5001eb5d8c2e3db7361c4d86e88ee795fe4be5f3d1ba67b11c066800997a0d1"
+    },
+    {
+      "path": "src/compact/style.css",
+      "sha256": "7f5163484c2fa6b935aeef68956a48fb7e52d27727cb4354f7f3d79c341daf1f"
+    },
+    {
+      "path": "src/compact/viewer.js",
+      "sha256": "a3f6f451377daa3bab1caf28d721b68341537a33a41cca02c6f2e5bda506ff8b"
+    },
+    {
+      "path": "compact/index.html",
+      "sha256": "d2764478245c8f3c103cbb1a946b620be5f04b88dc0b5a693cdb52cfe660a3e2"
+    }
+  ]
+}

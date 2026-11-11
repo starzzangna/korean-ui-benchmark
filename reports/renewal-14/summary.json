@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "sites": 28,
+  "categories": 7,
+  "groups": 4,
+  "totalChecks": 812,
+  "additionalFinalSaasBrowserChecks": 53,
+  "preservedFiles": 149,
+  "dataEqual": true,
+  "sameAuthor": true,
+  "independentGeneration": false
+}

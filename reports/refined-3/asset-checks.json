@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "assets": [
+    {
+      "id": "plate",
+      "path": "plate.svg",
+      "sha256": "96a46f6c7a8bc593babed56842a60ed54a4636bb46bb369c87cb1848ea585896",
+      "bytes": 307,
+      "errors": []
+    },
+    {
+      "id": "bowl",
+      "path": "bowl.svg",
+      "sha256": "e05d03625914c8d68fe1a98de9fa8e6c12ef05db3bfcbda5eba38dfc9d87c627",
+      "bytes": 357,
+      "errors": []
+    },
+    {
+      "id": "mug",
+      "path": "mug.svg",
+      "sha256": "a2ba36d9d860c2c3d6d6845bf0bf7d64621b5100801a82aae6e3c0d2272691aa",
+      "bytes": 321,
+      "errors": []
+    },
+    {
+      "id": "material",
+      "path": "material.svg",
+      "sha256": "44ab120c7dc19b484dc3fcaeb5f518f3f4ff548f232a7c27303a1f66287f9f3e",
+      "bytes": 534,
+      "errors": []
+    }
+  ],
+  "note": "로컬 파일·해시 검사. 개념 그림의 사실성과 화면 적합성은 별도 검토."
+}

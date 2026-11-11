@@ -21,17 +21,8 @@ Pretendard·같은 데이터·공통 SVG 아이콘·동일 기능 엔진을 사�
 
 ## 이번 구현과 해석 범위
 
-한 작성자가 각 조건을 읽고 표현을 다시 설계했다. 기능 부품과 데이터는 공유하고, 구성 함수는 `src/saas-layout.mjs`, 조건별 스타일은 `src/saas-conditions.css`에 분리했다. no skill을 일부러 불완전하게 만들지 않는다. 같은 작성자의 이전 지식과 자체군의 사용자 선호가 개입하므로 독립 생성·눈가림·스킬만의 인과 효과를 입증한 실험은 아니다. 원본 스킬의 모든 도구/게이트 실행 인증도 아니다.
+네 군의 업무 레이아웃도 [최신 재제작](EDITORIAL_REBUILD.md)에 포함했다. `src/editions/none.mjs`·`a.mjs`·`b.mjs`·`own.mjs`에서 각각 작성하며 기존 공통 SaaS 구성 함수를 호출하지 않는다. 상태/필터/추가/오류/모달은 같은 기능 엔진을 사용한다.
 
-최종 결과는 no skill의 일반 목록형, A의 단색 워크벤치·제목 옆 상태 집계, B의 진한 탐색 메뉴·목록 옆 상태 패널, 자체의 흰 메뉴·보라색·상단 카드형이다. 이 결과의 배색이나 위치를 다음 비교의 공통 정답으로 사용하지 않는다.
+상태 카드와 메뉴 연결·편집/추가 뒤 집계·모바일 키보드·확대 검사는 `npm run test:saas`, 전체 기능 검사는 `npm test`로 실행한다. 최신 결과는 [검증 기록](../reports/editorial-2/README.md)에 있다. 같은 작성자의 지침 적용 사례이며 독립 생성·미적 우위의 증명이 아니다.
 
-`npm test`의 SaaS 범위와 `npm run test:saas`로 기능·모바일·상태 연결을 검사한다. [카드/메뉴 검사](../reports/saas-cards.json)는 네 군×PC/모바일 8개 시나리오다. 미적 점수나 독립 표본 수가 아니다.
-
-[표현 적용 검사](../reports/saas-design-checks.json)에서 실제 바탕·행동색과 제목/목록/상태 영역의 좌표를 확인했다. 이는 네 군의 표현이 다시 하나로 고정되지 않았는지 확인하는 검사이며 좋은 디자인의 점수가 아니다. [보존 검사](../reports/saas-preservation.json)는 두 이전 비교본과 다른 카테고리의 유지 범위를 기록한다.
-
-## 보존본
-
-- [구조·배색까지 공통 고정했던 직전 4종](../archive/saas-fixed-layout-comparison/index.html): 당시 HTML·스타일·기능 파일을 보존했다.
-- [그 이전 SaaS 4종](../archive/saas-before-status-cards/index.html).
-
-다른 여섯 카테고리의 개선 내용은 유지한다.
+[직전 28개 비교본](../archive/before-editorial-rebuild/index.html)은 원본 실행 자원과 보존했다.

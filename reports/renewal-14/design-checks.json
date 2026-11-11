@@ -1,0 +1,1849 @@
+{
+  "total": 143,
+  "passed": 143,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "saas",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "saas",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "brand",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "brand",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "local",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "local",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "professional",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "professional",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "event",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "event",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "none",
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero n14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "saas",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "saas",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "brand",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "brand",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "local",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "local",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "professional",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "professional",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "event",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "event",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "a",
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero a14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "saas",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "saas",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "brand",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "brand",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "local",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "local",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "professional",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "professional",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-service"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "event",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "event",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "b",
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero b14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "saas",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "saas",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "saas",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "brand",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "brand",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-brand"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "local",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "local",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-local"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-dining"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-studio"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "professional",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-service e-service-intro"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-service e-service-intro"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-service e-service-intro"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "professional",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-service e-service-intro"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-service e-service-intro"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "event",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "event",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-event"
+      }
+    },
+    {
+      "name": "반응형·실제 이미지·폼 높이",
+      "group": "own",
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "overflow": false,
+        "broken": [],
+        "controlDelta": 0,
+        "hero": "r14-hero o14-event"
+      }
+    },
+    {
+      "name": "자체 서비스의 근거·값·읽기 위치",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "rows": [
+          17.046875,
+          17.046875,
+          17.046875,
+          17.046875
+        ],
+        "reasonSync": true
+      }
+    },
+    {
+      "name": "자체 서비스의 근거·값·읽기 위치",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "rows": [
+          474.015625,
+          474.015625,
+          474.015625,
+          474.015625
+        ],
+        "reasonSync": true
+      }
+    },
+    {
+      "name": "새4종 경로·구간 이동·동시 스크롤",
+      "topic": "viewer",
+      "passed": true,
+      "evidence": {
+        "ratios": [
+          0.4006908462867012,
+          0.40086439762290654,
+          0.40070921985815605,
+          0.4
+        ],
+        "allNewRoutes": true
+      }
+    }
+  ]
+}

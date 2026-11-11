@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 2,
+  "assets": [
+    {
+      "id": "cup",
+      "path": "../compositions/media/cup.jpg",
+      "kind": "image",
+      "role": "사용 장면 크롭 비교",
+      "source": "https://unsplash.com/photos/person-holding-white-ceramic-tea-cup-tXW7gPCgkc0",
+      "creator": "Elizabeth Tsung",
+      "license": "https://unsplash.com/license",
+      "authenticity": "reference",
+      "alt": "컵과 손잡이",
+      "subject": "컵과 손잡이",
+      "sha256": "46cbab9e14eb6bcc969262af86e6d625fd9dd9ee8990df46cfc342df4cea7c01",
+      "usedIn": [
+        {
+          "section": "scene-evidence",
+          "role": "사진/작품과 같은 자료 상세·과정/선택 관계 예제",
+          "newInformation": "같은 자료를 사용한 관계 검토; 새 촬영/실제 상품 증거 아님"
+        }
+      ],
+      "mobileEdit": {
+        "focalPoint": "컵과 손잡이",
+        "safeArea": "피사체를 식별할 영역",
+        "fallback": "비율과 초점을 바꾸거나 원본 전체 표시"
+      }
+    },
+    {
+      "id": "brewing",
+      "path": "../editorial/brewing.jpg",
+      "kind": "image",
+      "role": "과정과 수업 목록 연결",
+      "source": "https://unsplash.com/photos/coffee-is-being-prepared-using-a-pour-over-method-byPbezNfaIs",
+      "creator": "Gaia&Co",
+      "license": "https://unsplash.com/license",
+      "authenticity": "reference",
+      "alt": "손과 드리퍼·추출 도구",
+      "subject": "손과 드리퍼·추출 도구",
+      "sha256": "88d2e0e3694475ded655be2845e9f25568575d96e51071963b3809ffff3cc347",
+      "usedIn": [
+        {
+          "section": "scene-evidence",
+          "role": "사진/작품과 같은 자료 상세·과정/선택 관계 예제",
+          "newInformation": "같은 자료를 사용한 관계 검토; 새 촬영/실제 상품 증거 아님"
+        }
+      ],
+      "mobileEdit": {
+        "focalPoint": "손과 드리퍼·추출 도구",
+        "safeArea": "피사체를 식별할 영역",
+        "fallback": "비율과 초점을 바꾸거나 원본 전체 표시"
+      }
+    },
+    {
+      "id": "editorial",
+      "path": "../compositions/media/editorial.svg",
+      "kind": "image",
+      "role": "개념 작업 전체 원본",
+      "source": "../compositions/media/editorial.svg",
+      "creator": "패키지 자체 제작 SVG",
+      "license": "동봉 예제 자료로 사용·수정 가능",
+      "authenticity": "generated",
+      "alt": "실제 고객 작업이 아닌 개념 예제",
+      "subject": "작품 전체",
+      "sha256": "3c889e70aa1d544212243a49a2fb2f67269408e98bcfff545d2bf9cd880ad982",
+      "usedIn": [
+        {
+          "section": "scene-evidence",
+          "role": "사진/작품과 같은 자료 상세·과정/선택 관계 예제",
+          "newInformation": "같은 자료를 사용한 관계 검토; 새 촬영/실제 상품 증거 아님"
+        }
+      ],
+      "mobileEdit": {
+        "focalPoint": "전체 작업",
+        "safeArea": "원본 전체",
+        "fallback": "contain과 원본 보기"
+      }
+    },
+    {
+      "id": "interface",
+      "path": "../compositions/media/interface.svg",
+      "kind": "image",
+      "role": "작업 화면 개념 SVG",
+      "source": "../compositions/media/interface.svg",
+      "creator": "패키지 자체 제작",
+      "license": "동봉 예제 자료로 사용·수정 가능",
+      "authenticity": "generated",
+      "sha256": "aded6a1d79caaf18cdd3aad6a437b93ef6421ef223d05ec3819bc2726c1f24ac"
+    }
+  ],
+  "font": "../fonts/PretendardVariable.woff2; 기존 OFL/출처 기록 유지"
+}

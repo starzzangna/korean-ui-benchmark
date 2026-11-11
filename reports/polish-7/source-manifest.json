@@ -1,0 +1,516 @@
+{
+  "files": [
+    {
+      "path": "src/polish/actions.js",
+      "sha256": "5ede05f5d1c9f4c305ce7b61c15d1aee111f30d7a95b0af3b423cff690907f67"
+    },
+    {
+      "path": "src/polish/content-reveal.js",
+      "sha256": "d9142edce0ed29cd506cec11697af0cf775676a1c0cd7394f737248e04ce1062"
+    },
+    {
+      "path": "src/polish/motion.js",
+      "sha256": "9d473f8900e724ef70dc09aea0775c04ce6342963d519f786fbc19749f8f6382"
+    },
+    {
+      "path": "src/polish/style.css",
+      "sha256": "f49265f1ba775354214b3c9b74ae717751c6027a8cf9cd291c70887eacb987d0"
+    },
+    {
+      "path": "src/polish/viewer.js",
+      "sha256": "b5679badc6e27a9741a33e32f14910ed9e6991541f398407664af84d1dba00c7"
+    },
+    {
+      "path": "results/polish/brand/index.html",
+      "sha256": "104cdb23d9d6ed1de2805beb0e92cf97d0529478985013d09273aa4560fcb990"
+    },
+    {
+      "path": "results/polish/event/index.html",
+      "sha256": "92f1dc359a903559ba48e0a35b796e597455dd2e0433037bec96cc1dc3950a8c"
+    },
+    {
+      "path": "results/polish/local/index.html",
+      "sha256": "df9456a3448f83703ba1fb3e76900bb676b511d03c51d1ecb1b19c01c56c6a12"
+    },
+    {
+      "path": "results/polish/portfolio/index.html",
+      "sha256": "250d8ac410782a9ae5e07b6f35fc72a09cdf3e93ce2de5b5283bc26c6fe95397"
+    },
+    {
+      "path": "results/polish/professional/index.html",
+      "sha256": "f2beef4457665fc27cbd30bb3af2b1b0ecdaeb2def4991a1ca1f027c8b5b33d7"
+    },
+    {
+      "path": "results/polish/restaurant/index.html",
+      "sha256": "92b061ebcd0c0afbcb661ebb41a1c24d4e728c0dbf41caaefdc89117347f1203"
+    },
+    {
+      "path": "results/polish/saas/index.html",
+      "sha256": "618fba79027a5a2eec21802b527a64ec861b7f7388b7c77df945c5256f1afa6c"
+    },
+    {
+      "path": "polish/index.html",
+      "sha256": "2baa65eae11bdb1fb093b92d2b31470bd971e961fe5e9763127dc2932061ad78"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/alignment.html",
+      "sha256": "a6f6357d18ac89abedf8fea3904adc9eff615f037154326ef057cc64ab7a9008"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/ASSET-BRIEF.md",
+      "sha256": "272dcdb5d91dd0559ecbc5680c74f9aeb6f4a7ff0d68eaafb7c8849ecb01763a"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/ASSETS.json",
+      "sha256": "dfd1858941f3044334674ae23c1fe2fba0e326c1c8c94fc1161bfd794144ac21"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/ASSETS.template.json",
+      "sha256": "c43a47dd6d36f403500ddee581c687df6bb71821fef878f663d56c2faa0403e8"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/category-motion/ASSETS.json",
+      "sha256": "9a8df74b3e819c549a172ae4344daa991f4c831d1bfeb15d66b98414c7c57ba9"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/category-motion/examples.css",
+      "sha256": "5628c4561c383d9b3e9a71721c299db1dc96887d49e778e408d4bb838ba62295"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/category-motion/examples.js",
+      "sha256": "10978c290f15ee32c08318cc323c0820fa9a298a2a39a0f9ec012de285a79ceb"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/category-motion/index.html",
+      "sha256": "c46447c2ff14ea6f53ee547b9d0f025b1cbe2f6891a5091d92b8bb94c7776ab6"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/category-motion/USAGE.md",
+      "sha256": "14a574a5247afdf5244741cc9bd761cd3353230e2006bed2b1078d1124b7a1e0"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/compositions.css",
+      "sha256": "fb41050fc5a87a9711192c95623eaf818c6bc724550b3ab136fcd56b7b71c4c0"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/demo.js",
+      "sha256": "e3de025e31a2a8eaa553474c9e534a8d2c6b8a77234754819b6627c73ce725d5"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/full-bleed.html",
+      "sha256": "10d98629cbf8227ae7fcc940e9cb7e95deabaa8ff5b02fccb798a30f996dfa1c"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/gallery.html",
+      "sha256": "a6127d217f6c1b6ba844a4847c053f769c54189fe0f5d5d99478e97be401e9ef"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/index.html",
+      "sha256": "2b52078fba027c3b6e7e4f83a178c0020e79e084363e0f7f9f8b456e5593f55c"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/layered.html",
+      "sha256": "9be6fb2af2a9c851e6c5d6739d2828cb409e90f7d8f7e37ad9826aa49b399265"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/media/cafe.jpg",
+      "sha256": "317c7173ba223206675d05c4a6e969e96e8a84cc842bcc51886db17fa8ac66fd"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/media/cup.jpg",
+      "sha256": "46cbab9e14eb6bcc969262af86e6d625fd9dd9ee8990df46cfc342df4cea7c01"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/media/editorial.svg",
+      "sha256": "3c889e70aa1d544212243a49a2fb2f67269408e98bcfff545d2bf9cd880ad982"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/media/interface.svg",
+      "sha256": "aded6a1d79caaf18cdd3aad6a437b93ef6421ef223d05ec3819bc2726c1f24ac"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/media/sources.json",
+      "sha256": "0a9601393c4a2409295e81584adc5613fd7e1b5938305fbbd36e17f2eb01b6d1"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/media/SOURCES.md",
+      "sha256": "0c1778da1bf0b0830f2717405a60543a84336e66fa76e0ae2aacd0a5c1a753a5"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/media-first.html",
+      "sha256": "24c0dd7127c5f978681bb4f2f7fe5421ee5a7323a409a7055ad064878da7e186"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/poster.html",
+      "sha256": "a4e2ee0ae324b0e1d76ca5378ebb6cd2a611a04709da82cc85a330edb4c9a2d4"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/split.html",
+      "sha256": "0449c4eda63c5ab681cb7b912244f303acc4279cbfcf67d215ffa831d2a5b634"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/compositions/USAGE.md",
+      "sha256": "bc4210c8c15fdf3e739bd9a99c76dab6e7a5e90d130b0569a821dde1f3dfd530"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/controls.css",
+      "sha256": "3c2109b53a705680a67c75ad6f6d8085f6fc5cdcc26db8b778cfb23faf8dedc9"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/decisions/ASSETS.json",
+      "sha256": "bf79ec830fff7a2b1193b2f79f594ea1b2210a7d43b592ed016f5b23d6830b97"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/decisions/decisions.css",
+      "sha256": "caca4b97335fd0348cd880e1d3f87850d38c3fc300c8becc30c56df1235f5b45"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/decisions/decisions.js",
+      "sha256": "3cd08c9366b3fe84b83f080df885a8c50006a1c6fb4cad590cea710c2a970668"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/decisions/index.html",
+      "sha256": "7830213a849498e86de3df75452b812e411a438d43ddbf0fa70f7bd7042d99f1"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/decisions/USAGE.md",
+      "sha256": "7c13ce159ab52f97a85771fe80837d52bd177927ce72fe0ae6ff97bba7d24570"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/DESIGN.md",
+      "sha256": "99297b0e759cc3e50907149c472153c57c8841d42dc3153b2b6701658876b786"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/dialog-demo-contract.json",
+      "sha256": "890fa7a2c5b2145df6d3fa7459652511e441a2fb17461abc3d59d5776c008dae"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/dialog.css",
+      "sha256": "438ebc9db48f954fbeb16f01d7be431819ad0a23593dec3b4a49a2b2c9e26198"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/dialog.html",
+      "sha256": "029d6d3919b43b333aaeb7096d97d4b71019a7c8deb34602304d8aacff6b50d7"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/editorial/ASSETS.json",
+      "sha256": "cd8ec3f0e8b62ecd672d755c235a328be32bd7a51abbd7942a7e4e1814ab9441"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/editorial/brewing.jpg",
+      "sha256": "88d2e0e3694475ded655be2845e9f25568575d96e51071963b3809ffff3cc347"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/editorial/editorial.css",
+      "sha256": "d9196fbfe3295a9b331825ffc6f9d67a1d2f1a39a85be66943d8334bef53ec0b"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/editorial/editorial.js",
+      "sha256": "12e2b673009d1f001a0cd700961d3ce0c9c48eaa5b77d90d765d2c3dd3330deb"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/editorial/index.html",
+      "sha256": "a6abc2d2d0d7210022565e4f1550b71c1970affab102679edad21abe18e6837d"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/editorial/USAGE.md",
+      "sha256": "b40359c3946252efeb8f7d1c26b4bd083eaf9c592d6c071168de032a9ff7dc47"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/flow-review/app.js",
+      "sha256": "00d0c43e6cb9f17d1071b87aef5391990568c6b29b9d949b21edadf1e4b994c8"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/flow-review/index.html",
+      "sha256": "8882902b17e686dd6fcdebef85ee730a257325a72cab5340e72abd25786e876e"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/flow-review/style.css",
+      "sha256": "c862fb43db2b369bd36c85465b553eae66abfc2769ceb1d5e550fd73aa571de5"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/fonts/fonts.css",
+      "sha256": "cb7a6ffd637aca48765ff4ffb2bde29f5e973c0858737fd8756db4ccb1f16179"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/fonts/LICENSE.txt",
+      "sha256": "d31ddd9f2bed32fd7e302a205cf2380ba0de6529152d239ef99cfb6f261bfc04"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/fonts/PretendardVariable.woff2",
+      "sha256": "9599f12fd42fc0bce1cd50b47a0c022e108d7aa64dd0d1bb0ed44f3282d900b4"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/icons.svg",
+      "sha256": "bdff37d7c0f1fbfbf72000b95d2dd06e9e9c07d6bcc7f6fc18023fd25d9a3903"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/interactions.css",
+      "sha256": "ef6e53f8196131f1f2bdc028e2a91a08b4d11e8b6573e894f49b84967afee85b"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/interactions.js",
+      "sha256": "6ed49131796131469f346f66da50f4f9bfc342b6ca43fb2f10f44a514a795e4d"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/motion/content-reveal.js",
+      "sha256": "886bff8750d97d6958faf1b182087c1e0611064742b6f21b8a3971309f86b72d"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/motion/contextual.css",
+      "sha256": "2b350b6443e53353f1ac13f194ec0ebe9fc7ececa8e7d0c3571ac86d6d1810fc"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/motion/contextual.html",
+      "sha256": "21e2913f69305f8cf8cdbcc5ea9134fdf7421ca0b97855242e93d09f06006bbe"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/motion/contextual.js",
+      "sha256": "5a1aaf2f151ecaf6b7ebde695b761e78bd9e6a9c416b4775ddc99c97384f0c12"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/motion/index.html",
+      "sha256": "15d7a99fe54be16d22ec576dba1aa08c399fdae1479e9b9bd176dca6bb660fb7"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/motion/motion.css",
+      "sha256": "76977c0efde71fb16b843f7e4427b8a08e3d24bcba6f0328a161bc322a22ef5e"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/motion/motion.js",
+      "sha256": "4e704f8d355ec2c004c5a7379c84b952e74ca8166e3da78212d7da1839b1f23e"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/motion/USAGE.md",
+      "sha256": "109aa4462cd74f509bfa00672ee5fd7e9e0506e317c75924cb76b88d79035c10"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/patterns/task-summary.css",
+      "sha256": "10ed0c0105fe573ddac6cea00ba354a049c2c65ba98d6c97fd1c29ae87ed351c"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/patterns/task-summary.js",
+      "sha256": "ec92d54888f19e74872efb409b728864c9bb473f57a52382d2602cdf561e2b01"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/qa-contract.example.json",
+      "sha256": "d7d0411cb224eb0b2fc48208ee555065750b505d60575ff8a35aa78c9c7530a1"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/scene-evidence/ASSETS.json",
+      "sha256": "5f7015cb7b1f3e5776630a0b27f31a3b538d48571b0a7682b9bcc1719dbf9ae2"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/scene-evidence/examples.css",
+      "sha256": "c05fc14a5b7417a19a38757ee29bae656778ed0a4116663466446a9332f31b9c"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/scene-evidence/examples.js",
+      "sha256": "f185c5b05ea685ffcedf12f7b2acb7f68f8e4a258bc7e26228b7f9c8d628676c"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/scene-evidence/index.html",
+      "sha256": "d526239e52c7ad62f8a25c65750ac78c557030eb078835fc3e0bf88092d96c69"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/scene-evidence/USAGE.md",
+      "sha256": "7653fbae405af0ceb18ed2c5207a471abaf07be7a9391d7d70e27c47d431700d"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/scenes/plan-board.html",
+      "sha256": "31a4cbf35718bde17aaf3c0655d83ba7446feeb8f4899da589a1a1ad57e556cc"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/scenes/scene.css",
+      "sha256": "2b891c79622f9de955e362b5ce7dd8067f6253451ab297d188fbed6f0f38cc9d"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/scenes/USAGE.md",
+      "sha256": "403e3b10f863bc64bfff78b01dc9171fe56af7d4b0d64501877e15c99dd5ad34"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/select.css",
+      "sha256": "6d08eda5742ce04665d7f8655f06e174127c4b3a3ce01d25095eca3f2f307a67"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/select.html",
+      "sha256": "01d95eabd98842340fdf944a301d12ec5094669032be6c5fd87e606f4a96edc7"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/select.js",
+      "sha256": "d0d20af97218a6dcabae3799c6c8a088002366b897eb0e859ab0d6647b60fa08"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/selection-feedback.html",
+      "sha256": "d26728d4330fc7420a07bf8f577aef8b5a8e6af84580aff982575089f346e0bc"
+    },
+    {
+      "path": "skills/korean-ui-design/assets/UI-ASSET-LICENSE.txt",
+      "sha256": "be05496c24a2e1016f28452d4176ad95ef75bd946896a704e0c74b07d5ffff4a"
+    },
+    {
+      "path": "skills/korean-ui-design/references/applied-evidence.md",
+      "sha256": "addc8765efdd2ccc8f11044622b697d80739e8eb87f3d9278336899b30fb5539"
+    },
+    {
+      "path": "skills/korean-ui-design/references/art-direction-and-assets.md",
+      "sha256": "223d5da662005c6ecff9499cf769dc9a12155f13347720f02ddb52a6bc8683b6"
+    },
+    {
+      "path": "skills/korean-ui-design/references/asset-pipeline.md",
+      "sha256": "4a04ccc31573f9ee96ba11fab514b7c2171411a70e533cd500586f699a2487d9"
+    },
+    {
+      "path": "skills/korean-ui-design/references/brand-scene.md",
+      "sha256": "596c702e9ede412102ad8d62f8c11a8442f19f1a061033484ab63d614f123b76"
+    },
+    {
+      "path": "skills/korean-ui-design/references/browser-audit.md",
+      "sha256": "d38bc588fa63b373d096386a7948ae0118bba1323f6a3affd6d8b7a02d590533"
+    },
+    {
+      "path": "skills/korean-ui-design/references/categories/brand.md",
+      "sha256": "dd88da5470dc649d1fe3c22de5756296b32333932543bcd27f833df5f5f945ef"
+    },
+    {
+      "path": "skills/korean-ui-design/references/categories/event.md",
+      "sha256": "2fa999bbe71b12436fa4b7116dc31fe020ebb761c561c0ec180bef7e7865839e"
+    },
+    {
+      "path": "skills/korean-ui-design/references/categories/local.md",
+      "sha256": "1c88e41d31209221351d7721adc756961560c23d65e8ded033e3035e5d2e8967"
+    },
+    {
+      "path": "skills/korean-ui-design/references/categories/portfolio.md",
+      "sha256": "fd4133c979ea79592734f591a6ba03ecead8cb4d369fc63f91a1be5d59612913"
+    },
+    {
+      "path": "skills/korean-ui-design/references/categories/professional.md",
+      "sha256": "6835f009e27bd6db9f753a650c79405b199dd5e3f02599a40caa15a0553157c9"
+    },
+    {
+      "path": "skills/korean-ui-design/references/categories/restaurant.md",
+      "sha256": "2f99da4ff731c75d87d1d0a79e7aef88f2428083cee3fb16379c506bd1904da9"
+    },
+    {
+      "path": "skills/korean-ui-design/references/categories/saas.md",
+      "sha256": "90fb37c47a9f438765835bd9d07fcb502584ec2d5a434c8f06e5117598d213a8"
+    },
+    {
+      "path": "skills/korean-ui-design/references/category-directions.md",
+      "sha256": "6f75f3eeed30581b20ddee631160cc0bc01dbab1ff264d0375de63b30adfddd9"
+    },
+    {
+      "path": "skills/korean-ui-design/references/color-and-interaction.md",
+      "sha256": "73b72e4df32f33db5e85bf2973f84f09bd19ef4147e145afff209e8750556d9e"
+    },
+    {
+      "path": "skills/korean-ui-design/references/composition-patterns.md",
+      "sha256": "bdd96e19ded7783a7849d1bf2ca8695df76d776cd6850cfc44c9995de9d34d85"
+    },
+    {
+      "path": "skills/korean-ui-design/references/content-composition.md",
+      "sha256": "85844961a14c9c3f674835de2b45aaad8a1d5fd3581dbe32d606adee6c8ce430"
+    },
+    {
+      "path": "skills/korean-ui-design/references/control-alignment.md",
+      "sha256": "acaab13d071c03df5ea0928908344b53ea105a0a805dcf10da62892797dfb9ec"
+    },
+    {
+      "path": "skills/korean-ui-design/references/delivery-gates.md",
+      "sha256": "68f878d72825e619c0dce2fcd175ab72ba7cf3b1c59d3802fbfb8404a4b38aa4"
+    },
+    {
+      "path": "skills/korean-ui-design/references/design-review.md",
+      "sha256": "40efcfa299fa377d2737481c8d69e3253f2f5937eceb9cbc4495b9cf5d38b43a"
+    },
+    {
+      "path": "skills/korean-ui-design/references/dialog-scroll.md",
+      "sha256": "aef5e443410a4515f8de02af94efc6337bc5a7447b785f71b483d0f2f664eda8"
+    },
+    {
+      "path": "skills/korean-ui-design/references/direction-recipes.md",
+      "sha256": "accb3d0b95be97e28dc0a62091e0cc9bdd1b4f0898816cdd9e1bb0e8a8bf2552"
+    },
+    {
+      "path": "skills/korean-ui-design/references/editorial-assets-and-details.md",
+      "sha256": "7a4545bbc530692ca8881e629565fc26042003c1cddb6d107d80a9c525880c08"
+    },
+    {
+      "path": "skills/korean-ui-design/references/editorial-decisions.md",
+      "sha256": "c362e0a2e551ecef071d77a7020fced0df366eaa22e7a2a0f3f8d244b063f2aa"
+    },
+    {
+      "path": "skills/korean-ui-design/references/header-and-surfaces.md",
+      "sha256": "3a74bc2310f3cc735edd9b79d188bd03db0ac8904f8b9ea19368eb207b98a4fe"
+    },
+    {
+      "path": "skills/korean-ui-design/references/hero-composition.md",
+      "sha256": "fb9eac42fa2d10722bbb1837c59e1b73fb234f337a99b1a0b376814af705a038"
+    },
+    {
+      "path": "skills/korean-ui-design/references/korean-art-direction.md",
+      "sha256": "016bc4b0d6b70e7da6ed907d8f5523280a113d679a11c83d268662b6da720e11"
+    },
+    {
+      "path": "skills/korean-ui-design/references/media-and-banners.md",
+      "sha256": "cc1639ac5442fc7b49ed0ba06bfbe756ed3d1266f9a3eba300b94e44420b953b"
+    },
+    {
+      "path": "skills/korean-ui-design/references/mobile-review.md",
+      "sha256": "6483d373c60f4e4a91cc19b0557a016b77571354d9fa31c34175f3c8ac460cfd"
+    },
+    {
+      "path": "skills/korean-ui-design/references/page-relationships.md",
+      "sha256": "49b582146739c8870d2991eb341b65407f66235c1dff43c98ec8af04ecd6452d"
+    },
+    {
+      "path": "skills/korean-ui-design/references/portfolio-composition.md",
+      "sha256": "15ca82142ed6fc1bc08b1d0072411c7766c8f6350255dbf2750a1bcd2943a234"
+    },
+    {
+      "path": "skills/korean-ui-design/references/presets.md",
+      "sha256": "8d53f120c85e4c348afc110dccf2ea6044e0f303ce31887931e2f88ea034c7d6"
+    },
+    {
+      "path": "skills/korean-ui-design/references/project-constraints.md",
+      "sha256": "c1692b440c137d7d56e40f51d48fc0081ec11d9a3dcf50f0c8a58c6f75929cf3"
+    },
+    {
+      "path": "skills/korean-ui-design/references/scene-motion.md",
+      "sha256": "201a98d89917dca0c9f3ec2939ca5afbfaa55d8ea963a51a60f954ed3033450a"
+    },
+    {
+      "path": "skills/korean-ui-design/references/typography.md",
+      "sha256": "e5ce679c3b5636d22fa6dccc22e9272fa2378045ef596dc6f2fdec5adbbb0cf3"
+    },
+    {
+      "path": "skills/korean-ui-design/references/visual-coherence.md",
+      "sha256": "72859b9664179ba53909cce258cde883c24a47aa2afc4ea0a292805d8c79a6dc"
+    },
+    {
+      "path": "skills/korean-ui-design/references/visual-direction.md",
+      "sha256": "ed25c541d94e39779c0164ae1170f7b4ef040c6ca74d0e250b471a84998d9e26"
+    },
+    {
+      "path": "skills/korean-ui-design/references/visual-review.md",
+      "sha256": "544233522597eca737541b4d5cd9186a80b7a74aa45a8272e1cbacc93b6c4b75"
+    },
+    {
+      "path": "skills/korean-ui-design/scripts/audit-page.mjs",
+      "sha256": "ed1765c5552529028058948f1c6698722177292c8856652fa40a85dc8fce9751"
+    },
+    {
+      "path": "skills/korean-ui-design/scripts/layout-probes.js",
+      "sha256": "3d2cafecaca828c008ab2a2f107043fbffd276f934fe50fa75cbf281d38bcfc1"
+    },
+    {
+      "path": "skills/korean-ui-design/scripts/prepare-assets.mjs",
+      "sha256": "2e636028ad2281755e54134fdfb4bfd6e44dc1f8e551c43b689bcea523801c5a"
+    },
+    {
+      "path": "skills/korean-ui-design/SKILL.md",
+      "sha256": "87ee6732ae6c253336f95febe9ced70a7521bcc975325e7951ee57d054d57e13"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "license": "MIT — 이 프로젝트에서 제작한 신규 SVG 코드",
+  "authenticity": "설명용 개념 그림. 실제 수업 결과물·장소·행사 현장 기록이 아님",
+  "assets": [
+    {
+      "file": "plate.svg",
+      "role": "접시 빚기 수업의 결과 형태 설명",
+      "subject": "접시의 전체 윤곽과 높이",
+      "usedIn": [
+        {
+          "section": "local / 수업 목록",
+          "role": "접시 빚기 수업의 결과 형태 설명",
+          "newInformation": "접시의 전체 윤곽과 높이"
+        }
+      ],
+      "id": "plate",
+      "path": "plate.svg",
+      "kind": "image",
+      "source": "이 저장소에서 제작한 신규 SVG 코드",
+      "creator": "프로젝트 제작",
+      "license": "MIT",
+      "authenticity": "generated",
+      "alt": "접시의 전체 윤곽과 높이 개념 그림",
+      "sha256": "96a46f6c7a8bc593babed56842a60ed54a4636bb46bb369c87cb1848ea585896",
+      "mobileEdit": {
+        "focalPoint": "접시의 전체 윤곽과 높이",
+        "safeArea": "전체 윤곽을 보존",
+        "fallback": "contain과 내용 높이로 표시"
+      }
+    },
+    {
+      "file": "bowl.svg",
+      "role": "물레 수업의 그릇 형태 설명",
+      "subject": "그릇의 입구·몸통·굽",
+      "usedIn": [
+        {
+          "section": "local / 수업 목록",
+          "role": "물레 수업의 그릇 형태 설명",
+          "newInformation": "그릇의 입구·몸통·굽"
+        }
+      ],
+      "id": "bowl",
+      "path": "bowl.svg",
+      "kind": "image",
+      "source": "이 저장소에서 제작한 신규 SVG 코드",
+      "creator": "프로젝트 제작",
+      "license": "MIT",
+      "authenticity": "generated",
+      "alt": "그릇의 입구·몸통·굽 개념 그림",
+      "sha256": "e05d03625914c8d68fe1a98de9fa8e6c12ef05db3bfcbda5eba38dfc9d87c627",
+      "mobileEdit": {
+        "focalPoint": "그릇의 입구·몸통·굽",
+        "safeArea": "전체 윤곽을 보존",
+        "fallback": "contain과 내용 높이로 표시"
+      }
+    },
+    {
+      "file": "mug.svg",
+      "role": "머그 수업의 손잡이 형태 설명",
+      "subject": "컵의 몸통·입구·손잡이",
+      "usedIn": [
+        {
+          "section": "local / 수업 목록",
+          "role": "머그 수업의 손잡이 형태 설명",
+          "newInformation": "컵의 몸통·입구·손잡이"
+        }
+      ],
+      "id": "mug",
+      "path": "mug.svg",
+      "kind": "image",
+      "source": "이 저장소에서 제작한 신규 SVG 코드",
+      "creator": "프로젝트 제작",
+      "license": "MIT",
+      "authenticity": "generated",
+      "alt": "컵의 몸통·입구·손잡이 개념 그림",
+      "sha256": "a2ba36d9d860c2c3d6d6845bf0bf7d64621b5100801a82aae6e3c0d2272691aa",
+      "mobileEdit": {
+        "focalPoint": "컵의 몸통·입구·손잡이",
+        "safeArea": "전체 윤곽을 보존",
+        "fallback": "contain과 내용 높이로 표시"
+      }
+    },
+    {
+      "file": "material.svg",
+      "role": "조각이 겹쳐 다음 장을 만드는 행사 개념",
+      "subject": "서로 다른 면·절단·연결",
+      "usedIn": [
+        {
+          "section": "event / 대표 구간",
+          "role": "조각이 겹쳐 다음 장을 만드는 행사 개념",
+          "newInformation": "서로 다른 면·절단·연결"
+        }
+      ],
+      "id": "material",
+      "path": "material.svg",
+      "kind": "image",
+      "source": "이 저장소에서 제작한 신규 SVG 코드",
+      "creator": "프로젝트 제작",
+      "license": "MIT",
+      "authenticity": "generated",
+      "alt": "서로 다른 면·절단·연결 개념 그림",
+      "sha256": "44ab120c7dc19b484dc3fcaeb5f518f3f4ff548f232a7c27303a1f66287f9f3e",
+      "mobileEdit": {
+        "focalPoint": "서로 다른 면·절단·연결",
+        "safeArea": "전체 윤곽을 보존",
+        "fallback": "contain과 내용 높이로 표시"
+      }
+    }
+  ],
+  "schemaVersion": 2
+}

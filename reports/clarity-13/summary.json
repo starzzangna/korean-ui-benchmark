@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "totalChecks": 224,
+  "changedCategories": [
+    "professional",
+    "portfolio",
+    "event"
+  ],
+  "unchangedCategories": [
+    "saas",
+    "brand",
+    "local",
+    "restaurant"
+  ],
+  "saasIdentical": true,
+  "commonDataEqual": true,
+  "preservedCompactFiles": 12,
+  "preservationBaselines": 11,
+  "assetSourcesVerified": true
+}

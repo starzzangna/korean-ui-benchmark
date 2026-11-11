@@ -1,0 +1,13 @@
+{
+  "description": "dialog.html의 요구는 웹·편집·아이덴티티 세 분야다. 프로젝트에 적용할 때는 요구 자료에서 selector·값·문구를 독립 작성한다.",
+  "selects": [
+    {
+      "selector": "#work-type",
+      "options": [
+        {"value":"web", "label":"웹"},
+        {"value":"editorial", "label":"편집"},
+        {"value":"identity", "label":"아이덴티티"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+export const examples={
+ s1:{label:'브랜드 진단',before:'가상의 동네 서점이 책을 고르는 방식을 어떻게 소개할지 고민합니다.',after:'읽고 싶은 주제에서 출발해, 지금의 나에게 맞는 책을 고릅니다.'},
+ s2:{label:'웹 서비스 기획',before:'가상의 서점에서 관심 있는 책을 찾고 다시 보는 과정이 끊깁니다.',after:'관심 주제 고르기 → 책 소개 비교하기 → 내 서가에 담기 → 서가에서 다시 찾기'},
+ s3:{label:'콘텐츠 정리',before:'가상의 서점 페이지마다 자료의 순서와 말투가 달라요.',after:'주제 탐색 → 책 소개 → 내 서가'}
+};
+export const labelFor=id=>({s1:'메시지 초안 · 가상 과제',s2:'책 탐색 흐름 · 가상 과제',s3:'서점 콘텐츠 구조 · 가상 과제'})[id];
+export function scaleArtifact(root,ratio=1){if(Math.abs(ratio-1)<.01)return;const rows=[...root.querySelectorAll('.x-result-message,.x-result-flow small,.x-result-flow span,.x-result-structure dt,.x-result-structure dd')].map(e=>[e,parseFloat(getComputedStyle(e).fontSize)]);for(const[e,size]of rows)if(size)e.style.fontSize=size*ratio+'px';}
+export function drawArtifact(root,id,s){root.replaceChildren();if(id==='s2'){const ol=document.createElement('ol');ol.className='x-result-flow';['관심 주제 고르기','책 소개 비교하기','내 서가에 담기','서가에서 다시 찾기'].forEach((text,i)=>{const li=document.createElement('li'),number=document.createElement('small'),span=document.createElement('span');number.textContent=String(i+1).padStart(2,'0');span.textContent=text;li.append(number,span);ol.append(li);});root.append(ol);}else if(id==='s3'){const dl=document.createElement('dl');dl.className='x-result-structure';for(const[label,text]of[['관심부터','주제 탐색'],['선택 근거','책 소개'],['다시 찾기','내 서가']]){const row=document.createElement('div'),dt=document.createElement('dt'),dd=document.createElement('dd');dt.textContent=label;dd.textContent=text;row.append(dt,dd);dl.append(row);}root.append(dl);}else{const p=document.createElement('p');p.className='x-result-message';p.textContent=s.after;root.append(p);}}

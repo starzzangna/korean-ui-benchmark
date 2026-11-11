@@ -1,0 +1,261 @@
+{
+  "description": "개선 직전 28개 시안과 실행 자료. 새 개선본은 다른 경로에 생성한다.",
+  "files": [
+    {
+      "path": "results/a/brand/index.html",
+      "sha256": "69f105d7a1e7f15375c64aa98e101b7bbbff7419ac751669faaf5e45708e34b8"
+    },
+    {
+      "path": "results/a/event/index.html",
+      "sha256": "829e73570425175cc189cd22835107f4d39b1ab2642996000e84f1a866ad1a41"
+    },
+    {
+      "path": "results/a/local/index.html",
+      "sha256": "c584a42d970c39a9a2a50f326b0b896ad08e0b5e7dd67117591b5a08123f66b3"
+    },
+    {
+      "path": "results/a/portfolio/index.html",
+      "sha256": "00d55931c5ef57c48c45d168df5fda86ebf6a7583b8422fc19752f349165869a"
+    },
+    {
+      "path": "results/a/professional/index.html",
+      "sha256": "8c416a3dff64dea0c3fe62934320b14ffc176a35038e2f9bb7781ae039857e17"
+    },
+    {
+      "path": "results/a/restaurant/index.html",
+      "sha256": "52aab11b02a281ba7f676eceb85c6d6b734a7fee821bd427b3cd70b5f35ef383"
+    },
+    {
+      "path": "results/a/saas/index.html",
+      "sha256": "e9f06edcf78926e56691adca2446407486d8b340e4b1df69731eba2ed24cca7e"
+    },
+    {
+      "path": "results/b/brand/index.html",
+      "sha256": "6ad53e1ebe78183b13feb3e98b42a733c23d4aa3ca64ca561688646bc55ad6e6"
+    },
+    {
+      "path": "results/b/event/index.html",
+      "sha256": "5fb9da1262d2e79f340a96484f351c4ba628057a5aeca44f28f560bd7e8f9857"
+    },
+    {
+      "path": "results/b/local/index.html",
+      "sha256": "75f577c6d41538525a4135d5d8d0d3790913f12b3eaa3be17bebc147ed9b781c"
+    },
+    {
+      "path": "results/b/portfolio/index.html",
+      "sha256": "181b341a2d7bb300b2f4f3de19d9f845cc2b85f4cdbe79b7987b7d90ed1e458a"
+    },
+    {
+      "path": "results/b/professional/index.html",
+      "sha256": "1e38c8551bb7509872692784f71d7fe5f91eade726bba91236520d22786b6fb6"
+    },
+    {
+      "path": "results/b/restaurant/index.html",
+      "sha256": "bb9e326a3fb54ea9fd1501770ab4eede2f5e3485d98e7254e5d2b17ee6910382"
+    },
+    {
+      "path": "results/b/saas/index.html",
+      "sha256": "b952cae5d2f128663a7a41efd5850ccbc1f328984aa9e21c2db71ba80c85a3a8"
+    },
+    {
+      "path": "results/none/brand/index.html",
+      "sha256": "f60f74aff65c29593a3d3610eb87ea0bc2179e417d0d4bb2a19119490224c2c7"
+    },
+    {
+      "path": "results/none/event/index.html",
+      "sha256": "8fcda85296a5def67ff514ff8fc53ce9db6a5ea3fbc861be52081d19fb4f6f75"
+    },
+    {
+      "path": "results/none/local/index.html",
+      "sha256": "56852455686f65b4bc37c9e05e33314be6081b8ea0384e3a18cf379742374c5e"
+    },
+    {
+      "path": "results/none/portfolio/index.html",
+      "sha256": "d63f397949c6d28e455a01adff31ec8a2d88cb609d2e5ca9698f3ac322e3c2e8"
+    },
+    {
+      "path": "results/none/professional/index.html",
+      "sha256": "e6a1fb9d1ecedbe223cf310124b09554b543f67d3212a507751dea758dd347b3"
+    },
+    {
+      "path": "results/none/restaurant/index.html",
+      "sha256": "89099c59684da076240fd2d68c13c54a7e396dc90e495ff65b92c6551d27ad96"
+    },
+    {
+      "path": "results/none/saas/index.html",
+      "sha256": "ad5e87a2f5483b8ab3bbaf80b6bca10335a92248f9740421cc6526ec84faff46"
+    },
+    {
+      "path": "results/own/brand/index.html",
+      "sha256": "85d298721e3c6af45af92cfbc8c88c8a92847265fdc98f967fbf9dd7d751f81b"
+    },
+    {
+      "path": "results/own/event/index.html",
+      "sha256": "cbece8dff918899161c732f8295ce270194b0b73fdd5d0748754be2f1bb467c8"
+    },
+    {
+      "path": "results/own/local/index.html",
+      "sha256": "d00502e1c3ccecde7e20a8e248300b166521ecac2d4757af33d55d69281614c3"
+    },
+    {
+      "path": "results/own/portfolio/index.html",
+      "sha256": "e8b765af6f1ba87b918e226294b8a463d9a32323089196808325835142192612"
+    },
+    {
+      "path": "results/own/professional/index.html",
+      "sha256": "959a86418a894f9a0012a9f2fcbeaf2a5308fde9376df9e860df1d7814d267a8"
+    },
+    {
+      "path": "results/own/restaurant/index.html",
+      "sha256": "45acd870d23560287ba73ab7e80f1ecb507a93eadcc2792ee533b87c33dfe265"
+    },
+    {
+      "path": "results/own/saas/index.html",
+      "sha256": "f18a9b026d5617627a70d24ff0212b9ea8a260bcf092f7a89206f50c427c9b49"
+    },
+    {
+      "path": "src/editions/a.css",
+      "sha256": "c1103ecc906047e7c2f91524e097292a62dc8674c42de64dfe67fa569bd2cc1e"
+    },
+    {
+      "path": "src/editions/a.mjs",
+      "sha256": "9ba2495b36cfdf234e50f5fc68b580b0f4298753aa0d4d0c2e7105597141ce2d"
+    },
+    {
+      "path": "src/editions/b.css",
+      "sha256": "c301fd766940674c62fc2bd322573a91ac1af9350ab6c719f1b155ad46d3b56f"
+    },
+    {
+      "path": "src/editions/b.mjs",
+      "sha256": "bf7a9abfae4406d85efc258df16fa64726e45ea3818c064b4095f54be59055cd"
+    },
+    {
+      "path": "src/editions/functional.css",
+      "sha256": "40139908c4c92952b08d09d4850716d3008b6bdec1ffce728892bf5a91d5a730"
+    },
+    {
+      "path": "src/editions/motion.js",
+      "sha256": "789372812937ed2e94414734a833738b407b75219e7e4e5e4b7744bb8e10f10f"
+    },
+    {
+      "path": "src/editions/none.css",
+      "sha256": "22529e8773320c4361a35ec28fe410cfae279539fb7842bb9ab8ac2285358ae8"
+    },
+    {
+      "path": "src/editions/none.mjs",
+      "sha256": "c8714b5b0b5dab9f2ca8128fd3ae0f1afd88b6ef76a3e228463ca155ea0ce045"
+    },
+    {
+      "path": "src/editions/own.css",
+      "sha256": "dc9af8b3ed912bdf4d9ee7e0fb4e3d3110783ee79d058fc2f1b3b7bb0399d5cf"
+    },
+    {
+      "path": "src/editions/own.mjs",
+      "sha256": "700e9e2e575eda71971e51b1dde3e98a003dfcd1cbbfcaa6056555dd5a928e4a"
+    },
+    {
+      "path": "src/editions/parts.mjs",
+      "sha256": "0f56f6db1000e645f3a9a04a416770933f2deaf07094338c211b4e3d0de10a12"
+    },
+    {
+      "path": "shared/a-motion/LICENSE",
+      "sha256": "4575a543ab88dad12ccea7d97e563d0bce5b448b06072e65d3264497dad326df"
+    },
+    {
+      "path": "shared/a-motion/motion.css",
+      "sha256": "948bfb7192c908934206ef5776ac28bdd8c3499483d7347cbb24e7b6fb5c6810"
+    },
+    {
+      "path": "shared/a-motion/motion.js",
+      "sha256": "e4453f1ac91d81002c5a75dccc1263285267999a8bb2453278ab63232e7062cc"
+    },
+    {
+      "path": "shared/artworks/calendar.svg",
+      "sha256": "b5e39e050562a2774dd35441e76eca80c2418ef606d3b0d2bd7ea532d26e9ca6"
+    },
+    {
+      "path": "shared/artworks/field-detail.svg",
+      "sha256": "f7bd0f94db56dda37d5007d85852cd3a5c538df4e5348d7bc0f93f32e7bdfe5f"
+    },
+    {
+      "path": "shared/artworks/field.svg",
+      "sha256": "0caffa2b9d29c4667d3e16c7dd961bd177aeb661d8e2255d48a801f968e8c3f0"
+    },
+    {
+      "path": "shared/artworks/nest-detail.svg",
+      "sha256": "e63077ab1a2b2fbf1669a75d7f6493e13ea9872c49a01691fa0897d72da6387d"
+    },
+    {
+      "path": "shared/artworks/nest.svg",
+      "sha256": "ac45cac40b88ce6b1e8f762b95a0c9c97edbb2eda85ca1445774384c8353ee61"
+    },
+    {
+      "path": "shared/artworks/notebook.svg",
+      "sha256": "d487c20ee8ff639554205d481e41afea0f7f3d22dcf3f063eb14a9d6125e7160"
+    },
+    {
+      "path": "shared/artworks/pencils.svg",
+      "sha256": "562329e0eb4a65eb8d0db3f65db8deecb902d976613a9c553238765b21bd253d"
+    },
+    {
+      "path": "shared/artworks/ray-detail.svg",
+      "sha256": "1e117830e1b466c35a0d8deb5aa3016b9af730ceed9d24bfd43a42f13aa5b5c9"
+    },
+    {
+      "path": "shared/artworks/ray.svg",
+      "sha256": "ad6a90daf4f31733326dbc481f56eef0cae7fbd0eaae6f1ee8265fb3365bc9a8"
+    },
+    {
+      "path": "shared/data.json",
+      "sha256": "fac6c88308106e468b92eb6a88fde477afeaf094f52771d389eeafe003569ad0"
+    },
+    {
+      "path": "shared/fonts/fonts.css",
+      "sha256": "8a896ccf884280737f018436eb63e8a4c3a06c361696f75e2c8990c7ecebe815"
+    },
+    {
+      "path": "shared/fonts/LICENSE.txt",
+      "sha256": "d31ddd9f2bed32fd7e302a205cf2380ba0de6529152d239ef99cfb6f261bfc04"
+    },
+    {
+      "path": "shared/fonts/PretendardVariable.woff2",
+      "sha256": "9599f12fd42fc0bce1cd50b47a0c022e108d7aa64dd0d1bb0ed44f3282d900b4"
+    },
+    {
+      "path": "shared/photos/breakfast.jpg",
+      "sha256": "a87886888224239c682426793200013e651caf2452dff9dd1773e844f21e1fd2"
+    },
+    {
+      "path": "shared/photos/credits.json",
+      "sha256": "16ab80f3c920533faa6b4ea092b37b6f5af19b3510a0242dca428ba7bdff11ba"
+    },
+    {
+      "path": "shared/photos/desk.jpg",
+      "sha256": "adf846df50ec8a9d07f9c1902ca5b4c63969e0ef90150c5d78272fbcb0545cce"
+    },
+    {
+      "path": "shared/photos/pottery.jpg",
+      "sha256": "b4179a8ffa7668a19f47280f7429f75aab97cc45358e07b4dde1ad09110bb0bf"
+    },
+    {
+      "path": "src/app.js",
+      "sha256": "af1f7659ed1cc0e3908b4969d102f411ef43e83f60a663fffdbe71b119ee93a9"
+    },
+    {
+      "path": "src/saas-ui.js",
+      "sha256": "c4ae55b317ece6da4cf6fa0e69e61c2fa7831aaa507afc86e6b3ffaa1797973c"
+    },
+    {
+      "path": "src/render.mjs",
+      "sha256": "afd7a0cba7c8f266ad3dd926ecd7d01cf44c870a1af0d218bf8f0a52bcc2db4d"
+    },
+    {
+      "path": "src/viewer.js",
+      "sha256": "fbc8e88d9b9f7a0fe87db7923d33acf1637c9d884c2cacd287880c1e74dff360"
+    },
+    {
+      "path": "index.html",
+      "sha256": "8fdba28aeff9ff2e7cf45873bfdfec850e384f6a2b1aec17cd391a7f51c360c4"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "browser": "157.0.8103.50",
+  "node": "v24.22.1",
+  "checks": [
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "purpose",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "purpose",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "purpose",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "purpose",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "purpose",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "purpose",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "purpose",
+      "topic": "restaurant",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "purpose",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "purpose",
+      "topic": "restaurant",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "purpose",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "purpose",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "purpose",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "purpose",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "비교 UI 4군/2군·카테고리·화면 폭",
+      "group": "viewer",
+      "passed": true
+    }
+  ],
+  "total": 14,
+  "passed": 14,
+  "failed": 0,
+  "scope": "단일 작성자의 공유 기능 엔진·서로 다른 시안. 기능/기하/모션 관찰이며 미적 선호·실기기·모든 접근성 상태의 인증이 아님."
+}

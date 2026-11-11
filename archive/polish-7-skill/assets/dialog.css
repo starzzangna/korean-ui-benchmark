@@ -1,0 +1,20 @@
+/* 열린 외곽은 모서리를 자르고, 높이가 제한된 본문만 스크롤한다. */
+.kui-dialog{--dialog-radius:16px;--dialog-thumb:#66705c99;box-sizing:border-box;padding:0;border:1px solid #c8cdc2;border-radius:var(--dialog-radius);background:#fafbf7;color:#242720;width:min(860px,calc(100vw - 32px));max-width:calc(100vw - 32px);max-height:calc(100dvh - 32px);overflow:hidden}
+.kui-dialog[open]{display:flex;flex-direction:column}
+.kui-dialog::backdrop{background:#20251dcc}
+.kui-dialog-header{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:start;gap:16px;padding:16px 20px;border-bottom:1px solid #d8dcd2;flex:0 0 auto;min-width:0}
+.kui-dialog-header h2{font-size:1.15em;margin:0;min-width:0;overflow-wrap:anywhere}
+.kui-dialog-close{flex:none;min-width:44px;min-height:44px}
+.kui-dialog-body{flex:1 1 auto;min-height:0;min-width:0;overflow:auto;overflow-wrap:anywhere;overscroll-behavior:contain;scrollbar-gutter:stable;padding:20px}
+.kui-dialog-body:focus-visible{outline:2px solid #536c3d;outline-offset:-4px}
+.kui-dialog .kui-scroll{scrollbar-width:thin;scrollbar-color:var(--dialog-thumb) transparent}
+@supports selector(::-webkit-scrollbar){
+ .kui-dialog .kui-scroll{scrollbar-width:auto;scrollbar-color:auto}
+ .kui-dialog .kui-scroll::-webkit-scrollbar{width:10px;height:10px}
+ .kui-dialog .kui-scroll::-webkit-scrollbar-track{background:transparent;margin:8px}
+ .kui-dialog .kui-scroll::-webkit-scrollbar-thumb{background:var(--dialog-thumb);border:2px solid transparent;background-clip:padding-box;border-radius:999px;min-height:36px}
+ .kui-dialog .kui-scroll::-webkit-scrollbar-corner{background:transparent}
+ .kui-dialog .kui-scroll::-webkit-scrollbar-button{display:none}
+}
+@media(max-width:600px){.kui-dialog{--dialog-radius:12px;width:calc(100vw - 20px);max-width:calc(100vw - 20px);max-height:calc(100dvh - 20px)}.kui-dialog-header{padding:12px 16px}.kui-dialog-body{padding:16px}}
+@media(forced-colors:active){.kui-dialog .kui-scroll{scrollbar-color:auto;scrollbar-width:auto}.kui-dialog .kui-scroll::-webkit-scrollbar-thumb{background:ButtonText}}

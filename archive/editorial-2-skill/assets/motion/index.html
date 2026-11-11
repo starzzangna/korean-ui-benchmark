@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ko">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>장면을 위한 세 가지 움직임 · 모션 레시피</title>
+<link rel="stylesheet" href="motion.css">
+<style>
+  *{box-sizing:border-box}body{margin:0;background:#f3f1ea;color:#262922;font:16px/1.65 system-ui,sans-serif}main{max-width:1200px;margin:auto;padding:48px 28px 64px}h1{font-size:clamp(30px,5vw,58px);line-height:1.2;letter-spacing:-.055em;margin:14px 0 22px}h2{font-size:22px;letter-spacing:-.035em}p{margin:12px 0}.eyebrow{font-size:12px;letter-spacing:.13em;font-weight:700}.intro{max-width:630px;color:#585d52}.toolbar{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:28px 0 38px}button,a{font:inherit}button,.cta{border:1px solid #42513b;border-radius:5px;padding:10px 16px;background:transparent;color:inherit;cursor:pointer}button:disabled{cursor:default;opacity:.6}a{color:inherit}button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid #a5512b;outline-offset:5px}.status{font-size:13px;color:#585d52}.recipes{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px}.recipe{min-width:0}.stage{height:280px;display:grid;place-items:center;background:#e5e8dc;border-radius:10px;padding:24px;margin-bottom:24px}
+  /* 기울어진 프레임의 실제 외곽보다 넓은 여백을 확보한다. overflow로 콘텐츠를 숨기지 않는다. */
+  .frame{width:92%;height:212px;box-shadow:0 12px 25px #2832231a;position:relative;background:#faf9f3}.still{background:#d8c5a7;display:grid;place-items:center}.image-layer{width:100%;height:100%;display:grid;place-items:center}.vase{width:74px;height:118px;border-radius:24px 24px 28px 28px;background:linear-gradient(100deg,#967255,#d2b18b 48%,#947052);position:relative;margin-top:22px;box-shadow:18px 16px 12px #77634825}.vase:before{content:'';position:absolute;width:3px;height:87px;background:#40563b;left:35px;top:-64px;transform:rotate(12deg)}.vase:after{content:'';position:absolute;width:36px;height:18px;border-radius:100% 0;background:#68775c;left:41px;top:-41px;transform:rotate(-18deg)}.paper{padding:24px;background:#fefdf8;color:#475743;display:flex;flex-direction:column;justify-content:space-between}.paper strong{font-size:26px;line-height:1.1;letter-spacing:-.04em}.lines{height:30px;background:repeating-linear-gradient(to bottom,#b1b7a8 0 1px,transparent 1px 10px);width:80%}.poster{background:#c24f2e;color:#f8edcb;padding:18px;display:flex;flex-direction:column;justify-content:center}.poster strong{font-size:48px;line-height:.95;letter-spacing:-.06em}.poster small{margin-top:22px;letter-spacing:.1em;font-size:11px}.label{font-size:11px;letter-spacing:.08em;color:#697060}.recipe p{font-size:14px;color:#596052}.recipe h2{margin:5px 0}.action{margin-top:34px;display:flex;align-items:center;gap:24px;flex-wrap:wrap}.cta{display:inline-flex;gap:18px;background:#304531;color:white;text-decoration:none}.notes{border-top:1px solid #cdd0c4;padding-top:18px;margin-top:42px;font-size:13px;color:#596052}details{margin-top:24px;font-size:14px}summary{cursor:pointer}dialog{border:1px solid #bec7b7;border-radius:12px;padding:28px;max-width:460px;width:calc(100% - 40px);background:#faf9f3;color:#262922}dialog::backdrop{background:#1f2b22a6}dialog h2{margin-top:0}@media(max-width:767px){main{padding:30px 18px 44px}.recipes{grid-template-columns:1fr;gap:24px}.stage{height:260px}.frame{max-width:290px}.recipe h2{font-size:21px}.toolbar{margin-bottom:26px}.intro{font-size:15px}}@media(min-width:768px) and (max-width:1000px){.recipes{gap:16px}.stage{padding:18px;height:255px}.frame{height:205px}.paper{padding:16px}.paper strong{font-size:23px}.poster strong{font-size:37px}}
+</style>
+<main id="motion-demo">
+  <div class="eyebrow">움직임 실험실 / 01—03</div>
+  <h1>장면에 작은 호흡을.</h1>
+  <p class="intro">사진을 감상하는 시간, 작업의 자세, 행사의 첫인상. 서로 다른 세 장면에 같은 레시피를 작게 시험합니다. 사이트 템플릿이 아닌 개별 표현의 구현 예시입니다.</p>
+  <div class="toolbar"><button id="replay" disabled>장면 다시 재생</button><button id="toggle" aria-pressed="false" disabled>모션 끄기</button><span class="status" id="status" role="status">기본 콘텐츠 표시 중</span></div>
+  <div class="recipes">
+    <article class="recipe" data-km-scene>
+      <div class="stage"><div class="frame still" data-km-frame><div class="image-layer" data-km-image-layer="scale"><div class="vase" role="img" aria-label="잎 한 가지를 꽂은 갈색 도자기 CSS 정물"></div></div></div></div>
+      <div class="label">01 / 정물 · 이미지 레이어</div><h2>조용히 가까워지는 물성</h2><p>등장은 바깥에서, 확대는 이미지 전용 레이어에서. 각 변환이 서로의 역할을 보존합니다.</p>
+    </article>
+    <article class="recipe" data-km-scene style="--km-tilt:1.5deg;--km-scene-time:720ms">
+      <div class="stage" style="background:#e4e2d9"><div class="frame paper" data-km-frame><span class="eyebrow">작업 노트 / 002</span><strong>생각을<br>놓아두는 자리</strong><div class="lines" aria-hidden="true"></div></div></div>
+      <div class="label">02 / 작업 · 프레임</div><h2>한 장의 자연스러운 자세</h2><p>1.5도 기울인 안쪽 프레임. 정밀 포인터를 올리면 자세가 정돈됩니다. 정보는 항상 보입니다.</p>
+    </article>
+    <article class="recipe" data-km-scene style="--km-scene-time:820ms">
+      <div class="stage" style="background:#e9d9cb"><div class="frame poster" data-km-frame><strong>모이는<br>계절.</strong><small>가을의 대화 · 11월</small></div></div>
+      <div class="label">03 / 행사 · 타이포 조형</div><h2>첫인상의 짧은 여운</h2><p>타이포 장면의 단회 등장. 무한 반복이나 스크롤 조작 없이 읽는 흐름을 이어갑니다.</p>
+    </article>
+  </div>
+  <div class="action"><a class="cta" href="#details" id="open-details" data-km-control="cta">레시피 상세 보기 <span data-km-arrow aria-hidden="true">↗</span></a><span class="status">키보드 Tab → Enter로도 열 수 있습니다.</span></div>
+  <details id="details"><summary>텍스트로 구현 원리 읽기</summary><p>바깥 장면은 18px·580~820ms로 한 번 등장합니다. 안쪽 프레임은 ±1.5도, 대표 CTA는 -2px, 화살표는 3px 움직입니다. 모션을 끄거나 자바스크립트를 사용할 수 없어도 콘텐츠는 표시됩니다.</p></details>
+  <p class="notes">터치에서는 탭 한 번으로 상세를 엽니다. 호버로만 보이는 내용이 없습니다. 시스템의 모션 감소 설정과 수동 끄기를 모두 따릅니다. 수치는 CSS 변수로 조정할 수 있습니다.</p>
+  <dialog id="recipe-dialog" data-km-dialog aria-labelledby="dialog-title"><h2 id="dialog-title">레이어를 나누는 작은 원칙</h2><p>장면 wrapper에는 등장 이동만, frame에는 회전만, 이미지 전용 wrapper에는 확대만 적용합니다. 기존 이미지에 transform이 있어도 별도의 바깥 레이어를 사용해 보존합니다.</p><p>모션은 필수 정보나 조작을 지연시키지 않습니다. Escape 키로 닫으면 원래 버튼으로 초점이 돌아갑니다.</p><form method="dialog"><button autofocus>닫기</button></form></dialog>
+</main>
+<script src="motion.js"></script>
+<script>
+  // 데모 루트만 명시적으로 연결한다. 업무 목록이나 다른 컨트롤은 등록하지 않는다.
+  (() => {
+    if (!window.KoreanMotion) return;
+    const root = document.getElementById('motion-demo');
+    const motion = KoreanMotion.mount(root);
+    const replay = document.getElementById('replay');
+    const toggle = document.getElementById('toggle');
+    const status = document.getElementById('status');
+    const preference = matchMedia('(prefers-reduced-motion: reduce)');
+    let disabled = false;
+    function update() { status.textContent = disabled ? '모션 꺼짐 · 콘텐츠 표시' : preference.matches ? '시스템 모션 감소 · 콘텐츠 표시' : '장면마다 한 번 · 재생 버튼으로 반복 확인'; }
+    replay.disabled = toggle.disabled = false;
+    replay.addEventListener('click', () => { motion.replay(); update(); });
+    toggle.addEventListener('click', () => { disabled = !disabled; motion.setDisabled(disabled); toggle.setAttribute('aria-pressed', String(disabled)); toggle.textContent = disabled ? '모션 켜기' : '모션 끄기'; update(); });
+    preference.addEventListener('change', update); update();
+    const opener = document.getElementById('open-details');
+    const dialog = document.getElementById('recipe-dialog');
+    if (typeof dialog.showModal === 'function') {
+      opener.addEventListener('click', event => { event.preventDefault(); dialog.showModal(); });
+      dialog.addEventListener('close', () => opener.focus());
+    }
+    // JS가 없으면 동일 설명이 있는 details로 이동하고, 네이티브 dialog가 없을 때도 사용할 수 있다.
+    opener.addEventListener('click', () => { if (typeof dialog.showModal !== 'function') document.getElementById('details').open = true; });
+  })();
+</script>
+</html>

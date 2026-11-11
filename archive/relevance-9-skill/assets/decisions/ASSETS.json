@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "assets": [
+    {
+      "id": "cup",
+      "path": "../compositions/media/cup.jpg",
+      "kind": "image",
+      "role": "사용 장면 크롭 비교",
+      "source": "https://unsplash.com/photos/person-holding-white-ceramic-tea-cup-tXW7gPCgkc0",
+      "creator": "Elizabeth Tsung",
+      "license": "https://unsplash.com/license",
+      "authenticity": "reference",
+      "alt": "컵과 손잡이",
+      "subject": "컵과 손잡이",
+      "sha256": "46cbab9e14eb6bcc969262af86e6d625fd9dd9ee8990df46cfc342df4cea7c01",
+      "usedIn": [
+        {
+          "section": "photo",
+          "role": "사용 장면 편집 비교",
+          "newInformation": "같은 자료의 편집과 행동 연결; 신규 자료 확보 아님"
+        }
+      ],
+      "mobileEdit": {
+        "focalPoint": "컵과 손잡이",
+        "safeArea": "피사체를 식별할 영역",
+        "fallback": "비율과 초점을 바꾸거나 원본 전체 표시"
+      },
+      "visualGroupReview": {
+        "comparedWith": "같은 원본만 비교하며 별도 촬영군 일치성을 주장하지 않음",
+        "observed": "컵 사진은 기존 동봉 원본, SVG는 개념 예제",
+        "decision": "원본 재사용·새로운 사실/촬영 추가 없음",
+        "neededAsset": "실제 프로젝트는 같은 브랜드 촬영군과 실제 품목/작업 원본을 별도 확보"
+      }
+    },
+    {
+      "id": "editorial",
+      "path": "../compositions/media/editorial.svg",
+      "kind": "image",
+      "role": "개념 작업 전체 원본",
+      "source": "../compositions/media/editorial.svg",
+      "creator": "패키지 자체 제작 SVG",
+      "license": "동봉 예제 자료로 사용·수정 가능",
+      "authenticity": "generated",
+      "alt": "실제 고객 작업이 아닌 개념 예제",
+      "subject": "작품 전체",
+      "sha256": "3c889e70aa1d544212243a49a2fb2f67269408e98bcfff545d2bf9cd880ad982",
+      "usedIn": [
+        {
+          "section": "works",
+          "role": "목록/동일 자료 상세",
+          "newInformation": "같은 자료의 편집과 행동 연결; 신규 자료 확보 아님"
+        }
+      ],
+      "mobileEdit": {
+        "focalPoint": "전체 작업",
+        "safeArea": "원본 전체",
+        "fallback": "contain과 원본 보기"
+      },
+      "visualGroupReview": {
+        "comparedWith": "같은 원본만 비교하며 별도 촬영군 일치성을 주장하지 않음",
+        "observed": "컵 사진은 기존 동봉 원본, SVG는 개념 예제",
+        "decision": "원본 재사용·새로운 사실/촬영 추가 없음",
+        "neededAsset": "실제 프로젝트는 같은 브랜드 촬영군과 실제 품목/작업 원본을 별도 확보"
+      }
+    },
+    {
+      "id": "interface",
+      "path": "../compositions/media/interface.svg",
+      "kind": "image",
+      "role": "개념 작업 전체 원본",
+      "source": "../compositions/media/interface.svg",
+      "creator": "패키지 자체 제작 SVG",
+      "license": "동봉 예제 자료로 사용·수정 가능",
+      "authenticity": "generated",
+      "alt": "실제 고객 작업이 아닌 개념 예제",
+      "subject": "작품 전체",
+      "sha256": "aded6a1d79caaf18cdd3aad6a437b93ef6421ef223d05ec3819bc2726c1f24ac",
+      "usedIn": [
+        {
+          "section": "works",
+          "role": "목록/동일 자료 상세",
+          "newInformation": "같은 자료의 편집과 행동 연결; 신규 자료 확보 아님"
+        }
+      ],
+      "mobileEdit": {
+        "focalPoint": "전체 작업",
+        "safeArea": "원본 전체",
+        "fallback": "contain과 원본 보기"
+      },
+      "visualGroupReview": {
+        "comparedWith": "같은 원본만 비교하며 별도 촬영군 일치성을 주장하지 않음",
+        "observed": "컵 사진은 기존 동봉 원본, SVG는 개념 예제",
+        "decision": "원본 재사용·새로운 사실/촬영 추가 없음",
+        "neededAsset": "실제 프로젝트는 같은 브랜드 촬영군과 실제 품목/작업 원본을 별도 확보"
+      }
+    }
+  ]
+}

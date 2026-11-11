@@ -1,0 +1,106 @@
+{
+  "total": 7,
+  "passed": 7,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "행사 경계의 여백·바탕 포함",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "gap": 0,
+        "top": 24,
+        "bottom": 36,
+        "programBackground": "rgb(255, 248, 237)",
+        "wrapperBackground": "rgb(255, 248, 237)",
+        "marginTop": "0px",
+        "marginBottom": "0px"
+      }
+    },
+    {
+      "name": "고정 신청 배경·내부 진입",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "sectionStill": true,
+        "outerStill": true,
+        "movingInnerGroups": 2
+      }
+    },
+    {
+      "name": "행사 경계의 여백·바탕 포함",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "gap": 0,
+        "top": 16,
+        "bottom": 24,
+        "programBackground": "rgb(255, 248, 237)",
+        "wrapperBackground": "rgb(255, 248, 237)",
+        "marginTop": "0px",
+        "marginBottom": "0px"
+      }
+    },
+    {
+      "name": "고정 신청 배경·내부 진입",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "sectionStill": true,
+        "outerStill": true,
+        "movingInnerGroups": 2
+      }
+    },
+    {
+      "name": "모바일 탐색 길이 brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "flow": {
+          "height": 3383,
+          "firstAction": 300.296875,
+          "imageTop": 440.296875
+        },
+        "polish": {
+          "height": 3089,
+          "firstAction": 300.296875,
+          "imageTop": 376.296875
+        }
+      }
+    },
+    {
+      "name": "모바일 탐색 길이 local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "flow": {
+          "height": 3563,
+          "firstAction": 291.59375,
+          "imageTop": 365.59375
+        },
+        "polish": {
+          "height": 3089,
+          "firstAction": 291.59375,
+          "imageTop": 365.59375
+        }
+      }
+    },
+    {
+      "name": "모바일 탐색 길이 portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "flow": {
+          "height": 3756,
+          "firstAction": 408.171875,
+          "imageTop": 478.171875
+        },
+        "polish": {
+          "height": 3704,
+          "firstAction": 331.390625,
+          "imageTop": 401.390625
+        }
+      }
+    }
+  ]
+}

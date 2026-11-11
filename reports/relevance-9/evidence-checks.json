@@ -1,0 +1,140 @@
+{
+  "total": 9,
+  "passed": 9,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "결과 우선·맥락 펼침·선택 동기화·확대",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "resultBeforeContext": true,
+        "keyboardOpens": true,
+        "openStatePreserved": true,
+        "updatesHiddenAndVisible": true,
+        "enlarged": {
+          "overflow": false,
+          "summaryLoss": false,
+          "iconInside": true
+        }
+      }
+    },
+    {
+      "name": "대표 전체·목록 세부의 원본 구분",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "actualWholeAndDetail": true,
+        "noImmediateLargeRepeat": true,
+        "correctZoomTarget": true,
+        "focusReturns": true
+      }
+    },
+    {
+      "name": "참여 이유→날짜·세션·열림·초점과 확대 정렬",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "providedProgramOnly": true,
+        "bothDays": true,
+        "exactSessions": true,
+        "keyboardAndFocus": true,
+        "enlarged": {
+          "overflow": false,
+          "groups": [
+            {
+              "centerDifference": 0,
+              "loss": false
+            },
+            {
+              "centerDifference": 0,
+              "loss": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "결과 우선·맥락 펼침·선택 동기화·확대",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "resultBeforeContext": true,
+        "keyboardOpens": true,
+        "openStatePreserved": true,
+        "updatesHiddenAndVisible": true,
+        "enlarged": {
+          "overflow": false,
+          "summaryLoss": false,
+          "iconInside": true
+        }
+      }
+    },
+    {
+      "name": "대표 전체·목록 세부의 원본 구분",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "actualWholeAndDetail": true,
+        "noImmediateLargeRepeat": true,
+        "correctZoomTarget": true,
+        "focusReturns": true
+      }
+    },
+    {
+      "name": "참여 이유→날짜·세션·열림·초점과 확대 정렬",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "providedProgramOnly": true,
+        "bothDays": true,
+        "exactSessions": true,
+        "keyboardAndFocus": true,
+        "enlarged": {
+          "overflow": false,
+          "groups": [
+            {
+              "centerDifference": 0,
+              "loss": false
+            },
+            {
+              "centerDifference": 0,
+              "loss": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "진입 중 빠른 서비스 선택·중첩 정리",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "immediateSelection": true,
+        "parentEntryCancelled": true,
+        "oneResultFeedback": true,
+        "reducedMotionStops": true
+      }
+    },
+    {
+      "name": "진입 중 빠른 서비스 선택·중첩 정리",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "immediateSelection": true,
+        "parentEntryCancelled": true,
+        "oneResultFeedback": true,
+        "reducedMotionStops": true
+      }
+    },
+    {
+      "name": "비교 프레임 안 세션 이동·바깥 위치 유지",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "outerStable": true,
+        "correctChildDayAndSession": true
+      }
+    }
+  ]
+}

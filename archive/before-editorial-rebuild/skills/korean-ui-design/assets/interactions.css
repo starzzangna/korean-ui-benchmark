@@ -1,0 +1,26 @@
+/* 상황별 선택 적용. 모든 버튼/링크에 같은 이동을 연결하지 않는다. */
+.kui-photo{overflow:hidden}
+.kui-action{transition:none}
+@media(prefers-reduced-motion:no-preference){
+ [data-kui-feedback="state"]{transition:background-color .12s ease,color .12s ease,border-color .12s ease}
+ [data-kui-feedback="press"]{transition:background-color .12s ease,transform .09s ease-out}
+ [data-kui-feedback="press"]:active:not(:disabled):not([aria-disabled=true]){transform:scale(.99)}
+ dialog[open][data-kui-feedback="dialog"]{animation:kui-dialog-in .18s cubic-bezier(.2,.7,.2,1)}
+ @keyframes kui-dialog-in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+ [data-kui-feedback="cta"],[data-kui-feedback="card"]{transition:transform .18s cubic-bezier(.2,.7,.2,1),background-color .12s,border-color .12s}
+ [data-kui-feedback="cta"]:active:not(:disabled),[data-kui-feedback="card"]:active:not(:disabled){transform:scale(.995)}
+ [data-kui-feedback="cta"] [data-kui-arrow]{transition:transform .18s cubic-bezier(.2,.7,.2,1)}
+ [data-kui-reveal="editorial"]{transition:opacity .26s ease,transform .26s cubic-bezier(.2,.7,.2,1)}
+ .kui-reveal-pending{opacity:0;transform:translateY(10px)}
+}
+@media(hover:hover) and (pointer:fine) and (prefers-reduced-motion:no-preference){
+ [data-kui-feedback="cta"]:hover:not(:active):not(:disabled){transform:translateY(-2px)}
+ [data-kui-feedback="card"]:hover:not(:active):not(:disabled){transform:translateY(-3px)}
+ [data-kui-feedback="cta"]:hover [data-kui-arrow="right"]{transform:translateX(2px)}
+ [data-kui-feedback="cta"]:hover [data-kui-arrow="down"]{transform:translateY(2px)}
+}
+@media(prefers-reduced-motion:reduce){
+ html{scroll-behavior:auto!important}
+ [data-kui-feedback],[data-kui-reveal="editorial"]{transition:none!important;animation:none!important;transform:none!important}
+ .kui-reveal-pending{opacity:1!important;transform:none!important}.kui-photo>img{transform:none!important}
+}

@@ -1,0 +1,58 @@
+/* 복사 후 명시한 장면/컨트롤에만 적용한다. 기존 interactions와 같은 요소에 중복 적용하지 않는다. */
+/* 표현 중심 영역의 선택 모드. 상속 토큰으로 기본 컨트롤 시간과 분리한다. */
+[data-km-tempo="flow"] {
+  --km-tempo-scene-time: 820ms;
+  --km-tempo-scene-ease: cubic-bezier(.22,.61,.36,1);
+  --km-tempo-frame-time: 680ms;
+  --km-tempo-frame-ease: cubic-bezier(.16,1,.3,1);
+  --km-tempo-control-time: 420ms;
+  --km-tempo-control-ease: cubic-bezier(.16,1,.3,1);
+  --km-tempo-image-time: 760ms;
+  --km-tempo-image-ease: cubic-bezier(.16,1,.3,1);
+}
+[data-km-scene], [data-km-control], [data-km-dialog] {
+  --km-distance: 18px;
+  --km-scene-time: var(--km-tempo-scene-time, 760ms);
+  --km-scene-delay: 0ms;
+  --km-scene-ease: var(--km-tempo-scene-ease, cubic-bezier(.32,0,.2,1));
+  --km-frame-ease: var(--km-tempo-frame-ease, cubic-bezier(.32,0,.2,1));
+  --km-control-ease: var(--km-tempo-control-ease, cubic-bezier(.25,.1,.25,1));
+  --km-dialog-ease: cubic-bezier(.22,.61,.36,1);
+  --km-tilt: -1.5deg;
+  --km-frame-time: var(--km-tempo-frame-time, 460ms);
+  --km-cta-lift: -2px;
+  --km-arrow-distance: 3px;
+  --km-control-time: var(--km-tempo-control-time, 230ms);
+  --km-image-scale: 1.045;
+  --km-image-time: var(--km-tempo-image-time, var(--km-frame-time));
+  --km-image-ease: var(--km-tempo-image-ease, var(--km-frame-ease));
+  --km-dialog-distance: 8px;
+  --km-dialog-time: 220ms;
+}
+/* 등장 wrapper → 회전 frame → 이미지 전용 wrapper. 기존 이미지 transform은 안쪽 자식에 보존한다. */
+[data-km-frame] { transform: rotate(var(--km-tilt)); }
+@media (prefers-reduced-motion: no-preference) {
+  :where(:not([data-km-disabled])) [data-km-frame] { transition: transform var(--km-frame-time) var(--km-frame-ease); }
+  [data-km-control="cta"] { transition: transform var(--km-control-time) var(--km-control-ease); }
+  [data-km-control="cta"] [data-km-arrow] { display: inline-block; transition: transform var(--km-control-time) var(--km-control-ease); }
+  [data-km-image-layer="scale"] { transition: transform var(--km-image-time) var(--km-image-ease); }
+  dialog[open][data-km-dialog] { animation: km-dialog-in var(--km-dialog-time) var(--km-dialog-ease); }
+  @keyframes km-dialog-in { from { opacity: 0; transform: translateY(var(--km-dialog-distance)); } to { opacity: 1; transform: translateY(0); } }
+  [data-km-control="cta"]:focus-visible { transform: translateY(var(--km-cta-lift)); }
+  [data-km-control="cta"]:focus-visible [data-km-arrow] { transform: translateX(var(--km-arrow-distance)); }
+  [data-km-scene]:focus-within [data-km-frame] { transform: rotate(0deg); }
+  [data-km-scene]:focus-within [data-km-image-layer="scale"] { transform: scale(var(--km-image-scale)); }
+}
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  [data-km-scene]:hover [data-km-frame] { transform: rotate(0deg); }
+  [data-km-scene]:hover [data-km-image-layer="scale"] { transform: scale(var(--km-image-scale)); }
+  [data-km-control="cta"]:hover { transform: translateY(var(--km-cta-lift)); }
+  [data-km-control="cta"]:hover [data-km-arrow] { transform: translateX(var(--km-arrow-distance)); }
+}
+/* 감소 설정의 실시간 변경과 수동 끄기 모두 콘텐츠 표시를 유지한다. */
+@media (prefers-reduced-motion: reduce) {
+  [data-km-frame], [data-km-image-layer], [data-km-control="cta"], [data-km-arrow] { transform: none !important; transition: none !important; }
+  [data-km-dialog] { animation: none !important; }
+}
+[data-km-disabled] [data-km-frame], [data-km-disabled] [data-km-image-layer], [data-km-disabled] [data-km-control="cta"], [data-km-disabled] [data-km-arrow] { transform: none !important; transition: none !important; }
+[data-km-disabled] [data-km-dialog] { animation: none !important; }

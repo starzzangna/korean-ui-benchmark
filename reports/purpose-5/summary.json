@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "sites": 7,
+  "changedCategories": 6,
+  "saasIdentical": true,
+  "baseChecks": 101,
+  "selectionValues": 62,
+  "designAndSyncChecks": 80,
+  "finalProfessionalChecks": 14,
+  "finalRestaurantChecks": 14,
+  "preservedFiles": 88,
+  "dataEqual": true,
+  "browser": "157.0.8103.50"
+}

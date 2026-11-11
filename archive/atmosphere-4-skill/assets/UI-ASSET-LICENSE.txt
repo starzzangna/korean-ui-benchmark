@@ -1,0 +1,10 @@
+icons.svg, controls.css, interactions.css, interactions.js는 이 패키지에서
+새로 작성한 자료입니다. 이 네 파일은 CC0 1.0 Universal에 따라 제공합니다.
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Pretendard 글꼴에는 적용되지 않습니다. 해당 파일은 fonts/LICENSE.txt의
+SIL Open Font License 1.1을 따릅니다. 원문 참조 자료·브랜드 파일이나
+다른 프로젝트의 사진에 이 고지를 확대 적용하지 마세요.
+
+flow-review/index.html, flow-review/style.css, flow-review/app.js도
+이 패키지의 자체 실행 예제로 CC0 1.0 Universal에 따라 제공합니다.

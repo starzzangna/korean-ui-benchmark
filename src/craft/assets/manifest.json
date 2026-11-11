@@ -1,0 +1,18 @@
+{
+  "authenticity": "기존 NEST 콘셉트를 확장한 직접 작성 SVG. 도서·서점·서비스는 모두 가상이며 실제 납품/성과 자료가 아니다.",
+  "license": "프로젝트 LICENSE 참조",
+  "assets": [
+    {
+      "path": "nest-ui.svg",
+      "role": "대표 전체 화면",
+      "source": "이 저장소에서 직접 작성한 SVG 코드",
+      "sha256": "a20bd27d9d487f8540b5a8cc1b2e177f1b5840bc30f90b3f8435f2e63b196036"
+    },
+    {
+      "path": "nest-flow.svg",
+      "role": "목록 세부와 모달 탐색",
+      "source": "이 저장소에서 직접 작성한 SVG 코드",
+      "sha256": "7465ff7a9d3e7f9411db80098a9b63431b56d05fc2200058029d0b1d1e9bf1e6"
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "files": [
+    {
+      "path": "results/a/brand/index.html",
+      "sha256": "69f105d7a1e7f15375c64aa98e101b7bbbff7419ac751669faaf5e45708e34b8"
+    },
+    {
+      "path": "results/a/event/index.html",
+      "sha256": "829e73570425175cc189cd22835107f4d39b1ab2642996000e84f1a866ad1a41"
+    },
+    {
+      "path": "results/a/local/index.html",
+      "sha256": "c584a42d970c39a9a2a50f326b0b896ad08e0b5e7dd67117591b5a08123f66b3"
+    },
+    {
+      "path": "results/a/portfolio/index.html",
+      "sha256": "00d55931c5ef57c48c45d168df5fda86ebf6a7583b8422fc19752f349165869a"
+    },
+    {
+      "path": "results/a/professional/index.html",
+      "sha256": "8c416a3dff64dea0c3fe62934320b14ffc176a35038e2f9bb7781ae039857e17"
+    },
+    {
+      "path": "results/a/restaurant/index.html",
+      "sha256": "52aab11b02a281ba7f676eceb85c6d6b734a7fee821bd427b3cd70b5f35ef383"
+    },
+    {
+      "path": "results/a/saas/index.html",
+      "sha256": "e9f06edcf78926e56691adca2446407486d8b340e4b1df69731eba2ed24cca7e"
+    },
+    {
+      "path": "results/atmosphere/brand/index.html",
+      "sha256": "a514240d46724423e5b8b75df885e979e17639c73f8faa5532b56ef88ef9bb56"
+    },
+    {
+      "path": "results/atmosphere/event/index.html",
+      "sha256": "1d154d47665da060ee96914015fdcd206822c3afe02e68b4b9e4b2851561e533"
+    },
+    {
+      "path": "results/atmosphere/local/index.html",
+      "sha256": "f30453fa62b41ac24f3b27ebec390f03d98541dc06137d672c9881b85521cbe7"
+    },
+    {
+      "path": "results/atmosphere/portfolio/index.html",
+      "sha256": "1e605d81eeb2b11b1f90b4a20a85b83b5946eb7a7e788eec3ab147d1725a4894"
+    },
+    {
+      "path": "results/atmosphere/professional/index.html",
+      "sha256": "27b7b6350434c0e823bf86cd15ec05c88c56c419493b902f6564a533f9de821c"
+    },
+    {
+      "path": "results/atmosphere/restaurant/index.html",
+      "sha256": "23ddc1903cc9a6a07d7c43843261c6d465fbc8a104f9a25ab9b45008138c0e0f"
+    },
+    {
+      "path": "results/atmosphere/saas/index.html",
+      "sha256": "618fba79027a5a2eec21802b527a64ec861b7f7388b7c77df945c5256f1afa6c"
+    },
+    {
+      "path": "results/b/brand/index.html",
+      "sha256": "6ad53e1ebe78183b13feb3e98b42a733c23d4aa3ca64ca561688646bc55ad6e6"
+    },
+    {
+      "path": "results/b/event/index.html",
+      "sha256": "5fb9da1262d2e79f340a96484f351c4ba628057a5aeca44f28f560bd7e8f9857"
+    },
+    {
+      "path": "results/b/local/index.html",
+      "sha256": "75f577c6d41538525a4135d5d8d0d3790913f12b3eaa3be17bebc147ed9b781c"
+    },
+    {
+      "path": "results/b/portfolio/index.html",
+      "sha256": "181b341a2d7bb300b2f4f3de19d9f845cc2b85f4cdbe79b7987b7d90ed1e458a"
+    },
+    {
+      "path": "results/b/professional/index.html",
+      "sha256": "1e38c8551bb7509872692784f71d7fe5f91eade726bba91236520d22786b6fb6"
+    },
+    {
+      "path": "results/b/restaurant/index.html",
+      "sha256": "bb9e326a3fb54ea9fd1501770ab4eede2f5e3485d98e7254e5d2b17ee6910382"
+    },
+    {
+      "path": "results/b/saas/index.html",
+      "sha256": "b952cae5d2f128663a7a41efd5850ccbc1f328984aa9e21c2db71ba80c85a3a8"
+    },
+    {
+      "path": "results/clarity/brand/index.html",
+      "sha256": "104cdb23d9d6ed1de2805beb0e92cf97d0529478985013d09273aa4560fcb990"
+    },
+    {
+      "path": "results/clarity/event/index.html",
+      "sha256": "a1828fad095fb95fbfce5e61717d45078fc6e6ba396fa6b56d3a45d7d2ab6374"
+    },
+    {
+      "path": "results/clarity/local/index.html",
+      "sha256": "df9456a3448f83703ba1fb3e76900bb676b511d03c51d1ecb1b19c01c56c6a12"
+    },
+    {
+      "path": "results/clarity/portfolio/index.html",
+      "sha256": "f21198eaeaa3febffd87644a4562bb3aeac05c6f4367d1f4c672efa626365de8"
+    },
+    {
+      "path": "results/clarity/professional/index.html",
+      "sha256": "3c140c8a3a79cd1d8651230c6bdec6c29ec7bace3d6979dea63f369f9c8ce34a"
+    },
+    {
+      "path": "results/clarity/restaurant/index.html",
+      "sha256": "92b061ebcd0c0afbcb661ebb41a1c24d4e728c0dbf41caaefdc89117347f1203"
+    },
+    {
+      "path": "results/clarity/saas/index.html",
+      "sha256": "618fba79027a5a2eec21802b527a64ec861b7f7388b7c77df945c5256f1afa6c"
+    },
+    {
+      "path": "results/compact/brand/index.html",
+      "sha256": "104cdb23d9d6ed1de2805beb0e92cf97d0529478985013d09273aa4560fcb990"
+    },
+    {
+      "path": "results/compact/event/index.html",
+      "sha256": "5d75bd24eb5e092489a03928f1aa8a4343a9be6a4225e80c68fb3b59a86dc9d3"
+    },
+    {
+      "path": "results/compact/local/index.html",
+      "sha256": "df9456a3448f83703ba1fb3e76900bb676b511d03c51d1ecb1b19c01c56c6a12"
+    },
+    {
+      "path": "results/compact/portfolio/index.html",
+      "sha256": "dedaf664df3abb14bb8dcc3c527f8a369546520322419a90131598ba70aa33a9"
+    },
+    {
+      "path": "results/compact/professional/index.html",
+      "sha256": "f7d14026e1d965bee4444d5ffd8b435e2c8a0a994011eb662f3e141f405fadf1"
+    },
+    {
+      "path": "results/compact/restaurant/index.html",
+      "sha256": "92b061ebcd0c0afbcb661ebb41a1c24d4e728c0dbf41caaefdc89117347f1203"
+    },
+    {
+      "path": "results/compact/saas/index.html",
+      "sha256": "618fba79027a5a2eec21802b527a64ec861b7f7388b7c77df945c5256f1afa6c"
+    },
+    {
+      "path": "results/craft/brand/index.html",
+      "sha256": "104cdb23d9d6ed1de2805beb0e92cf97d0529478985013d09273aa4560fcb990"
+    },
+    {
+      "path": "results/craft/event/index.html",
+      "sha256": "5d75bd24eb5e092489a03928f1aa8a4343a9be6a4225e80c68fb3b59a86dc9d3"
+    },
+    {
+      "path": "results/craft/local/index.html",
+      "sha256": "df9456a3448f83703ba1fb3e76900bb676b511d03c51d1ecb1b19c01c56c6a12"
+    },
+    {
+      "path": "results/craft/portfolio/index.html",
+      "sha256": "dedaf664df3abb14bb8dcc3c527f8a369546520322419a90131598ba70aa33a9"
+    },
+    {
+      "path": "results/craft/professional/index.html",
+      "sha256": "fc7bf75cb8d695bb2e7a183c5d1910e505295467a6d630e1921f5b60e0e524a1"
+    },
+    {
+      "path": "results/craft/restaurant/index.html",
+      "sha256": "92b061ebcd0c0afbcb661ebb41a1c24d4e728c0dbf41caaefdc89117347f1203"
+    },
+    {
+      "path": "results/craft/saas/index.html",
+      "sha256": "618fba79027a5a2eec21802b527a64ec861b7f7388b7c77df945c5256f1afa6c"
+    },
+    {
+      "path": "results/editorial/brand/index.html",
+      "sha256": "104cdb23d9d6ed1de2805beb0e92cf97d0529478985013d09273aa4560fcb990"
+    },
+    {
+      "path": "results/editorial/event/index.html",
+      "sha256": "73a8441d68cc73df4223f4148d743d3aeef81678bc358b9a92d74f42549d99e7"
+    },
+    {
+      "path": "results/editorial/local/index.html",
+      "sha256": "df9456a3448f83703ba1fb3e76900bb676b511d03c51d1ecb1b19c01c56c6a12"
+    },
+    {
+      "path": "results/editorial/portfolio/index.html",
+      "sha256": "0041d6ef9dfc6dd4ffe704c0b02180564ed1a5c3936201051cef2fc432bedbdb"
+    },
+    {
+      "path": "results/editorial/professional/index.html",
+      "sha256": "9a270dfb940e67602c413c404bc40d203470999580d2ae834a6a4dbd79feb7ce"
+    },
+    {
+      "path": "results/editorial/restaurant/index.html",
+      "sha256": "92b061ebcd0c0afbcb661ebb41a1c24d4e728c0dbf41caaefdc89117347f1203"
+    },
+    {
+      "path": "results/editorial/saas/index.html",
+      "sha256": "618fba79027a5a2eec21802b527a64ec861b7f7388b7c77df945c5256f1afa6c"
+    },
+    {
+      "path": "results/expression/brand/index.html",
+      "sha256": "104cdb23d9d6ed1de2805beb0e92cf97d0529478985013d09273aa4560fcb990"
+    },
+    {
+      "path": "results/expression/event/index.html",
+      "sha256": "73055413486f9e2ee679d81d7394ea915fb698f1847a17d8336f4db7b83d4be0"
+    },
+    {
+      "path": "results/expression/local/index.html",
+      "sha256": "df9456a3448f83703ba1fb3e76900bb676b511d03c51d1ecb1b19c01c56c6a12"
+    },
+    {
+      "path": "results/expression/portfolio/index.html",
+      "sha256": "545e311469d2ebc3b973b93885dfc02b6e4fecddd1c61df05918c93e731fa888"
+    },
+    {
+      "path": "results/expression/professional/index.html",
+      "sha256": "3dfd81c132d30086848dcb2424fdad489a7e25cdaa142190ce4f59dc6523322e"
+    },
+    {
+      "path": "results/expression/restaurant/index.html",
+      "sha256": "92b061ebcd0c0afbcb661ebb41a1c24d4e728c0dbf41caaefdc89117347f1203"
+    },
+    {
+      "path": "results/expression/saas/index.html",
+      "sha256": "618fba79027a5a2eec21802b527a64ec861b7f7388b7c77df945c5256f1afa6c"
+    },
+    {
+      "path": "results/flow/brand/index.html",
+      "sha256": "9cb70dfda3a57e2885afd0958012aafe97102247fe247b66c726416d39cd25a7"
+    },
+    {
+      "path": "results/flow/event/index.html",
+      "sha256": "2e97aee985f15cb482f280428e61142b35688a44935101ae6bb8346c49d68887"
+    },
+    {
+      "path": "results/flow/local/index.html",
+      "sha256": "a3e219b627d6f42d5fdb7242c69fd3be7270fcf94dea6bb19bcd2b7614e08051"
+    },
+    {
+      "path": "results/flow/portfolio/index.html",
+      "sha256": "069f1bc00ca76638c6a6ba549c98742b0dcd51922eb4342c9a281e63f688c61c"
+    },
+    {
+      "path": "results/flow/professional/index.html",
+      "sha256": "17018068ef200e95f0abe64dfe74870cc07de1d85a88e4d9380073334d7c5d68"
+    },
+    {
+      "path": "results/flow/restaurant/index.html",
+      "sha256": "882dfb564fcdf7e01037ce617af4cd6d1b135b516a4279fefdd64372155ed0de"
+    },
+    {
+      "path": "results/flow/saas/index.html",
+      "sha256": "618fba79027a5a2eec21802b527a64ec861b7f7388b7c77df945c5256f1afa6c"
+    },
+    {
+      "path": "results/none/brand/index.html",
+      "sha256": "f60f74aff65c29593a3d3610eb87ea0bc2179e417d0d4bb2a19119490224c2c7"
+    },
+    {
+      "path": "results/none/event/index.html",
+      "sha256": "8fcda85296a5def67ff514ff8fc53ce9db6a5ea3fbc861be52081d19fb4f6f75"
+    },
+    {
+      "path": "results/none/local/index.html",
+      "sha256": "56852455686f65b4bc37c9e05e33314be6081b8ea0384e3a18cf379742374c5e"
+    },
+    {
+      "path": "results/none/portfolio/index.html",
+      "sha256": "d63f397949c6d28e455a01adff31ec8a2d88cb609d2e5ca9698f3ac322e3c2e8"
+    },
+    {
+      "path": "results/none/professional/index.html",
+      "sha256": "e6a1fb9d1ecedbe223cf310124b09554b543f67d3212a507751dea758dd347b3"
+    },
+    {
+      "path": "results/none/restaurant/index.html",
+      "sha256": "89099c59684da076240fd2d68c13c54a7e396dc90e495ff65b92c6551d27ad96"
+    },
+    {
+      "path": "results/none/saas/index.html",
+      "sha256": "ad5e87a2f5483b8ab3bbaf80b6bca10335a92248f9740421cc6526ec84faff46"
+    },
+    {
+      "path": "results/own/brand/index.html",
+      "sha256": "85d298721e3c6af45af92cfbc8c88c8a92847265fdc98f967fbf9dd7d751f81b"
+    },
+    {
+      "path": "results/own/event/index.html",
+      "sha256": "cbece8dff918899161c732f8295ce270194b0b73fdd5d0748754be2f1bb467c8"
+    },
+    {
+      "path": "results/own/local/index.html",
+      "sha256": "d00502e1c3ccecde7e20a8e248300b166521ecac2d4757af33d55d69281614c3"
+    },
+    {
+      "path": "results/own/portfolio/index.html",
+      "sha256": "e8b765af6f1ba87b918e226294b8a463d9a32323089196808325835142192612"
+    },
+    {
+      "path": "results/own/professional/index.html",
+      "sha256": "959a86418a894f9a0012a9f2fcbeaf2a5308fde9376df9e860df1d7814d267a8"
+    },
+    {
+      "path": "results/own/restaurant/index.html",
+      "sha256": "45acd870d23560287ba73ab7e80f1ecb507a93eadcc2792ee533b87c33dfe265"
+    },
+    {
+      "path": "results/own/saas/index.html",
+      "sha256": "f18a9b026d5617627a70d24ff0212b9ea8a260bcf092f7a89206f50c427c9b49"
+    },
+    {
+      "path": "results/polish/brand/index.html",
+      "sha256": "104cdb23d9d6ed1de2805beb0e92cf97d0529478985013d09273aa4560fcb990"
+    },
+    {
+      "path": "results/polish/event/index.html",
+      "sha256": "92f1dc359a903559ba48e0a35b796e597455dd2e0433037bec96cc1dc3950a8c"
+    },
+    {
+      "path": "results/polish/local/index.html",
+      "sha256": "df9456a3448f83703ba1fb3e76900bb676b511d03c51d1ecb1b19c01c56c6a12"
+    },
+    {
+      "path": "results/polish/portfolio/index.html",
+      "sha256": "250d8ac410782a9ae5e07b6f35fc72a09cdf3e93ce2de5b5283bc26c6fe95397"
+    },
+    {
+      "path": "results/polish/professional/index.html",
+      "sha256": "f2beef4457665fc27cbd30bb3af2b1b0ecdaeb2def4991a1ca1f027c8b5b33d7"
+    },
+    {
+      "path": "results/polish/restaurant/index.html",
+      "sha256": "92b061ebcd0c0afbcb661ebb41a1c24d4e728c0dbf41caaefdc89117347f1203"
+    },
+    {
+      "path": "results/polish/saas/index.html",
+      "sha256": "618fba79027a5a2eec21802b527a64ec861b7f7388b7c77df945c5256f1afa6c"
+    },
+    {
+      "path": "results/purpose/brand/index.html",
+      "sha256": "5844ab2486ecd6a7918c9c1276a459b3a771b7536643382979e50d4e0ed59c58"
+    },
+    {
+      "path": "results/purpose/event/index.html",
+      "sha256": "06c03215d8fa57359360b08da8e1c0bd619fdf7fd11cebc387a4eee5fb798d01"
+    },
+    {
+      "path": "results/purpose/local/index.html",
+      "sha256": "a39ac079947ce3936afc571815ba5fc74a73ba5e8783fc383f7b9df8f26711e6"
+    },
+    {
+      "path": "results/purpose/portfolio/index.html",
+      "sha256": "7fc5f29b12f3abc2620d609b661e4ed599a9ba577f51d279c1e2e07e42709ebc"
+    },
+    {
+      "path": "results/purpose/professional/index.html",
+      "sha256": "64baf8c278e35f541b180c7964e3cd62a40eac76a82eb421f18ad7ebfa05bad1"
+    },
+    {
+      "path": "results/purpose/restaurant/index.html",
+      "sha256": "023ff4d0eb4a56a0740db3ac16eec1caf21a4ad5a3ee7e787e62c3e8ed4b4c16"
+    },
+    {
+      "path": "results/purpose/saas/index.html",
+      "sha256": "618fba79027a5a2eec21802b527a64ec861b7f7388b7c77df945c5256f1afa6c"
+    },
+    {
+      "path": "results/refined/brand/index.html",
+      "sha256": "12ce1ab272f889bc2be593ad08df138fdadb2025e92bbfe31705e60c14ccff56"
+    },
+    {
+      "path": "results/refined/event/index.html",
+      "sha256": "9af81e58700209b9146bb50960a57d690d9e4cc319b902eefcd3a647b0f627fd"
+    },
+    {
+      "path": "results/refined/local/index.html",
+      "sha256": "4d94e113adc0a9c283737ba65f345430fe856ae84222c02dae7d6a5774f40586"
+    },
+    {
+      "path": "results/refined/portfolio/index.html",
+      "sha256": "61386ced28d28a49c1c52b3f1e7879dafc481ba74d0ca5f51f5254acf4809699"
+    },
+    {
+      "path": "results/refined/professional/index.html",
+      "sha256": "ef7a2748aef7c0e9e56f4393001cf463cf8d5b01e5d17b194ab5e58fdd6d2189"
+    },
+    {
+      "path": "results/refined/restaurant/index.html",
+      "sha256": "3158a932c2cd35611c72219e76ce69b5570fc7a4d05fb162f019f396e605fc4c"
+    },
+    {
+      "path": "results/refined/saas/index.html",
+      "sha256": "618fba79027a5a2eec21802b527a64ec861b7f7388b7c77df945c5256f1afa6c"
+    },
+    {
+      "path": "results/relevance/brand/index.html",
+      "sha256": "104cdb23d9d6ed1de2805beb0e92cf97d0529478985013d09273aa4560fcb990"
+    },
+    {
+      "path": "results/relevance/event/index.html",
+      "sha256": "b8f71234495ebf7b308458a9f0bb7a737d871ea502af308bafe267f1846a8b1e"
+    },
+    {
+      "path": "results/relevance/local/index.html",
+      "sha256": "df9456a3448f83703ba1fb3e76900bb676b511d03c51d1ecb1b19c01c56c6a12"
+    },
+    {
+      "path": "results/relevance/portfolio/index.html",
+      "sha256": "46aab5f19d1307a277417f03f412cd88646801854a0cc413facbdd6ced813acb"
+    },
+    {
+      "path": "results/relevance/professional/index.html",
+      "sha256": "5c9dcba5636d4a79c921ee808d4234acdaae6224ad098029c54f39fb61f90693"
+    },
+    {
+      "path": "results/relevance/restaurant/index.html",
+      "sha256": "92b061ebcd0c0afbcb661ebb41a1c24d4e728c0dbf41caaefdc89117347f1203"
+    },
+    {
+      "path": "results/relevance/saas/index.html",
+      "sha256": "618fba79027a5a2eec21802b527a64ec861b7f7388b7c77df945c5256f1afa6c"
+    },
+    {
+      "path": "shared/a-motion/LICENSE",
+      "sha256": "4575a543ab88dad12ccea7d97e563d0bce5b448b06072e65d3264497dad326df"
+    },
+    {
+      "path": "shared/a-motion/motion.css",
+      "sha256": "948bfb7192c908934206ef5776ac28bdd8c3499483d7347cbb24e7b6fb5c6810"
+    },
+    {
+      "path": "shared/a-motion/motion.js",
+      "sha256": "e4453f1ac91d81002c5a75dccc1263285267999a8bb2453278ab63232e7062cc"
+    },
+    {
+      "path": "shared/artworks/calendar.svg",
+      "sha256": "b5e39e050562a2774dd35441e76eca80c2418ef606d3b0d2bd7ea532d26e9ca6"
+    },
+    {
+      "path": "shared/artworks/field-detail.svg",
+      "sha256": "f7bd0f94db56dda37d5007d85852cd3a5c538df4e5348d7bc0f93f32e7bdfe5f"
+    },
+    {
+      "path": "shared/artworks/field.svg",
+      "sha256": "0caffa2b9d29c4667d3e16c7dd961bd177aeb661d8e2255d48a801f968e8c3f0"
+    },
+    {
+      "path": "shared/artworks/nest-detail.svg",
+      "sha256": "e63077ab1a2b2fbf1669a75d7f6493e13ea9872c49a01691fa0897d72da6387d"
+    },
+    {
+      "path": "shared/artworks/nest.svg",
+      "sha256": "ac45cac40b88ce6b1e8f762b95a0c9c97edbb2eda85ca1445774384c8353ee61"
+    },
+    {
+      "path": "shared/artworks/notebook.svg",
+      "sha256": "d487c20ee8ff639554205d481e41afea0f7f3d22dcf3f063eb14a9d6125e7160"
+    },
+    {
+      "path": "shared/artworks/pencils.svg",
+      "sha256": "562329e0eb4a65eb8d0db3f65db8deecb902d976613a9c553238765b21bd253d"
+    },
+    {
+      "path": "shared/artworks/ray-detail.svg",
+      "sha256": "1e117830e1b466c35a0d8deb5aa3016b9af730ceed9d24bfd43a42f13aa5b5c9"
+    },
+    {
+      "path": "shared/artworks/ray.svg",
+      "sha256": "ad6a90daf4f31733326dbc481f56eef0cae7fbd0eaae6f1ee8265fb3365bc9a8"
+    },
+    {
+      "path": "shared/data.json",
+      "sha256": "fac6c88308106e468b92eb6a88fde477afeaf094f52771d389eeafe003569ad0"
+    },
+    {
+      "path": "shared/fonts/fonts.css",
+      "sha256": "8a896ccf884280737f018436eb63e8a4c3a06c361696f75e2c8990c7ecebe815"
+    },
+    {
+      "path": "shared/fonts/LICENSE.txt",
+      "sha256": "d31ddd9f2bed32fd7e302a205cf2380ba0de6529152d239ef99cfb6f261bfc04"
+    },
+    {
+      "path": "shared/fonts/PretendardVariable.woff2",
+      "sha256": "9599f12fd42fc0bce1cd50b47a0c022e108d7aa64dd0d1bb0ed44f3282d900b4"
+    },
+    {
+      "path": "shared/photos/breakfast.jpg",
+      "sha256": "a87886888224239c682426793200013e651caf2452dff9dd1773e844f21e1fd2"
+    },
+    {
+      "path": "shared/photos/credits.json",
+      "sha256": "16ab80f3c920533faa6b4ea092b37b6f5af19b3510a0242dca428ba7bdff11ba"
+    },
+    {
+      "path": "shared/photos/desk.jpg",
+      "sha256": "adf846df50ec8a9d07f9c1902ca5b4c63969e0ef90150c5d78272fbcb0545cce"
+    },
+    {
+      "path": "shared/photos/pottery.jpg",
+      "sha256": "b4179a8ffa7668a19f47280f7429f75aab97cc45358e07b4dde1ad09110bb0bf"
+    },
+    {
+      "path": "src/clarity/actions.js",
+      "sha256": "cc20b429d6966e924c1f9783f2e5e01dc21db3d0f955e6a8afe59a442ca25827"
+    },
+    {
+      "path": "src/clarity/assets/manifest.json",
+      "sha256": "ed5219f49612413f67707ffff1253839fe87b1e1b538cf3079733d342d6f4511"
+    },
+    {
+      "path": "src/clarity/assets/nest-focus.svg",
+      "sha256": "4e2f61f3db7ade4b3355559bc4b544ce630d08f29dc6123115abf6e27865d742"
+    },
+    {
+      "path": "src/clarity/result-artifact.js",
+      "sha256": "acd4a2a6e44b5ae07828768e17ced40f57361d234fcbe1402c826e4da8b7f2fb"
+    },
+    {
+      "path": "src/clarity/stability.js",
+      "sha256": "d9df36262b31d948ab889f39f79513f6689681947d057630e0d497992f6a0b8c"
+    },
+    {
+      "path": "src/clarity/style.css",
+      "sha256": "4870f84630d0f577a31e0206ecded9018413280810f5d5691a4019fb9475428b"
+    },
+    {
+      "path": "src/clarity/viewer.js",
+      "sha256": "c2f5b000ff52dcb76e79d5ea27616f469791970178a3cadf89d409fd778a9b55"
+    },
+    {
+      "path": "src/compact/actions.js",
+      "sha256": "12fb9ce5d2985c226f3e7d95697f2f087ec5d8b2db52cc6447ed20c2e94f4470"
+    },
+    {
+      "path": "src/compact/stability.js",
+      "sha256": "d5001eb5d8c2e3db7361c4d86e88ee795fe4be5f3d1ba67b11c066800997a0d1"
+    },
+    {
+      "path": "src/compact/style.css",
+      "sha256": "7f5163484c2fa6b935aeef68956a48fb7e52d27727cb4354f7f3d79c341daf1f"
+    },
+    {
+      "path": "src/compact/viewer.js",
+      "sha256": "a3f6f451377daa3bab1caf28d721b68341537a33a41cca02c6f2e5bda506ff8b"
+    },
+    {
+      "path": "src/craft/actions.js",
+      "sha256": "40cb58a1dcd6952c88054b2c9cc0d9e41a899bb98a863d319f1957c280e1a012"
+    },
+    {
+      "path": "src/craft/app.js",
+      "sha256": "e26e45c38a8b1e71b2ed5034fdc7ab4c84563b49e0315c8f34ebd150f71e9cef"
+    },
+    {
+      "path": "src/craft/assets/manifest.json",
+      "sha256": "87f6888dcf19cf0f5486adf5e8e4468179518aea27583c6d15fd9574fb1442be"
+    },
+    {
+      "path": "src/craft/assets/nest-flow.svg",
+      "sha256": "7465ff7a9d3e7f9411db80098a9b63431b56d05fc2200058029d0b1d1e9bf1e6"
+    },
+    {
+      "path": "src/craft/assets/nest-ui.svg",
+      "sha256": "a20bd27d9d487f8540b5a8cc1b2e177f1b5840bc30f90b3f8435f2e63b196036"
+    },
+    {
+      "path": "src/craft/content-reveal.js",
+      "sha256": "cdf604f5520f59b312a19b8f78b673322e7b7d11873eed15ded3a507ca77da77"
+    },
+    {
+      "path": "src/craft/motion.js",
+      "sha256": "991b9fb355f98ff9380150f881a7fc28655519299dac453cbd109dfd9349239a"
+    },
+    {
+      "path": "src/craft/result-artifact.js",
+      "sha256": "e5c9a41c265c12380104be20875c9e9d49036289627c418ef8d34c5c89a4f2cf"
+    },
+    {
+      "path": "src/craft/stability.js",
+      "sha256": "d5001eb5d8c2e3db7361c4d86e88ee795fe4be5f3d1ba67b11c066800997a0d1"
+    },
+    {
+      "path": "src/craft/style.css",
+      "sha256": "096aef94c2d14aa295fa4e0425a8f96d29ac4c44467048c3ad0e0e773050ecb9"
+    },
+    {
+      "path": "src/craft/viewer.js",
+      "sha256": "ebe319029a413348315352dcdf4a7e2434d2994fbfd9b680ddf939db17fea975"
+    },
+    {
+      "path": "clarity/index.html",
+      "sha256": "9b3845defb4931094529065ca77e8b9b9ac85bad9e94ffb859105b7f4c911c0c"
+    },
+    {
+      "path": "compact/index.html",
+      "sha256": "d2764478245c8f3c103cbb1a946b620be5f04b88dc0b5a693cdb52cfe660a3e2"
+    }
+  ]
+}

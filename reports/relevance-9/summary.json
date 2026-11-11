@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "sites": 7,
+  "changedCategories": 3,
+  "unchangedCategories": [
+    "saas",
+    "brand",
+    "local",
+    "restaurant"
+  ],
+  "saasIdentical": true,
+  "baseChecks": 101,
+  "selectionValues": 62,
+  "designAndSyncChecks": 80,
+  "contentMotionChecks": 12,
+  "editorialFlowChecks": 6,
+  "evidenceChecks": 9,
+  "preservedFiles": 140,
+  "dataEqual": true,
+  "browser": "157.0.8103.50"
+}

@@ -1,0 +1,295 @@
+{
+  "total": 12,
+  "passed": 12,
+  "failed": 0,
+  "checks": [
+    {
+      "topic": "brand",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "translate": "0px 16px",
+        "frames": [
+          {
+            "translate": "0px 16px",
+            "opacity": "0.65"
+          },
+          {
+            "translate": "0px",
+            "opacity": "1"
+          }
+        ],
+        "duration": 780,
+        "title": "하루 노트",
+        "focusStopsMotion": true,
+        "oneShot": true,
+        "reducedMotion": true,
+        "contentVisible": true
+      }
+    },
+    {
+      "topic": "local",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "translate": "0px 16px",
+        "frames": [
+          {
+            "translate": "0px 16px",
+            "opacity": "0.65"
+          },
+          {
+            "translate": "0px",
+            "opacity": "1"
+          }
+        ],
+        "duration": 780,
+        "title": "작은 접시 빚기",
+        "focusStopsMotion": true,
+        "oneShot": true,
+        "reducedMotion": true,
+        "contentVisible": true
+      }
+    },
+    {
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "translate": "0px 16px",
+        "frames": [
+          {
+            "translate": "0px 16px",
+            "opacity": "0.65"
+          },
+          {
+            "translate": "0px",
+            "opacity": "1"
+          }
+        ],
+        "duration": 780,
+        "title": "계절 과일 오트볼",
+        "focusStopsMotion": true,
+        "oneShot": true,
+        "reducedMotion": true,
+        "contentVisible": true
+      }
+    },
+    {
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "translate": "0px 16px",
+        "frames": [
+          {
+            "translate": "0px 16px",
+            "opacity": "0.65"
+          },
+          {
+            "translate": "0px",
+            "opacity": "1"
+          }
+        ],
+        "duration": 780,
+        "title": "NEST / 읽는 서가",
+        "focusStopsMotion": true,
+        "oneShot": true,
+        "reducedMotion": true,
+        "contentVisible": true
+      }
+    },
+    {
+      "topic": "professional",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "translate": "0px 16px",
+        "frames": [
+          {
+            "translate": "0px 16px",
+            "opacity": "0.65"
+          },
+          {
+            "translate": "0px",
+            "opacity": "1"
+          }
+        ],
+        "duration": 780,
+        "title": "다음 작업의 시작점을알려주세요.",
+        "focusStopsMotion": true,
+        "oneShot": true,
+        "reducedMotion": true,
+        "contentVisible": true
+      }
+    },
+    {
+      "topic": "event",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "translate": "0px 16px",
+        "frames": [
+          {
+            "translate": "0px 16px",
+            "opacity": "0.65"
+          },
+          {
+            "translate": "0px",
+            "opacity": "1"
+          }
+        ],
+        "duration": 780,
+        "title": "함께할 방식을 골라주세요.",
+        "focusStopsMotion": true,
+        "oneShot": true,
+        "reducedMotion": true,
+        "contentVisible": true
+      }
+    },
+    {
+      "topic": "brand",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "translate": "0px 16px",
+        "frames": [
+          {
+            "translate": "0px 16px",
+            "opacity": "0.65"
+          },
+          {
+            "translate": "0px",
+            "opacity": "1"
+          }
+        ],
+        "duration": 780,
+        "title": "하루 노트",
+        "focusStopsMotion": true,
+        "oneShot": true,
+        "reducedMotion": true,
+        "contentVisible": true
+      }
+    },
+    {
+      "topic": "local",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "translate": "0px 16px",
+        "frames": [
+          {
+            "translate": "0px 16px",
+            "opacity": "0.65"
+          },
+          {
+            "translate": "0px",
+            "opacity": "1"
+          }
+        ],
+        "duration": 780,
+        "title": "작은 접시 빚기",
+        "focusStopsMotion": true,
+        "oneShot": true,
+        "reducedMotion": true,
+        "contentVisible": true
+      }
+    },
+    {
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "translate": "0px 16px",
+        "frames": [
+          {
+            "translate": "0px 16px",
+            "opacity": "0.65"
+          },
+          {
+            "translate": "0px",
+            "opacity": "1"
+          }
+        ],
+        "duration": 780,
+        "title": "계절 과일 오트볼",
+        "focusStopsMotion": true,
+        "oneShot": true,
+        "reducedMotion": true,
+        "contentVisible": true
+      }
+    },
+    {
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "translate": "0px 16px",
+        "frames": [
+          {
+            "translate": "0px 16px",
+            "opacity": "0.65"
+          },
+          {
+            "translate": "0px",
+            "opacity": "1"
+          }
+        ],
+        "duration": 780,
+        "title": "NEST / 읽는 서가",
+        "focusStopsMotion": true,
+        "oneShot": true,
+        "reducedMotion": true,
+        "contentVisible": true
+      }
+    },
+    {
+      "topic": "professional",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "translate": "0px 16px",
+        "frames": [
+          {
+            "translate": "0px 16px",
+            "opacity": "0.65"
+          },
+          {
+            "translate": "0px",
+            "opacity": "1"
+          }
+        ],
+        "duration": 780,
+        "title": "다음 작업의 시작점을알려주세요.",
+        "focusStopsMotion": true,
+        "oneShot": true,
+        "reducedMotion": true,
+        "contentVisible": true
+      }
+    },
+    {
+      "topic": "event",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "translate": "0px 16px",
+        "frames": [
+          {
+            "translate": "0px 16px",
+            "opacity": "0.65"
+          },
+          {
+            "translate": "0px",
+            "opacity": "1"
+          }
+        ],
+        "duration": 780,
+        "title": "함께할 방식을 골라주세요.",
+        "focusStopsMotion": true,
+        "oneShot": true,
+        "reducedMotion": true,
+        "contentVisible": true
+      }
+    }
+  ]
+}

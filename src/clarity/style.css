@@ -1,0 +1,19 @@
+/* 대표는 모바일에서 단독으로, 보조 작품은 짧은 다음 항목으로 보여준다. */
+.i-lead-visual>picture{display:block;width:100%;height:100%}.i-lead-visual>picture>img{width:100%;height:100%;object-fit:cover;object-position:center}
+.k-rationale{font-size:14px;line-height:1.8;color:#eef1df;margin-top:16px}
+body[data-clarity] .i-event-reasons{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+body[data-clarity] .i-event-reasons>button{display:flex;align-items:center;gap:12px;border:1px solid #b88770;border-radius:10px;padding:12px 14px;min-height:48px}
+body[data-clarity] .i-event-reasons strong{font-size:16px;line-height:1.6}
+body[data-clarity] .i-event-reasons small{margin:0;font-size:11px;line-height:1.6}
+body[data-clarity] .i-event-reasons .icon{position:static;flex-shrink:0;transform:none;rotate:none;margin:0 0 0 auto}
+@media(max-width:760px){
+ body[data-clarity] .e-work-lead{grid-template-columns:1fr;gap:16px}
+ body[data-clarity] .e-work-lead .e-lead-main .i-lead-visual{aspect-ratio:1140/710}
+ body[data-clarity] .e-work-lead .e-lead-support{display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:16px;align-items:center}
+ body[data-clarity] .e-work-lead .e-lead-support>img{width:100%;aspect-ratio:1.65;object-fit:contain;background:#eee0cb}
+ body[data-clarity] .e-work-lead .e-lead-support>span{padding:0;gap:8px}
+ body[data-clarity] .i-event-reasons{gap:8px;margin-top:18px}
+ body[data-clarity] .i-event-reasons>button{width:100%;padding:10px 12px}
+ body[data-clarity] .s-event-copy .s-event-statement{font-size:25px;line-height:1.45}
+}
+@media(prefers-reduced-motion:no-preference) and(hover:hover){body[data-clarity] .i-event-reasons>button .icon{transition:translate 220ms cubic-bezier(.22,1,.36,1)}body[data-clarity] .i-event-reasons>button:hover .icon{translate:3px 0}}

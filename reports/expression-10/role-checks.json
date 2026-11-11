@@ -1,0 +1,253 @@
+{
+  "total": 12,
+  "passed": 12,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "결과 형태·실제 동기화·확대 s1",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "specificShape": true,
+        "realValueSync": true,
+        "layout": {
+          "overflow": false,
+          "loss": false,
+          "columns": null
+        }
+      }
+    },
+    {
+      "name": "결과 형태·실제 동기화·확대 s2",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "specificShape": true,
+        "realValueSync": true,
+        "layout": {
+          "overflow": false,
+          "loss": false,
+          "columns": "327.406px 327.406px"
+        }
+      }
+    },
+    {
+      "name": "결과 형태·실제 동기화·확대 s3",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "specificShape": true,
+        "realValueSync": true,
+        "layout": {
+          "overflow": false,
+          "loss": false,
+          "columns": null
+        }
+      }
+    },
+    {
+      "name": "작품 중심 프레임·짧은 캡션",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "caps": [
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "notes": 0,
+            "height": 44.796875
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "notes": 0,
+            "height": 44.796875
+          }
+        ],
+        "imageActionsRemain": true
+      }
+    },
+    {
+      "name": "관심 문구·근거 세션·키보드 연결",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "interestFirst": true,
+        "programEvidence": true,
+        "bothDays": true
+      }
+    },
+    {
+      "name": "표현별 결과 모션·즉시 값·감소 설정",
+      "width": 1440,
+      "passed": true,
+      "evidence": {
+        "samples": [
+          {
+            "id": "s1",
+            "duration": 240,
+            "frames": [
+              {
+                "opacity": "0.65"
+              },
+              {
+                "opacity": "1"
+              }
+            ]
+          },
+          {
+            "id": "s2",
+            "duration": 320,
+            "frames": [
+              {
+                "translate": "6px",
+                "opacity": "0.75"
+              },
+              {
+                "translate": "0px",
+                "opacity": "1"
+              }
+            ]
+          },
+          {
+            "id": "s3",
+            "duration": 300,
+            "frames": [
+              {
+                "translate": "0px 4px",
+                "opacity": "0.75"
+              },
+              {
+                "translate": "0px",
+                "opacity": "1"
+              }
+            ]
+          }
+        ],
+        "immediateValues": true,
+        "reducedMotion": true
+      }
+    },
+    {
+      "name": "결과 형태·실제 동기화·확대 s1",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "specificShape": true,
+        "realValueSync": true,
+        "layout": {
+          "overflow": false,
+          "loss": false,
+          "columns": null
+        }
+      }
+    },
+    {
+      "name": "결과 형태·실제 동기화·확대 s2",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "specificShape": true,
+        "realValueSync": true,
+        "layout": {
+          "overflow": false,
+          "loss": false,
+          "columns": "274px"
+        }
+      }
+    },
+    {
+      "name": "결과 형태·실제 동기화·확대 s3",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "specificShape": true,
+        "realValueSync": true,
+        "layout": {
+          "overflow": false,
+          "loss": false,
+          "columns": null
+        }
+      }
+    },
+    {
+      "name": "작품 중심 프레임·짧은 캡션",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "caps": [
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "notes": 0,
+            "height": 39.1875
+          },
+          {
+            "background": "rgba(0, 0, 0, 0)",
+            "notes": 0,
+            "height": 39.1875
+          }
+        ],
+        "imageActionsRemain": true
+      }
+    },
+    {
+      "name": "관심 문구·근거 세션·키보드 연결",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "interestFirst": true,
+        "programEvidence": true,
+        "bothDays": true
+      }
+    },
+    {
+      "name": "표현별 결과 모션·즉시 값·감소 설정",
+      "width": 390,
+      "passed": true,
+      "evidence": {
+        "samples": [
+          {
+            "id": "s1",
+            "duration": 240,
+            "frames": [
+              {
+                "opacity": "0.65"
+              },
+              {
+                "opacity": "1"
+              }
+            ]
+          },
+          {
+            "id": "s2",
+            "duration": 320,
+            "frames": [
+              {
+                "translate": "6px",
+                "opacity": "0.75"
+              },
+              {
+                "translate": "0px",
+                "opacity": "1"
+              }
+            ]
+          },
+          {
+            "id": "s3",
+            "duration": 300,
+            "frames": [
+              {
+                "translate": "0px 4px",
+                "opacity": "0.75"
+              },
+              {
+                "translate": "0px",
+                "opacity": "1"
+              }
+            ]
+          }
+        ],
+        "immediateValues": true,
+        "reducedMotion": true
+      }
+    }
+  ]
+}

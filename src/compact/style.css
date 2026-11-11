@@ -1,0 +1,47 @@
+/* 읽기 위치를 보존하되 짧은 결과에 긴 카드형 예시의 높이를 부과하지 않는다. */
+body[data-compact] .e-service-intro{padding-block:24px 20px;column-gap:40px}
+body[data-compact] .e-service-intro h1{font-size:40px;line-height:1.35;max-width:none}
+body[data-compact] .e-service-intro .lead{font-size:15px;line-height:1.8}
+body[data-compact] .e-service-intro .eyebrow{margin-bottom:12px}
+body[data-compact] .s-band-services{padding-block:12px 32px}
+body[data-compact] .e-service-workbench{gap:48px}
+body[data-compact] .e-service-evidence{padding:24px}
+body[data-compact] .r-sample-heading{padding-bottom:12px;gap:16px}
+body[data-compact] .r-sample-heading h2{font-size:22px}
+body[data-compact] .c-project-brief{margin:12px 0 0}
+body[data-compact] .i-service-result .r-sample-after{margin:12px 0 0;padding:16px}
+body[data-compact] .r-sample-after>small{margin-bottom:12px}
+body[data-compact] .i-service-result .x-result-message{font-size:21px;line-height:1.65}
+body[data-compact] .x-result-flow{grid-template-columns:1fr;gap:0}
+body[data-compact] .x-result-flow>li{display:grid;grid-template-columns:24px minmax(0,1fr);align-items:baseline;gap:10px;border:0;border-bottom:1px solid #c0cbb5;border-radius:0;padding:6px 0;background:transparent}
+body[data-compact] .x-result-flow>li:first-child{padding-top:0}
+body[data-compact] .x-result-flow>li:last-child{padding-bottom:0;border-bottom:0}
+body[data-compact] .x-result-flow span{font-size:16px;line-height:1.6}
+body[data-compact] .x-result-flow small{font-size:11px;margin:0}
+body[data-compact] .x-result-structure>div{gap:12px;padding:9px 0}
+body[data-compact] .x-result-structure>div:first-child{padding-top:0}
+body[data-compact] .x-result-structure>div:last-child{padding-bottom:0}
+body[data-compact] .x-result-structure dd{font-size:18px;line-height:1.6}
+body[data-compact] .i-service-result .e-service-outputs{margin-top:16px}
+body[data-compact] .e-service-outputs ul{margin-block:10px 0}
+body[data-compact] .i-service-result>.btn{margin-top:16px}
+body[data-compact] .i-service-context{margin-top:18px;padding-top:14px}
+@media(min-width:1100px){
+ body[data-compact] .e-service-evidence{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:12px 22px;align-content:start;align-items:start}
+ body[data-compact] .e-service-evidence>*{grid-column:1/-1}
+ body[data-compact] .i-service-result .r-sample-after{grid-column:1;grid-row:3;margin:0}
+ body[data-compact] .i-service-result .e-service-outputs{grid-column:2;grid-row:3;margin:0;padding-top:12px}
+ body[data-compact] .e-service-outputs ul{display:block;padding-left:18px}
+ body[data-compact] .e-service-outputs li+li{margin-top:6px}
+ body[data-compact] .i-service-result>.btn{justify-self:start;margin-top:0}
+ body[data-compact] .i-service-context{margin-top:0}
+ body[data-compact] .c-project-brief{margin:0}
+}
+@media(max-width:760px){
+ body[data-compact] .e-service-workbench{gap:24px}
+ body[data-compact] .e-service-intro{padding-block:20px 24px}
+ body[data-compact] .e-service-intro h1{font-size:32px;max-width:15ch}
+ body[data-compact] .s-band-services{padding-block:12px 28px}
+ body[data-compact] .e-service-evidence{padding:20px}
+ body[data-compact] .i-service-result .x-result-message{font-size:20px}
+}

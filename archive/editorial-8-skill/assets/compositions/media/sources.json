@@ -1,0 +1,22 @@
+[
+  {
+    "name": "cup",
+    "file": "cup.jpg",
+    "page": "https://unsplash.com/photos/person-holding-white-ceramic-tea-cup-tXW7gPCgkc0",
+    "photographer": "Elizabeth Tsung",
+    "url": "https://images.unsplash.com/photo-1485821836693-0372f14be9c6?auto=format&fit=crop&w=1000&q=82&fm=jpg",
+    "bytes": 84626,
+    "license": "https://unsplash.com/license",
+    "role": "구도 실행 예제의 참고 사진. 실제 예제 브랜드·매장의 사진이 아님."
+  },
+  {
+    "name": "cafe",
+    "file": "cafe.jpg",
+    "page": "https://unsplash.com/photos/a-coffee-shop-with-a-counter-and-chairs-kLVh31XAopA",
+    "photographer": "Dominic Chasse",
+    "url": "https://images.unsplash.com/photo-1711374930170-950a564ac112?auto=format&fit=crop&w=1600&q=82&fm=jpg",
+    "bytes": 819817,
+    "license": "https://unsplash.com/license",
+    "role": "구도 실행 예제의 참고 사진. 실제 예제 브랜드·매장의 사진이 아님."
+  }
+]

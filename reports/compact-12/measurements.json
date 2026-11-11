@@ -1,0 +1,202 @@
+[
+  {
+    "width": 1440,
+    "topic": "professional",
+    "group": "b",
+    "height": 2102,
+    "intro": null,
+    "panel": null,
+    "cta": null,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "topic": "professional",
+    "group": "craft",
+    "height": 1748,
+    "intro": {
+      "top": 89,
+      "height": 210.203125,
+      "bottom": 299.203125,
+      "width": 1200
+    },
+    "panel": {
+      "top": 315.203125,
+      "height": 684,
+      "bottom": 999.203125,
+      "width": 766.8125
+    },
+    "cta": {
+      "top": 849.890625,
+      "height": 48,
+      "bottom": 897.890625,
+      "width": 178.46875
+    },
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "topic": "professional",
+    "group": "compact",
+    "height": 1489,
+    "intro": {
+      "top": 89,
+      "height": 158.140625,
+      "bottom": 247.140625,
+      "width": 1200
+    },
+    "panel": {
+      "top": 263.140625,
+      "height": 477,
+      "bottom": 740.140625,
+      "width": 777.609375
+    },
+    "cta": {
+      "top": 592.53125,
+      "height": 48,
+      "bottom": 640.53125,
+      "width": 178.46875
+    },
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "topic": "portfolio",
+    "group": "b",
+    "height": 4038,
+    "intro": null,
+    "panel": null,
+    "cta": null,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "topic": "portfolio",
+    "group": "craft",
+    "height": 3023,
+    "intro": null,
+    "panel": null,
+    "cta": null,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "topic": "event",
+    "group": "b",
+    "height": 1937,
+    "intro": null,
+    "panel": null,
+    "cta": null,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "topic": "event",
+    "group": "craft",
+    "height": 1828,
+    "intro": null,
+    "panel": null,
+    "cta": null,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "topic": "professional",
+    "group": "b",
+    "height": 2883,
+    "intro": null,
+    "panel": null,
+    "cta": null,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "topic": "professional",
+    "group": "craft",
+    "height": 2464,
+    "intro": {
+      "top": 85,
+      "height": 235.765625,
+      "bottom": 320.765625,
+      "width": 350
+    },
+    "panel": {
+      "top": 612.203125,
+      "height": 705,
+      "bottom": 1317.203125,
+      "width": 350
+    },
+    "cta": {
+      "top": 1174.1875,
+      "height": 48,
+      "bottom": 1222.1875,
+      "width": 178.46875
+    },
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "topic": "professional",
+    "group": "compact",
+    "height": 2378,
+    "intro": {
+      "top": 85,
+      "height": 232.515625,
+      "bottom": 317.515625,
+      "width": 350
+    },
+    "panel": {
+      "top": 608.953125,
+      "height": 622,
+      "bottom": 1230.953125,
+      "width": 350
+    },
+    "cta": {
+      "top": 1081.9375,
+      "height": 48,
+      "bottom": 1129.9375,
+      "width": 178.46875
+    },
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "topic": "portfolio",
+    "group": "b",
+    "height": 3435,
+    "intro": null,
+    "panel": null,
+    "cta": null,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "topic": "portfolio",
+    "group": "craft",
+    "height": 3508,
+    "intro": null,
+    "panel": null,
+    "cta": null,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "topic": "event",
+    "group": "b",
+    "height": 2546,
+    "intro": null,
+    "panel": null,
+    "cta": null,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "topic": "event",
+    "group": "craft",
+    "height": 2732,
+    "intro": null,
+    "panel": null,
+    "cta": null,
+    "overflow": false
+  }
+]

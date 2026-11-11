@@ -1,0 +1,28 @@
+/* 선택 적용용 자체 UI 패턴 · CC0-1.0. 프로젝트 토큰을 우선한다. */
+.kui-control,.kui-input,.kui-select{box-sizing:border-box;font:inherit;color:inherit;min-height:44px;max-width:100%}
+.kui-control{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;padding:.65rem 1rem;border:1px solid currentColor;border-radius:var(--control-radius,.25rem);background:var(--control-bg,transparent);cursor:pointer;line-height:1.4;text-align:center;white-space:normal}
+.kui-control>span{min-width:0;overflow-wrap:anywhere;word-break:keep-all}
+.kui-control svg,.kui-field svg{display:block;width:1.125rem;height:1.125rem;flex-shrink:0;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.kui-control:focus-visible,.kui-input:focus-visible,.kui-select:focus-visible{outline:2px solid var(--focus-color,currentColor);outline-offset:3px}
+.kui-control:disabled{cursor:not-allowed;opacity:.55}
+.kui-input,.kui-select{width:100%;padding:.65rem .75rem;border:1px solid var(--control-border,currentColor);border-radius:var(--control-radius,.25rem);background:var(--field-bg,transparent);line-height:1.5}
+.kui-field{--select-arrow-size:16px;--select-arrow-inset:12px;--select-arrow-gap:12px;position:relative;display:block;min-width:0}
+.kui-field>.kui-select{appearance:none;padding-inline-end:calc(var(--select-arrow-inset) + var(--select-arrow-size) + var(--select-arrow-gap))}
+.kui-field>svg{position:absolute;inset-inline-end:var(--select-arrow-inset);top:50%;transform:translateY(-50%);width:var(--select-arrow-size);height:var(--select-arrow-size);pointer-events:none}
+.kui-input[aria-invalid=true],.kui-select[aria-invalid=true]{border-color:var(--error-color,#b42318)}
+/* 문구와 아이콘의 정렬 계약을 명시적으로 선택한다. */
+.kui-notice{display:flex;align-items:center;gap:var(--notice-gap,.5rem);font-size:var(--notice-size,.875rem);line-height:var(--notice-leading,1.6)}
+.kui-notice__text{min-width:0;margin:0}
+.kui-notice__icon{display:inline-flex;align-items:center;justify-content:center;flex:none;width:var(--notice-icon-size,1rem);height:var(--notice-icon-size,1rem)}
+.kui-notice__icon svg{display:block;width:100%;height:var(--notice-icon-size,1rem);flex:none;fill:none;stroke:currentColor}
+.kui-notice--first-line{align-items:flex-start}
+.kui-notice--first-line .kui-notice__icon{height:calc(1em * var(--notice-leading,1.6))}
+/* 한 줄 높이가 접근성 설정으로 바뀌어도 아이콘 상자가 실제 행간을 따른다. */
+@supports(height:1lh){.kui-notice--first-line .kui-notice__icon{font-size:inherit;line-height:inherit;height:1lh}}
+/* 필터 결과가 하나여도 동등 비교의 열 폭을 유지한다. 열 수는 프로젝트에 맞춘다. */
+.kui-comparison-grid{display:grid;grid-template-columns:repeat(var(--comparison-columns,3),minmax(0,1fr));gap:var(--comparison-gap,24px)}
+.kui-comparison-grid>[hidden]{display:none!important}
+@media(max-width:60rem){.kui-comparison-grid{--comparison-columns:2}}
+@media(max-width:40rem){.kui-comparison-grid{--comparison-columns:1}}
+@media(forced-colors:active){.kui-field>.kui-select{appearance:auto;padding-inline-end:.75rem}.kui-field>svg{display:none}}
+@media(prefers-reduced-motion:no-preference){.kui-control{transition:background-color .15s,color .15s}.kui-control:active:not(:disabled){transform:translateY(1px)}}

@@ -1,0 +1,3446 @@
+{
+  "scope": "단일 작성자·공통 기능 엔진·동일 요구 데이터. 전체 검사 후 영향 범위 재검사의 최신 결과로 중복 관찰을 교체했다. 미적 점수/인과 효과/독립 실험으로 해석하지 않는다.",
+  "checks": [
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "none",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "none",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "none",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "none",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "none",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "none",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "saas",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "saas",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "none",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "none",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "none",
+      "topic": "saas",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "none",
+      "topic": "saas",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "none",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "none",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "none",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "none",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "none",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "none",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "brand",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "brand",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "none",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "none",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "none",
+      "topic": "brand",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "none",
+      "topic": "brand",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "none",
+      "topic": "local",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "none",
+      "topic": "local",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "none",
+      "topic": "local",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "none",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "none",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "none",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "local",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "local",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "none",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "none",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "none",
+      "topic": "local",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "none",
+      "topic": "local",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "none",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "none",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "none",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "none",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "none",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "none",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "none",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "none",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "professional",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "professional",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "none",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "none",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "none",
+      "topic": "professional",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "none",
+      "topic": "professional",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "none",
+      "topic": "event",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "none",
+      "topic": "event",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "none",
+      "topic": "event",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "none",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "none",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "none",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "event",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "none",
+      "topic": "event",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "none",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "none",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "none",
+      "topic": "event",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "none",
+      "topic": "event",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "a",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "a",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "a",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "a",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "a",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "a",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "saas",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "saas",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "a",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "a",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "a",
+      "topic": "saas",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "a",
+      "topic": "saas",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "a",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "a",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "a",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "a",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "a",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "a",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "brand",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "brand",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "a",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "a",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "a",
+      "topic": "brand",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "a",
+      "topic": "brand",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "a",
+      "topic": "local",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "a",
+      "topic": "local",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "a",
+      "topic": "local",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "a",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "a",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "a",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "local",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "local",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "a",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "a",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "a",
+      "topic": "local",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "a",
+      "topic": "local",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "a",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "a",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "a",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "a",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "a",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "a",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "a",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "a",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "professional",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "professional",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "a",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "a",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "a",
+      "topic": "professional",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "a",
+      "topic": "professional",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "a",
+      "topic": "event",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "a",
+      "topic": "event",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "a",
+      "topic": "event",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "a",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "a",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "a",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "event",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "a",
+      "topic": "event",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "a",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "a",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "a",
+      "topic": "event",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "a",
+      "topic": "event",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "b",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "b",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "b",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "b",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "b",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "b",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "saas",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "saas",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "b",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "b",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "b",
+      "topic": "saas",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "b",
+      "topic": "saas",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "b",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "b",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "b",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "b",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "b",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "b",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "brand",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "brand",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "b",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "b",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "b",
+      "topic": "brand",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "b",
+      "topic": "brand",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "b",
+      "topic": "local",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "b",
+      "topic": "local",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "b",
+      "topic": "local",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "b",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "b",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "b",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "local",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "local",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "b",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "b",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "b",
+      "topic": "local",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "b",
+      "topic": "local",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "b",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "b",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "b",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "b",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "b",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "b",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "b",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "b",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "professional",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "professional",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "b",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "b",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "b",
+      "topic": "professional",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "b",
+      "topic": "professional",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "b",
+      "topic": "event",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "b",
+      "topic": "event",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "b",
+      "topic": "event",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "b",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "b",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "b",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "event",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "b",
+      "topic": "event",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "b",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "b",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "b",
+      "topic": "event",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "b",
+      "topic": "event",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "own",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "own",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "own",
+      "topic": "saas",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "own",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "own",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "own",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "saas",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "saas",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "saas",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "own",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "own",
+      "topic": "saas",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "own",
+      "topic": "saas",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "own",
+      "topic": "saas",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "own",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "own",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "own",
+      "topic": "brand",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "own",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "own",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "own",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "brand",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "brand",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "brand",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "own",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "own",
+      "topic": "brand",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "own",
+      "topic": "brand",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "own",
+      "topic": "brand",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "own",
+      "topic": "local",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "own",
+      "topic": "local",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "own",
+      "topic": "local",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "own",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "own",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "own",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "local",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "local",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "local",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "own",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "own",
+      "topic": "local",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "own",
+      "topic": "local",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "own",
+      "topic": "local",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "own",
+      "topic": "restaurant",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "own",
+      "topic": "portfolio",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "own",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "own",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "own",
+      "topic": "professional",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "own",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "own",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "own",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "professional",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "professional",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "professional",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "own",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "own",
+      "topic": "professional",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "own",
+      "topic": "professional",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "own",
+      "topic": "professional",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "own",
+      "topic": "event",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "own",
+      "topic": "event",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "own",
+      "topic": "event",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "name": "주요 기능과 오류 복구",
+      "group": "own",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "필수 선택지·키보드",
+      "group": "own",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "기본 화면·실행 오류·전송 없음",
+      "group": "own",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "event",
+      "width": 320,
+      "passed": true,
+      "evidence": {
+        "width": 320,
+        "scroll": 320,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "event",
+      "width": 768,
+      "passed": true,
+      "evidence": {
+        "width": 768,
+        "scroll": 768,
+        "images": []
+      }
+    },
+    {
+      "name": "추가 폭 레이아웃",
+      "group": "own",
+      "topic": "event",
+      "width": 1024,
+      "passed": true,
+      "evidence": {
+        "width": 1024,
+        "scroll": 1024,
+        "images": []
+      }
+    },
+    {
+      "name": "글자200%",
+      "group": "own",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "own",
+      "topic": "event",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "name": "글자200%",
+      "group": "own",
+      "topic": "event",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "글자·행간200%",
+      "group": "own",
+      "topic": "event",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "name": "실제 포인터 모션 관찰",
+      "group": "none",
+      "topic": "brand",
+      "passed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "changed": true
+    },
+    {
+      "name": "모션 감소에서 대상 유지",
+      "group": "none",
+      "topic": "brand",
+      "passed": true
+    },
+    {
+      "name": "터치 대상 실제 조작",
+      "group": "none",
+      "topic": "brand",
+      "passed": true
+    },
+    {
+      "name": "실제 포인터 모션 관찰",
+      "group": "none",
+      "topic": "local",
+      "passed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "changed": false
+    },
+    {
+      "name": "모션 감소에서 대상 유지",
+      "group": "none",
+      "topic": "local",
+      "passed": true
+    },
+    {
+      "name": "터치 대상 실제 조작",
+      "group": "none",
+      "topic": "local",
+      "passed": true
+    },
+    {
+      "name": "실제 포인터 모션 관찰",
+      "group": "none",
+      "topic": "portfolio",
+      "passed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "changed": true
+    },
+    {
+      "name": "모션 감소에서 대상 유지",
+      "group": "none",
+      "topic": "portfolio",
+      "passed": true
+    },
+    {
+      "name": "터치 대상 실제 조작",
+      "group": "none",
+      "topic": "portfolio",
+      "passed": true
+    },
+    {
+      "name": "실제 포인터 모션 관찰",
+      "group": "a",
+      "topic": "brand",
+      "passed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1.03, 0, 0, 1.03, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "changed": true
+    },
+    {
+      "name": "모션 감소에서 대상 유지",
+      "group": "a",
+      "topic": "brand",
+      "passed": true
+    },
+    {
+      "name": "터치 대상 실제 조작",
+      "group": "a",
+      "topic": "brand",
+      "passed": true
+    },
+    {
+      "name": "실제 포인터 모션 관찰",
+      "group": "a",
+      "topic": "local",
+      "passed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "matrix(1, 0, 0, 1, 0, -1)",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "changed": true
+    },
+    {
+      "name": "모션 감소에서 대상 유지",
+      "group": "a",
+      "topic": "local",
+      "passed": true
+    },
+    {
+      "name": "터치 대상 실제 조작",
+      "group": "a",
+      "topic": "local",
+      "passed": true
+    },
+    {
+      "name": "실제 포인터 모션 관찰",
+      "group": "a",
+      "topic": "portfolio",
+      "passed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1.03, 0, 0, 1.03, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "changed": true
+    },
+    {
+      "name": "모션 감소에서 대상 유지",
+      "group": "a",
+      "topic": "portfolio",
+      "passed": true
+    },
+    {
+      "name": "터치 대상 실제 조작",
+      "group": "a",
+      "topic": "portfolio",
+      "passed": true
+    },
+    {
+      "name": "실제 포인터 모션 관찰",
+      "group": "b",
+      "topic": "brand",
+      "passed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "changed": true
+    },
+    {
+      "name": "모션 감소에서 대상 유지",
+      "group": "b",
+      "topic": "brand",
+      "passed": true
+    },
+    {
+      "name": "터치 대상 실제 조작",
+      "group": "b",
+      "topic": "brand",
+      "passed": true
+    },
+    {
+      "name": "실제 포인터 모션 관찰",
+      "group": "b",
+      "topic": "local",
+      "passed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1, 0, 0, 1, 3, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "changed": true
+    },
+    {
+      "name": "모션 감소에서 대상 유지",
+      "group": "b",
+      "topic": "local",
+      "passed": true
+    },
+    {
+      "name": "터치 대상 실제 조작",
+      "group": "b",
+      "topic": "local",
+      "passed": true
+    },
+    {
+      "name": "실제 포인터 모션 관찰",
+      "group": "b",
+      "topic": "portfolio",
+      "passed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "changed": true
+    },
+    {
+      "name": "모션 감소에서 대상 유지",
+      "group": "b",
+      "topic": "portfolio",
+      "passed": true
+    },
+    {
+      "name": "터치 대상 실제 조작",
+      "group": "b",
+      "topic": "portfolio",
+      "passed": true
+    },
+    {
+      "name": "실제 포인터 모션 관찰",
+      "group": "own",
+      "topic": "brand",
+      "passed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "changed": true
+    },
+    {
+      "name": "모션 감소에서 대상 유지",
+      "group": "own",
+      "topic": "brand",
+      "passed": true
+    },
+    {
+      "name": "터치 대상 실제 조작",
+      "group": "own",
+      "topic": "brand",
+      "passed": true
+    },
+    {
+      "name": "실제 포인터 모션 관찰",
+      "group": "own",
+      "topic": "local",
+      "passed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "changed": false
+    },
+    {
+      "name": "모션 감소에서 대상 유지",
+      "group": "own",
+      "topic": "local",
+      "passed": true
+    },
+    {
+      "name": "터치 대상 실제 조작",
+      "group": "own",
+      "topic": "local",
+      "passed": true
+    },
+    {
+      "name": "실제 포인터 모션 관찰",
+      "group": "own",
+      "topic": "portfolio",
+      "passed": true,
+      "before": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "none",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "after": {
+        "transform": "none",
+        "translate": "none",
+        "scale": "none",
+        "child": {
+          "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)",
+          "translate": "none",
+          "scale": "none"
+        }
+      },
+      "changed": true
+    },
+    {
+      "name": "모션 감소에서 대상 유지",
+      "group": "own",
+      "topic": "portfolio",
+      "passed": true
+    },
+    {
+      "name": "터치 대상 실제 조작",
+      "group": "own",
+      "topic": "portfolio",
+      "passed": true
+    },
+    {
+      "name": "비교 UI 4군/2군·카테고리·화면 폭",
+      "group": "viewer",
+      "passed": true
+    }
+  ]
+}
