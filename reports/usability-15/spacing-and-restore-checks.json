@@ -1,0 +1,1087 @@
+{
+  "total": 32,
+  "passed": 32,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "none",
+      "width": 320,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 84,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "none",
+      "width": 390,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 84,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "none",
+      "width": 768,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 152.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "none",
+      "width": 1024,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 152.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "none",
+      "width": 1440,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 152.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "none",
+      "width": 390,
+      "scale": 2,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 101.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 105.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "none",
+      "width": 768,
+      "scale": 2,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 101.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 233.984375,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "a",
+      "width": 320,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 84,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "a",
+      "width": 390,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 84,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "a",
+      "width": 768,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 152.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "a",
+      "width": 1024,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 152.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "a",
+      "width": 1440,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 152.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "a",
+      "width": 390,
+      "scale": 2,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 101.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 105.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "a",
+      "width": 768,
+      "scale": 2,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 101.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 233.984375,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "b",
+      "width": 320,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 84,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "b",
+      "width": 390,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 84,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "b",
+      "width": 768,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 152.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "b",
+      "width": 1024,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 152.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "b",
+      "width": 1440,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 152.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "b",
+      "width": 390,
+      "scale": 2,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 101.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 105.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "b",
+      "width": 768,
+      "scale": 2,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 101.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 233.984375,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "own",
+      "width": 320,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 84,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "own",
+      "width": 390,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 84,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "own",
+      "width": 768,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 152.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "own",
+      "width": 1024,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 152.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "own",
+      "width": 1440,
+      "scale": 1,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 80,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 152.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "own",
+      "width": 390,
+      "scale": 2,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 101.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 105.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "툴바·목록 경계와 상태 전환",
+      "group": "own",
+      "width": 768,
+      "scale": 2,
+      "passed": true,
+      "evidence": [
+        {
+          "state": "initial",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        },
+        {
+          "state": "filtered",
+          "gap": 101.796875,
+          "caption": true,
+          "overflow": false,
+          "rows": 1
+        },
+        {
+          "state": "empty",
+          "gap": 233.984375,
+          "caption": true,
+          "overflow": false,
+          "rows": 0
+        },
+        {
+          "state": "reset",
+          "gap": 20,
+          "caption": false,
+          "overflow": false,
+          "rows": 4
+        }
+      ]
+    },
+    {
+      "name": "식당의 사진/GNB·메뉴 아이콘·예약 복원",
+      "width": 390,
+      "scale": 1,
+      "passed": true,
+      "evidence": {
+        "restored": true,
+        "filterWorks": true,
+        "noOverflow": true
+      }
+    },
+    {
+      "name": "식당의 사진/GNB·메뉴 아이콘·예약 복원",
+      "width": 390,
+      "scale": 2,
+      "passed": true,
+      "evidence": {
+        "restored": true,
+        "filterWorks": true,
+        "noOverflow": true
+      }
+    },
+    {
+      "name": "식당의 사진/GNB·메뉴 아이콘·예약 복원",
+      "width": 1440,
+      "scale": 1,
+      "passed": true,
+      "evidence": {
+        "restored": true,
+        "filterWorks": true,
+        "noOverflow": true
+      }
+    },
+    {
+      "name": "식당의 사진/GNB·메뉴 아이콘·예약 복원",
+      "width": 1440,
+      "scale": 2,
+      "passed": true,
+      "evidence": {
+        "restored": true,
+        "filterWorks": true,
+        "noOverflow": true
+      }
+    }
+  ]
+}

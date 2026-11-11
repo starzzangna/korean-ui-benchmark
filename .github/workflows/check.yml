@@ -16,6 +16,7 @@ jobs:
       - run: npm test
       - run: npm run test:branches
       - run: npm run test:saas
+      - run: npm run test:usability
       - uses: actions/upload-artifact@v4
         if: always()
         with:

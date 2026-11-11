@@ -18,3 +18,6 @@ body[data-group=own]{--paper:#f6f7f4;--ink:#263d35;--muted:#5d7268;--accent:#355
 
 /* 서비스 작업대의 제목이 결과 패널을 첫 화면 밖으로 밀어내지 않게 한다. */
 body[data-group=own][data-category=professional] #services>.r14-section-head{margin-bottom:16px}body[data-group=own][data-category=professional] #services>.r14-section-head h2{font-size:24px}
+
+/* 결과 요약이 숨겨져도 검색 도구와 실제 목록의 경계는 유지한다. */
+.r14-workspace .toolbar{margin-bottom:20px}.r14-workspace .list-caption{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin:0 0 16px}.r14-workspace .list-caption>.text-button{flex-shrink:0}

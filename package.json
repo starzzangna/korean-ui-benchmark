@@ -68,7 +68,8 @@
     "build:renewal": "node scripts/build-renewal.mjs",
     "test:renewal": "node scripts/renewal-checks.mjs",
     "test:renewal-motion": "node scripts/renewal-motion-checks.mjs",
-    "report:renewal": "node scripts/report-renewal.mjs"
+    "report:renewal": "node scripts/report-renewal.mjs",
+    "test:usability": "node scripts/usability-checks.mjs"
   },
   "devDependencies": {
     "playwright": "1.62.1"

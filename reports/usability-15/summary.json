@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "additionalChecks": 32,
+  "functionChecks": 105,
+  "total": 137,
+  "preservedPages": 5,
+  "minimumToolbarListGap": 20,
+  "restaurantRestoredFrom": "results/clarity/restaurant/index.html",
+  "publicVersion": "usability-15"
+}

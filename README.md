@@ -2,7 +2,9 @@
 
 한국어 웹사이트의 구도·사진·조판·색면·정렬·모션을 콘텐츠와 행동에 맞게 설계하는 재사용 가능한 디자인 스킬입니다. 기본 글꼴은 한글·영문·숫자 모두 **Pretendard**이며 유료 서비스 없이 실행할 수 있습니다.
 
-**[GitHub Pages에서 최신 4종 비교 보기](https://starzzangna.github.io/korean-ui-benchmark/?v=renewal-14.1)**
+[식당 구성 복원·SaaS 간격 보완](docs/USABILITY_15.md) · [검사 기록](reports/usability-15/README.md)
+
+**[GitHub Pages에서 최신 4종 비교 보기](https://starzzangna.github.io/korean-ui-benchmark/?v=usability-15)**
 
 같은 데이터와 기능으로 작성한 **no skill / A / B / 자체 스킬**의7개 카테고리, 총28개 새 시안을 비교합니다.4군·2군 보기, PC/모바일 폭, 함께 이동과 동시 스크롤을 지원하며 각 화면의 검색·선택·모달 확대·신청을 직접 조작할 수 있습니다.
 

@@ -1,0 +1,24 @@
+{
+  "files": [
+    {
+      "path": "results/renewal/none/saas/index.html",
+      "sha256": "8488f9e749c34fb6922bdd8c39562b7cbacdbc89af1e0207da9ca1371d8c8175"
+    },
+    {
+      "path": "results/renewal/a/saas/index.html",
+      "sha256": "dfd1b673ac698dd42723ab488948b88dbf84536898f2d07cad366c584cfbf36a"
+    },
+    {
+      "path": "results/renewal/b/saas/index.html",
+      "sha256": "947a93ed823e84e44845b4a6d915569b2a94831bc0935eee89b372e7679771d0"
+    },
+    {
+      "path": "results/renewal/own/saas/index.html",
+      "sha256": "1b0a11aef19a14fb0694b9346c87dcef8e006f5ecffc16d56eefab6a16bfa320"
+    },
+    {
+      "path": "results/renewal/own/restaurant/index.html",
+      "sha256": "85dd0912fd30d49b002ff7015911dbb0b6bdf40aa1fcd2841aea8f2b586765b9"
+    }
+  ]
+}
