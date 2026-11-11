@@ -1,8 +1,8 @@
 import fs from'node:fs';import path from'node:path';import assert from'node:assert/strict';import{createHash}from'node:crypto';const root=path.resolve(import.meta.dirname,'..'),read=p=>JSON.parse(fs.readFileSync(path.join(root,p))),hash=p=>createHash('sha256').update(fs.readFileSync(path.join(root,p))).digest('hex'),out=path.join(root,'reports/renewal-14');
-const suites=[['browser-checks',read('reports/renewal-14/browser-checks.json'),401],['selection-checks',read('reports/renewal-14/selection-checks.json'),248],['design-checks',read('artifacts/renewal-14/design-checks.json'),143],['motion-checks',read('artifacts/renewal-14/motion-checks.json'),12]],saas=read('reports/renewal-14/saas-checks.json'),repeat=read('reports/renewal-14/saas-browser-checks.json');for(const[name,r,n]of suites){assert.equal(r.total,n);assert.equal(r.failed,0);assert.equal(r.passed,n);fs.writeFileSync(path.join(out,name+'.json'),JSON.stringify(r,null,2));}assert.equal(saas.passed,true);assert.equal(saas.total,8);assert.equal(repeat.failed,0);
+const suites=[['browser-checks',read('reports/renewal-14/browser-checks.json'),401],['selection-checks',read('reports/renewal-14/selection-checks.json'),248],['design-checks',read('artifacts/renewal-14/design-checks.json'),145],['motion-checks',read('artifacts/renewal-14/motion-checks.json'),12]],saas=read('reports/renewal-14/saas-checks.json'),repeat=read('reports/renewal-14/saas-browser-checks.json');for(const[name,r,n]of suites){assert.equal(r.total,n);assert.equal(r.failed,0);assert.equal(r.passed,n);fs.writeFileSync(path.join(out,name+'.json'),JSON.stringify(r,null,2));}assert.equal(saas.passed,true);assert.equal(saas.total,8);assert.equal(repeat.failed,0);
 const baseline=read('reports/renewal-14/baseline.json');for(const f of baseline.files)assert.equal(hash(f.path),f.sha256,f.path);for(const stage of['clarity-13','compact-12','craft-11','expression-10','relevance-9','editorial-8','polish-7','flow-6','purpose-5','atmosphere-4','refined-3'])for(const f of read(`reports/${stage}/baseline.json`).files)assert.equal(hash(f.path==='index.html'?'archive/pre-renewal-14/index.source.html':f.path),f.sha256,f.path);
 const data=read('shared/data.json');for(const g of['none','a','b','own'])for(const[t,d]of Object.entries(data)){const file=`results/renewal/${g}/${t}/index.html`,html=fs.readFileSync(path.join(root,file),'utf8');assert.deepEqual(JSON.parse(html.match(/<script type="application\/json" id="site-data">([\s\S]*?)<\/script>/)[1]),d);assert.notEqual(hash(file),hash(`results/${g}/${t}/index.html`));}
-const summary={passed:true,sites:28,categories:7,groups:4,totalChecks:812,additionalFinalSaasBrowserChecks:53,preservedFiles:baseline.files.length,dataEqual:true,sameAuthor:true,independentGeneration:false};fs.writeFileSync(path.join(out,'summary.json'),JSON.stringify(summary,null,2));
+const summary={passed:true,sites:28,categories:7,groups:4,totalChecks:814,additionalFinalSaasBrowserChecks:53,preservedFiles:baseline.files.length,dataEqual:true,sameAuthor:true,independentGeneration:false};fs.writeFileSync(path.join(out,'summary.json'),JSON.stringify(summary,null,2));
 fs.writeFileSync(path.join(out,'README.md'),`# 새4종 검증
 
 [비교 화면](../../index.html) · [제작 범위](../../docs/RENEWAL_14.md) · [요약](summary.json)
@@ -11,10 +11,10 @@ fs.writeFileSync(path.join(out,'README.md'),`# 새4종 검증
 |---|---|
 | 기능·실행 오류·모바일·두200% 확대·터치/키보드 |401/401|
 | 필수 선택값·금액·제출 연결 |248/248|
-| 5개 폭·이미지·컨트롤 높이·읽기 위치·동시 스크롤 |143/143|
+| 5개 폭·이미지·컨트롤 높이·읽기 위치·동시 스크롤 |145/145|
 | B/자체 구간 진입·모션 감소 |12/12|
 | SaaS 집계·카드/메뉴·상태 변경·모바일 탐색 |8/8|
-| 합계 |812/812|
+| 합계 |814/814|
 | 검색 비율 변경 후 SaaS 브라우저 재검증 |53/53 (합계와 별도)|
 | 이전 파일 보존 |${baseline.files.length}개 SHA-256 일치|
 

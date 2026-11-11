@@ -1,6 +1,6 @@
 {
-  "total": 143,
-  "passed": 143,
+  "total": 145,
+  "passed": 145,
   "failed": 0,
   "checks": [
     {
@@ -1809,10 +1809,10 @@
       "passed": true,
       "evidence": {
         "rows": [
-          17.046875,
-          17.046875,
-          17.046875,
-          17.046875
+          16.6875,
+          16.6875,
+          16.6875,
+          16.6875
         ],
         "reasonSync": true
       }
@@ -1823,12 +1823,32 @@
       "passed": true,
       "evidence": {
         "rows": [
-          474.015625,
-          474.015625,
-          474.015625,
-          474.015625
+          443.109375,
+          443.109375,
+          443.109375,
+          443.109375
         ],
         "reasonSync": true
+      }
+    },
+    {
+      "name": "PC 첫 화면의 서비스 작업대",
+      "width": 1440,
+      "height": 768,
+      "passed": true,
+      "evidence": {
+        "bottom": 759.71875,
+        "panelHeight": 475
+      }
+    },
+    {
+      "name": "PC 첫 화면의 서비스 작업대",
+      "width": 1280,
+      "height": 800,
+      "passed": true,
+      "evidence": {
+        "bottom": 759.71875,
+        "panelHeight": 475
       }
     },
     {

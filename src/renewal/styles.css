@@ -15,3 +15,6 @@ body[data-group=own]{--paper:#f6f7f4;--ink:#263d35;--muted:#5d7268;--accent:#355
 
 /* 업무 검색을 주축으로 두고 상태 필터는 필요한 너비로 제한한다. */
 .r14-workspace .toolbar{grid-template-columns:minmax(0,1fr) 180px}.r14-workspace .r14-section-head h2{font-size:24px}.notice-group .icon{margin-top:0}.r14-product{display:flex;flex-direction:column}.r14-product>.btn{margin-top:auto}@media(max-width:760px){.r14-workspace .toolbar{grid-template-columns:1fr}.r14-workspace .r14-section-head h2{font-size:22px}}
+
+/* 서비스 작업대의 제목이 결과 패널을 첫 화면 밖으로 밀어내지 않게 한다. */
+body[data-group=own][data-category=professional] #services>.r14-section-head{margin-bottom:16px}body[data-group=own][data-category=professional] #services>.r14-section-head h2{font-size:24px}

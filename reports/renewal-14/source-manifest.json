@@ -14,123 +14,123 @@
     },
     {
       "path": "src/renewal/styles.css",
-      "sha256": "28d0124d44808328b14a9937ff2c25e731c80f5da513e0a2a4e16a5517878802"
+      "sha256": "e6153bf6a6eccb8df6535f1a15ddd3fc80b306780f9bc2d21f040a8121fdb4e1"
     },
     {
       "path": "src/renewal/viewer.js",
-      "sha256": "ef0cc57352d2165a0f7026ed7366052c820cf31a51b3ccb6f907420b69d74a68"
+      "sha256": "9e64d815086d0b308afcefb909d728f694f9424eaa0f8078c7455f3bf5687591"
     },
     {
       "path": "results/renewal/a/brand/index.html",
-      "sha256": "8d590cbeef82260e26e09112d6b5e1c7a05d9b38fc6950b85e55efdf63426691"
+      "sha256": "699f5335182a6846203aa4f23a4d2a95eb77099863475132654f0ce254fd3606"
     },
     {
       "path": "results/renewal/a/event/index.html",
-      "sha256": "9c9a654fdeff68ecb39c2b3214d8e1171294b522eec68de9f7c427178bfdf38e"
+      "sha256": "77ecea4d753c9c87842177e2fc32e51c63491125f6e3803a25b49419398debcc"
     },
     {
       "path": "results/renewal/a/local/index.html",
-      "sha256": "9c75f69985878a413e7825737640844f429899eac3dee51ee731a638aba81a98"
+      "sha256": "6da888e326f090a71f8cbd7a251acbe46cde8aa01fe8284a09c6975401656be9"
     },
     {
       "path": "results/renewal/a/portfolio/index.html",
-      "sha256": "9a1e58dd13bfe4107965efe75922589544c2236007926fcd5c3ef9df25e713a3"
+      "sha256": "5f305cda33e7752903e54019167210b695feaf4feab99220eff8abeaf823778e"
     },
     {
       "path": "results/renewal/a/professional/index.html",
-      "sha256": "f22c92ff5ea5589384b60287df7b085fe4d099134df34bdf6148e1e967eaf471"
+      "sha256": "128a85276b13927a368d723eaeb5ddf4bbf77a057f55fdbc8018c88771b2c176"
     },
     {
       "path": "results/renewal/a/restaurant/index.html",
-      "sha256": "f34d6024a042b59674ebff38dae9ba3c1ad7e7df4bf851cbf41cb4cdcdc8d685"
+      "sha256": "062a4e40fe6b90bce8f7da9c513764207493908125787a8484be2318b543e9bf"
     },
     {
       "path": "results/renewal/a/saas/index.html",
-      "sha256": "ce0e040ad1378c4dd3773423e9481fec93c38cf34786122c627146d04e2cc5f9"
+      "sha256": "dfd1b673ac698dd42723ab488948b88dbf84536898f2d07cad366c584cfbf36a"
     },
     {
       "path": "results/renewal/b/brand/index.html",
-      "sha256": "f897ad6171302fc63c7e2514fbc519cb876dabafbba5dcfcc76bd8a3638f05b6"
+      "sha256": "c9c0558add4cb6499f815737ce33c4db516118477cbc75b633fdc3fb620d2f25"
     },
     {
       "path": "results/renewal/b/event/index.html",
-      "sha256": "100be1cefa06471bf4de779490c33ea3d9f66f1931ac3354366ad25e25c112e0"
+      "sha256": "29a1bd3ac5b3dfb079d008b192e1f84ffe82b6ab2194479f94ddf5a459e8ee84"
     },
     {
       "path": "results/renewal/b/local/index.html",
-      "sha256": "9823c64544ccb7f209cf378c7b385fedfbf2e2c991d1f09f3cfa96a1f7cde3c9"
+      "sha256": "5882f7a4ab8665b8518c8087190221e186e4b9cd696e5dc070805e062e2ef1bf"
     },
     {
       "path": "results/renewal/b/portfolio/index.html",
-      "sha256": "36bd1536d28086fc4077b86d356d033de5537f0e3fd9f384197cac2aba54d678"
+      "sha256": "acea90cda838fd0b4406d3dec66ee2774a5883763be7d4aaec0b832afc542132"
     },
     {
       "path": "results/renewal/b/professional/index.html",
-      "sha256": "f8642ae045a83fad90aa125b6c48250fe022516e295de6925c25c79d8757c6c5"
+      "sha256": "58796adf4af5447ae968df64beae49327a0a1df447d403961e05ee0a91e25492"
     },
     {
       "path": "results/renewal/b/restaurant/index.html",
-      "sha256": "98b4534f1042e7c5b3198636c2f821323cf761f66e469299c81c9f014504cf26"
+      "sha256": "543a2c7d54cfc641e5e55811f6e674252d38993c232b91e538d7cbe586d76a41"
     },
     {
       "path": "results/renewal/b/saas/index.html",
-      "sha256": "ac327e9a4deda9b7f2af722dfbcaa5e5f7d037cc7ada96e095012ff721ca75e1"
+      "sha256": "947a93ed823e84e44845b4a6d915569b2a94831bc0935eee89b372e7679771d0"
     },
     {
       "path": "results/renewal/none/brand/index.html",
-      "sha256": "6284c277ff11bcf5dad46251aad319e049067785a1be9dbe8c1bbd0afd262499"
+      "sha256": "fc1070cb30d3e7d33bd00b014a81d65feb16c532d6f591d4a04a00c806a2af77"
     },
     {
       "path": "results/renewal/none/event/index.html",
-      "sha256": "80597a438f56622ad22e9f3e3c05ab3f075d2367e3aadbc73c3fd7886224e7c8"
+      "sha256": "842a4bfc69010c154b2b4c1f1fa0bdb524eaa7bf5ccf402fcacd40b0771bf21e"
     },
     {
       "path": "results/renewal/none/local/index.html",
-      "sha256": "1ac297d113a8cc365aae12a33cf7dfc1e2276710862cdf2f9b4bc24124ac710c"
+      "sha256": "cf1ced75a1d4606b8a9a96a7dfdb45f0d0a2be30d1af394239638c5c29157794"
     },
     {
       "path": "results/renewal/none/portfolio/index.html",
-      "sha256": "5cf0b668a131c9c3bc6379e5885859f35cc8db49034f778c7abfb05c094bf235"
+      "sha256": "22c764cbae6dc2a34d9918d6934425f3d517fb1c6595ae235ab2293bc251eced"
     },
     {
       "path": "results/renewal/none/professional/index.html",
-      "sha256": "020234dac8481d8773f8262827a6fbd0ca38a82e342b02438353b79d1d607d47"
+      "sha256": "2d9095829dc9c9c297113ee1c21f782b7d5bb29292994d63a03610567c327670"
     },
     {
       "path": "results/renewal/none/restaurant/index.html",
-      "sha256": "ccd7a087b63410b60d3fdaf4ca0162cbcffb13697cd61ec738e3a26a8b2541b0"
+      "sha256": "59dc7cfa361bb4c66f83f579000b072b8a65bfa57bc39f14668344817a7ce036"
     },
     {
       "path": "results/renewal/none/saas/index.html",
-      "sha256": "65ccc685f5c5583d23ac66caddb455115a4a02da2fae2d949ca862c49ccc13c4"
+      "sha256": "8488f9e749c34fb6922bdd8c39562b7cbacdbc89af1e0207da9ca1371d8c8175"
     },
     {
       "path": "results/renewal/own/brand/index.html",
-      "sha256": "2500aeaf7280b906e615c357349fcdc5b624330408d09866498908ca7e7720c4"
+      "sha256": "8a8285ed7bb5bb6227f45a1b4f95059ed54002117d4a2d85b1e9f467af8206a8"
     },
     {
       "path": "results/renewal/own/event/index.html",
-      "sha256": "ff1d76e4b30b3009dbbd21ae0138f665479b5c7d113c5d484603655413e55c0d"
+      "sha256": "089a0c25ccc60a024c5f40c95372336be9c113e30a6b01431dc32219628ab2e1"
     },
     {
       "path": "results/renewal/own/local/index.html",
-      "sha256": "db3ea5f850b84289e1abca8c0280cb367dd7f869255f49ba2ba783dfd0e9c84e"
+      "sha256": "88f8e0aff2ad1935c1b9c4feb276bd6f915abbca7b5e1a89bf14c040f660c8f3"
     },
     {
       "path": "results/renewal/own/portfolio/index.html",
-      "sha256": "b7911fb950af96cf1f36e8c532ec028f3cbd5e1bea44a70f9bd9a998fcba6f32"
+      "sha256": "217c7b6c58a3bc2884ab44e741428dd40831aa9a133554ad79410fb684d07e88"
     },
     {
       "path": "results/renewal/own/professional/index.html",
-      "sha256": "099ff4648f7788cc5cb2f96f51be231ec68a60f6866cfa7086b1eb7b4372c808"
+      "sha256": "78f2334fc11b27183033f61260e1d484a6cd7a3cc92ba7893caf481000a4cb21"
     },
     {
       "path": "results/renewal/own/restaurant/index.html",
-      "sha256": "c85ab62de29640f45a36da68c92a4e9f92435778bbf6d44cc1d665c0904b26d9"
+      "sha256": "85dd0912fd30d49b002ff7015911dbb0b6bdf40aa1fcd2841aea8f2b586765b9"
     },
     {
       "path": "results/renewal/own/saas/index.html",
-      "sha256": "3940a9a075da0e3c4a6e443930b6d80caf50531a7664409b81fc69603fa40575"
+      "sha256": "1b0a11aef19a14fb0694b9346c87dcef8e006f5ecffc16d56eefab6a16bfa320"
     },
     {
       "path": "skills/korean-ui-design/assets/alignment.html",
